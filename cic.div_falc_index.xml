@@ -1,0 +1,459 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
+<!ENTITY % TEI.XML "INCLUDE">
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
+%PersProse;
+]>
+<TEI.2>
+<teiHeader type="text" status="new">
+<fileDesc>
+<titleStmt>
+	<title>De Divinatione index</title>
+<title type="sub">Machine readable text</title>
+	<author n="Cic.">M. Tullius Cicero</author>
+<editor role="editor" n="Falconer">William Armistead Falconer</editor>
+&responsibility;
+&fund.AnnCPB;
+</titleStmt>
+<extent>About 100Kb</extent>
+&Perseus.publish;
+<sourceDesc>
+<biblStruct>
+<monogr>
+<author>Cicero: De Senectute De Amicitia De Divinatione</author>
+<title>With An English Translation</title>
+    <editor role="editor" n="Falconer">William Armistead Falconer</editor>
+<imprint>
+<pubPlace>Cambridge</pubPlace>
+<publisher>Harvard University Press; Cambridge, Mass., London, England</publisher>
+<date>1923</date>
+</imprint>
+</monogr>
+</biblStruct>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<refsDecl doctype="TEI.2">
+<state unit="entry"/>
+</refsDecl>
+</encodingDesc>
+
+<profileDesc>
+<langUsage>
+<language id="en">English</language>
+<language id="greek">Greek</language>
+<language id="la">Latin</language>
+</langUsage>
+</profileDesc>
+<revisionDesc>
+<change><date>2006</date>
+<respStmt><name>GRC</name><resp>tagging</resp></respStmt>
+<item></item>
+</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<pb id="p.554"/>
+
+<head>Index to the <title>De Divinatione</title></head>
+
+<p><hi rend="italics">Note.</hi>&mdash;The references are to the volume and section.</p>
+
+<p><hi rend="italics">Academics,</hi> of Cicero, mentioned, ii. 1.</p>
+<p>Academy, New, custom of, in disputation, i. 7; ii. 150.</p>
+<p>Academy, Old, approved divination, i. 5.</p>
+<p>Accius, Lucius, his <hi rend="italics">Brutus</hi> quoted, i. 44.</p>
+<p>Achilles (Grecian hero in Homer's <hi rend="italics">Iliad),</hi> death of, foretold, i. 65.</p>
+<p>Aesculapius, god of medicine, does not prescribe for the sick in dreams, ii. 123.</p>
+<p>Aesopus, a famous tragic actor, friend of Cicero, i. 80.</p>
+<p>Agamemnon, leader of the Greeks in Trojan War, i. 29: ii. 63.</p>
+<p>Agathocles, historian, refers to Hamilcar, i. 50.</p>
+<p>Aius Loquens, Roman god, i. 101; ii. 69.</p>
+<p>Alban Lake (a small lake in Italy, between Bovillae and Alba Longa. The ditch which the Romans dug to drain it during the siege of Veii still exists), i. 100; ii. 69.</p>
+<p>Alexander the Great (king of Macedon, b. 356 B.C., d. at Babylon 323), death of, prophesied, i. 47; dream of, ii. 135.</p>
+<p>Alexander of Pherae, tyrant, death of, foretold in a dream, i. 53.</p>
+<p><hi rend="italics">Alites,</hi> i. 120.</p>
+<p>Amphiaraus (Homeric seer and hero, who took part in the War of the Seven against Thebes, and in the voyage of the Argonauts), mentioned, i. 88.</p>
+<p>Amphilochus (a celebrated seer, son of Amphiaraus; fought in the Trojan War; killed by Mopsus), mentioned, i. 88.</p>
+<p>Amphio (son of Zeus, brother of Zethus; by his magical
+
+<pb id="p.555"/>
+
+playing on the lyre caused the stones to move and form the walls of Thebes), mentioned as a character in a play by Pacuvius, ii. 133.</p>
+<p>Ampsanctus (a small lake in Samnium, the reputed entrance to Hades), i. 79.</p>
+<p>Anaxagoras (a Greek philosopher, b. about 500 B.C., a friend of Pericles), mentioned, ii. 58.</p>
+<p>Anaximander (a Greek natural philosopher of Miletus, inventor of the sun-dial, b. 611 B.C.), i. 112.</p>
+<p>Anchialus, great astronomer, ii. 88.</p>
+<p>Antipater (flourished about 144 B.C. at Tarsus; succeeded Diogenes of Babylon as head of the Stoic School), wrote two books on divination, i. 6; makes a compilation of dreams, i. 39; ii. 144; syllogism of, i. 82; ii. 101.</p>
+<p>Antipho, an Athenian, author of a work on the interpretation of dreams, i. 39, 116; ii. 144.</p>
+<p>Apollo (or Phoebus, god of light), oracles of, i. 37, 96; ii. 115.</p>
+<p>Appius; P. Appius Claudius (consul 249 B.C.; lost a fleet in First Punic War), disobeyed the auspices, i. 29; ii. 71.</p>
+<p>Appius Claudius, augur, colleague of Cicero, i. 29, 132; ii. 75.</p>
+<p>Apulia, earthquake in, i. 97.</p>
+<p>Arabia, augury cultivated in, i. 94.</p>
+<p>Aristolochia, remedy for snake-bites, i. 16.</p>
+<p>Aristotle (b. in Thrace, 384 B.C., d. 322, founder of the Lyceum and the Peripatetic school and one of the world's greatest philosophers), authority for dream of Eudemus, i. 53; believed in divination of ecstasy, i. 81; says that dreams are affected by waking thoughts and actions, ii. 128.</p>
+<p>Arretium (in Etruria, modern Arezzo, where Flaminius lost a battle with Hannibal), i. 77.</p>
+<p>Assyrians, as astrologers, i. 2.</p>
+<p>Astrology, discussed, i. 2. 91; ii. 88&ndash;99.</p>
+<p>Astyages (last king of Media, B.C. 594&ndash;559; deposed by his grandson, Cyrus), solar eclipse predicted in his reign by Thales, i. 112.</p>
+<p>Ateius, Gaius Capito, contemporary of Cicero, degraded by Appius, i. 29.</p>
+<p>Atellan verses (farces or satires), ii. 25 <hi rend="italics">n.</hi></p>
+<p>Atina, plain of, where Cicero had the vision of Marius, i. 59; ii 137.</p>
+
+<pb id="p.556"/>
+
+<p>Atratus, river, flowed with blood, i. 98; ii. 58.</p>
+<p>Attius, Roman poet, see Accius.</p>
+<p>Attus Navius, celebrated Roman augur in the time of Tarquinius Priscus, cuts the grindstone in two with a razor, i. 31; ii. 80.</p>
+<p>Augur's staff, described, i. 30.</p>
+<p>Augury, defended, i. 30&ndash;33, attacked, ii. 70 <hi rend="italics">et seq.</hi></p>
+<p>Aurora borealis, sign of disaster, i. 18.</p>
+<p>Auspices, defended, i. 25&ndash;30; expedient to preserve, ii. 28; divination by, attacked, ii. 28 <hi rend="italics">et seq.;</hi> ritual in taking, ii. 71, 72.</p>
+<p><hi rend="italics">Auspicia ex acuminibus,</hi> ii. 77.</p>
+<p>Aventine, mountain, struck by lightning, i. 98; Romulus offers sacrifices on, i. 107.</p>
+<p>Babylonians, have kept records of horoscopes 470,000 years, i. 36; this denied, ii. 97; astrologers, because of environment, i. 93.</p>
+<p>Bacis, a prophet of Boeotia, i. 34.</p>
+<p>Beans, Pythagoras prohibited eating of, i. 62; ii. 119.</p>
+<p>Boeotia, augurs of, predict victory of Thebans, i. 74, 75.</p>
+<p>Bo&euml;thus, a Stoic philosopher, explains natural phenomena, i. 13.</p>
+<p>Brennus (a Gallic chieftain who invaded Greece and died at Delphi, 278 B.C.), legend of, i. 81.</p>
+<p><hi rend="italics">Brutus,</hi> Cicero's book, referred to, ii. 4.</p>
+<p>Brutus, Tarquin's dream of, i. 44.</p>
+<p>Caecilia (daughter of Q. Caecilius Metellus Baliaricus, who as consul in 123 B.C. subdued the Balearic Isles), her dream referred to, i. 4, 99; ii. 136.</p>
+<p>Caelius, see Coelius.</p>
+<p>Caesar, C. Iulius (dictator, b. 100 B.C., d. March 15, 44), sees unfavourable auspice of bull without a heart, i. 119; ii. 36, 37; his assassination in the Senate, ii. 23; prophecy that he would die in old age, ii. 99; disregards auspices and crosses to Africa, ii. 52; Sibylline prophecy as to, ii. 110.</p>
+<p>Calchas, soothsayer of the Greeks in the Trojan War, i. 87; prophesies length of Trojan War, i. 72; Cicero's verses on, ii. 63.</p>
+<p>Callanus (an Indian philosopher, friend of Alexander the
+
+<pb id="p.557"/>
+
+Great; when 83 was taken ill, ascended funeral pyre, and was burned to death), i. 47, 65.</p>
+<p>Callisthenes (a famous Greek historian, b. about 360 B.C., d. 328, pupil of Aristotle and friend of Alexander the Great), i. 74.</p>
+<p>Canicula, Dog-star, effect of, on health, i. 130.</p>
+<p>Cannae (a village in Apulia, Italy, where Hannibal won a victory over the Romans 216 B.C.), battle of, referred to, ii. 97.</p>
+<p>Capua, sweating of statue of Victory at, i. 98.</p>
+<p>Caria, divination in, from prodigies, i. 94.</p>
+<p>Carneades (b. about 213 B.C., d. 129: a philosopher of Cyrene, Africa; founder of the Third or New Academy; taught that there are no certain criteria of truth, but that probable appearances are a sufficient guide for human conduct), confutes the Stoics, i. 7; charged by Quintus with inconsistency, i. 62; his argument against divination generally, ii. 9; speaks of image of Pan, i. 23; ii. 48; speaks of the lots of Praeneste, ii. 87.</p>
+<p>Carthaginians, a people of N. Africa, mentioned, ii. 131.</p>
+<p>Cassander, Chaldean astronomer, rejected astrology, ii. 88.</p>
+<p>Cassandra (Trojan prophetess, daughter of Priam and Hecuba), dialogue with Hecuba, verses, i. 66, 67; referred to, i. 85, 114; ii. 112.</p>
+<p>Castor and Pollux (twin gods, the constellation Gemini), fought with Spartan fleet at Notium, i. 75; temple of, struck by lightning, i. 98.</p>
+<p><hi rend="italics">Cato Maior,</hi> mentioned, ii. 3.</p>
+<p>Cato, Marcus, Uticensis (great-grandson of Cato, the Censor, b. 93 B.C., d. 46; fought against Caesar in the Civil War; killed himself at Utica rather than submit; at Dyrrachium, i. 68; ii. 114; Cicero's laudation of, mentioned, ii. 3.</p>
+<p>Cato, the Censor, his joke about soothsayers, ii. 51.</p>
+<p>Caunus, a city of Caria; figs of, referred to, ii. 84.</p>
+<p>Ceos, Cia, or Cea (an island in the Aegean Sea), inhabitants of, prophesy by the appearance of the Dog-star, i. 130.</p>
+<p>Centaur, statue of, struck by lightning, i. 98.</p>
+<p>Chaldeans, given to astronomy and astrology, i. 2, 91; refuted by Marcus, ii. 88&ndash;99; false prophecies to Caesar and Pompey, ii. 99.</p>
+<p>Chian quarries, head of Pan found in, i. 23; ii. 48.</p>
+<p>Chrysippus (a noted Stoic philosopher of Soli in Cilicia
+
+<pb id="p.558"/>
+
+Campestris, b. 291 B.C., d. 208; author of 700 volumes of which 300 were on questions of logic), wrote on divination, oracles, and dreams, i. 6; collected many oracles, i. 37, 39; syllogism of, repeated, i. 82; confuted, ii. 101; his volume on oracles, unreliable, ii. 115; quoted against dreams, ii. 126; definition of divination, gives requisites of an interpreter of dreams, ii. 130; tells of the egg-dream, ii. 134; other dreams from his book, related, ii. 144.</p>
+<p>Cicero, Marcus Tullius (great Roman orator, lawyer, statesman and author; b. 106 B.C., d. 43), dreams of Marius, i. 59; ii. 137, 138, 140: seems to be dreaming when he sees magistrates in the forum, ii. 142; verses from <hi rend="italics">My Consulship,</hi> i. 17&ndash;22; verses from his <hi rend="italics">Marius,</hi> i. 106; <hi rend="italics">Prognostics,</hi> i. 13, 14; translation of speech of Ulysses, ii. 63.</p>
+<p>Cicero, Quintus, life of, Introduction, p. 215; dream of, i. 58; ii. 140.</p>
+<p>Cilicians, belief in divination, i. 2, 25; ii. 80.</p>
+<p>Claudius, see Appius.</p>
+<p>Cleanthes (a Stoic philosopher, born about 300 B.C., d. about 220 B.C.; a disciple of Zeno; only his <hi rend="italics">Hymn to Zeno</hi> is extant), amplifies the views of Zeno on divination, i. 6.</p>
+<p>Clutidae, family of, devoted to soothsaying, i. 91.</p>
+<p>Coelius, Lucius, Antipater (Roman historian, second century B.C.; wrote a history of Second Punic War), i. 48, 49, 55, 56, 78.</p>
+<p>Cometae, or Aurora borealis, signs of disaster, i. 18.</p>
+<p>Conjecture, in explaining dream of Quintus, i. 58; uncertainty of, ii. 55; from visions of drunk or crazy men, ii. 121.</p>
+<p><hi rend="italics">Consolation,</hi> Cicero's book, mentioned, ii. 3, 22.</p>
+<p>Coponius, Gaius, reports the sailor's dream, i. 68; ii. 114.</p>
+<p>Cornelius, Aulus, Cossus Arvina (consul 343 B.C.), i. 51.</p>
+<p>Cornelius Culleolus, augur or prophet, i. 4.</p>
+<p>Crassus, Marcus Licinius (noted for his riches; consul in 70 and 55, with Pompey; triumvir with Caesar and Pompey in 60; killed in Parthian War), disregarded auspices, i. 29; ii. 22; false prophecies made to, ii. 99;
+warned by vendor of figs, ii. 84.</p>
+<p>Cratippus (a Peripatetic philosopher, friend of Cicero and tutor of his son), believed in divination by dreams and frenzy, i. 5, 113; ii. 100; syllogism of, i. 71; ii. 101, 107.</p>
+
+<pb id="p.559"/>
+
+<p>Crito, friend of Socrates, i. 123.</p>
+<p>Croesus (king of Lydia 560&ndash;546 B.C.; noted for his wealth), consulted the Pythian Apollo, i. 37; son of, spoke in infancy, significance of, i. 121; response of oracles to, ii. 115.</p>
+<p>Cumae (a town in Campania), mentioned, i. 98.</p>
+<p>Cyrus the Elder (founder of the Persian kingdom, 558&ndash;529 B.C.), prophecy of magi as to, i. 46; dreams of, referred to, ii. 136.</p>
+<p>Cyrus, the Younger (immortalized by Xenophon, d. 401 B.C.), mentioned, i. 52, 122.</p>
+<p>Darius (last king of Persia, 336&ndash;331 B.C., conquered by Alexander), astrologers predicted his fate, i. 121.</p>
+<p>Decemvirs, had charge of Sibylline books, i. 4.</p>
+<p>Decius, Publius, Mus (tribune, 343 B.C.), dream of, i. 51.</p>
+<p><hi rend="italics">De finibus,</hi> mentioned, ii. 2.</p>
+<p>Deiotarus, King, friend of Cicero, his belief in divination, i. 26; ii. 20, 78; talks with Cicero on augury, ii. 76.</p>
+<p>Delium (in Boeotia, battle of, 424 B.C.), referred to, i. 123.</p>
+<p>Delphi (town in Phocis, Greece, site of oracle of Apollo), i. 75; ii. 116.</p>
+<p>Democritus (a celebrated Greek philosopher, b. about 460 B.C. at Abdera, in Thrace, d. about 361; founder of atomic theory), approved of divination, i. 5; says great poets are inspired, i. 80; approved of auspices, i. 131; called a joker by Cicero, ii. 30; his atomic theory as to dreams discussed, ii. 120.</p>
+<p>Demosthenes (the greatest Athenian orator, b. about 384 B.C., d. 322), learned by practice to pronounce letter <hi rend="italics">rho.</hi> ii. 96; said the Pythian oracle <quote>philippized,</quote> ii. 118.</p>
+<p><hi rend="italics">De natura deorum,</hi> mentioned, i. 3, 8, 117; ii. 3.</p>
+<p>Diana (goddess of light), her temple at Ephesus burned, i. 47</p>
+<p>Dicaearchus (a celebrated Peripatetic philosopher, geographer and historian, born at Messina, Sicily), a pupil of Aristotle, approved of divination by dreams and frenzy, i. 5, 113; ii. 100; said that it was best not to know the future, ii. 105.</p>
+<p>Dice, Venus throw of, i. 23; ii. 121.</p>
+<p>Dinon, wrote a history of Persia, i. 46.</p>
+<p>Diogenes of Babylon (a Stoic philosopher, successor to Zeno as head of Stoic school at Athens, contemporary of
+
+<pb id="p.560"/>
+
+Alexander the Great), wrote a book on divination, i. 6; argument of, to prove divination, i. 83; ii. 101, 102; refuted, ii. 103&ndash;106.</p>
+<p>Dionysius (b. 430 B.C., tyrant of Syracuse, 405&ndash;367), portent of his horse with bees in its mane, i. 73; his mother's dream, i. 39; ii. 136.</p>
+<p>Divination, defined by Cicero, i. 1; by Quintus, i. 9; by Chrysippus, ii. 130; divided into artificial and natural, i. 12, 34; ii. 26; artificial discussed, i. 72&ndash;92; ii. 27&ndash;99; natural, discussed i. 37&ndash;71; ii. 100 <hi rend="italics">et seq.</hi></p>
+<p>Divitiacus (an Aeduan noble and friend of Caesar in the Gallic War), a Druid; views of, i. 90.</p>
+<p>Dreams, discussed, i. 39&ndash;65; ii. 119&ndash;148.</p>
+<p>Druids, mentioned, i. 90.</p>
+<p>Dyrrachium (a town in Illyria), mentioned, i. 68.</p>
+<p>Ecstasy, see Furor.</p>
+<p>Elis (a country in western Greece), mentioned, i. 91.</p>
+<p>Ennius, Quintus (Roman poet, b. in Calabria, Italy, 239 B.C., d. 169; author of a Roman history in verse, <hi rend="italics">The Annals),</hi> quoted, i. 107, 132; ii. 104, 111, 115, 116, 127.</p>
+<p>Epicurus (a Greek philosopher, b. at Samos 342 B. C, , d. 270; founded the Epicurean school), denied divination, i. 5; called a blundering idiot, ii. 103; spoken of slightingly, ii. 116.</p>
+<p>Epimenides (a poet and prophet of Crete of sixth century B.C.; quoted by St. Paul, Titus i. 12), mentioned, i. 34.</p>
+<p>Etruria (a district in central Italy), soothsaying in, i. 3, 35, 92; ii. 50.</p>
+<p>Eudemus, a Greek philosopher, friend of Aristotle, dream of, i. 53.</p>
+<p>Eudoxus, of Cnidus, astronomer (lived about 366 B.C.), mentioned, ii. 87.</p>
+<p>Euphorion (Greek poet, b. at Calchis 276 B.C.; wrote very obscurely; author of <hi rend="italics">Miscellanies,</hi> a collection of Attic fables and stories), mentioned, ii. 133.</p>
+<p>Euphrates (a river of Asia), mentioned, ii. 22.</p>
+<p>Eurysthenes and Procles, kings of Sparta, ii. 90.</p>
+<p><hi rend="italics">Exta,</hi> divination by, advocated, i. 119; refuted, ii. 28&ndash;41.</p>
+<p>Fabius Pictor, Q. (Roman historian, b. about 254 B.C.), i. 55,</p>
+<p><hi rend="italics">Fate,</hi> Cicero's book on, ii. 3.</p>
+
+<pb id="p.561"/>
+
+<p>Fate, divination based on, i. 125&ndash;128; makes divination useless, ii. 19&ndash;26.</p>
+<p>Fauns (rural Roman gods), heard in battle, i. 101.</p>
+<p><hi rend="italics">Favere linguis,</hi> i. 102; ii. 83.</p>
+<p><hi rend="italics">Feriae Latinae,</hi> i. 18.</p>
+<p>Figulus, Gaius Marcus (consul, 162 B.C.), ii. 74.</p>
+<p>Flaccus, Lucius, priest of Mars, mentioned, i. 104.</p>
+<p>Flaminius, Gaius (consul 217 B.C.), i. 77; ii. 21, 67.</p>
+<p>Fortune, goddess of, at Praeneste, ii. 87; at Rome, ii. 85, 86.</p>
+<p><hi rend="italics">Furor,</hi> divination by, approved, i. 65&ndash;70, 80,81, 89, 111, 113&ndash;115; denied, ii. 101&ndash;118.</p>
+<p>Galeotae, a family of Sicilian diviners, i. 39.</p>
+<p>Gaul, earthquake in, i. 78; army of, under Brennus, destroyed by snow, i. 81.</p>
+<p>Gellius, Gnaeus (Roman historian, second century, B.C.), i. 55.</p>
+<p>Gracchus, Gaius (tribune of plebs 123 B.C.), dream of, i. 56.</p>
+<p>Gracchus, Tiberius (brother of G.), mentioned i. 56.</p>
+<p>Gracchus, Tiberius (tribune 187 B.C.; consul twice; censor 169; father of Tiberius and Gaius), vitiated the auspices, i. 33; snakes in his house, i. 36.</p>
+<p>Greeks, Romans excel, in many things, i. 1; consulted oracles, i. 3; call planets <quote>wandering stars,</quote> i. 17.</p>
+<p>Grindstone, Attus cuts in two, with a razor, i. 31.</p>
+<p>Gymnasium, Cicero's, at Tusculum, his <quote>Lyceum,</quote> i. 8; ii. 8.</p>
+<p>Halys (or Red River, largest in Asia Minor), Croesus and, ii. 115.</p>
+<p>Hamilcar (Carthaginian general; not the father of Hannibal; captured at Syracuse by the Sicilians under Agathocles, 309 B.C.); dream of, i. 50; ii. 136.</p>
+<p>Hammon or Ammon, the Lybian or Egyptian Jupiter, oracle of, i. 3, 95.</p>
+<p>Hannibal (the great Carthaginian general, b. 247 B.C.; defeated at Zama, 202, by Scipio, d. 183), dreams of the gold column, i. 48; dreams of the council of the gods, i. 49; reply of, to King Prusias about auspices, ii. 52.</p>
+<p>Haruspex, see Auspices.</p>
+<p><quote>Heap fallacy,</quote> ii. 11.</p>
+<p>Hector, Trojan hero, prophesies death of Achilles, i. 65.</p>
+
+<pb id="p.562"/>
+
+<p>Hecuba, dream of, i. 42; talks to Cassandra, i. 66.</p>
+<p>Helen, wife of Paris, referred to as Spartan fury, i. 114.</p>
+<p>Helenus, Trojan prophet, son of Priam, mentioned, i. 89.</p>
+<p>Heraclides (philosopher of Pontus, disciple of Plato), relates dream of mother of Phalaris, i. 46; tells of observance of Dog-star, i. 130.</p>
+<p>Heraclitus (philosopher, Ionian school, 6th century B.C.), ii. 133.</p>
+<p>Hercules, Index, temple of, mentioned, i. 54.</p>
+<p>Homer (the great epic poet, author of <hi rend="italics">Iliad</hi> and <hi rend="italics">Odyssey),</hi> reference in, to Calchas, i. 72; wrote clearly, ii. 133; speech of Ulysses, from, ii. 63.</p>
+<p><hi rend="italics">Hortensius,</hi> book by Cicero, mentioned, ii. 1.</p>
+<p>Iamidae, family of Greek prophets, i. 91.</p>
+<p>Indians, mentioned, ii. 96.</p>
+<p>Inspiration, see Furor.</p>
+<p>Julius, Lucius, Caesar (consul, 90 B.C.), mentioned, i. 4.</p>
+<p>Junius, Lucius (consul, 249 B.C.), i. 29.</p>
+<p>Juno (queen of gods), Sospita, i. 4, 99; Lacinia, i. 48; Moneta, i. 101; in lap of Fortune, ii. 85.</p>
+<p>Jupiter (king of gods), in Cicero's <hi rend="italics">My Consulship,</hi> i. 17&ndash;21: Stator, statue of, i. 77; infant in lap of Fortune, ii. 85.</p>
+<p>Labienus, defeated at Pharsalus, i. 68.</p>
+<p>Lacedaemonia, see Sparta.</p>
+<p>Laches, an Athenian general (killed at Mantinea, 418 B.C.), Socrates served under, i. 123.</p>
+<p>Lanuvium, town in Italy, mentioned, i. 79; shields at, gnawed by mice, i. 99; ii. 59.</p>
+<p>Lebadia, a town in Boeotia, site of oracle, i. 74.</p>
+<p>Leontini, a town and district of Sicily, mentioned, i. 73.</p>
+<p>Leuctra (town where Thebans under Epaminondas defeated the Spartans 371 B.C.), i. 74, 75.</p>
+<p><quote>Liar fallacy,</quote> ii. 11.</p>
+<p>Liguria, in Italy, earthquakes in, i. 78.</p>
+<p>Lots, see Sortes.</p>
+<p>Lyceum, school of Aristotle, i. 22.</p>
+<p>Lycians, in Asia Minor, respect augury, i. 25.</p>
+<p>Lycurgus (the lawgiver of Sparta), his belief in oracles, i. 96.</p>
+<p>Lydian soothsayer, i. 19.</p>
+
+<pb id="p.563"/>
+
+<p>Lysander (Spartan general and statesman, conquered Athens, 404 B.C.; d. 395 B.C.), mentioned, i. 96.</p>
+<p>Magi, Persian, mentioned, i. 46, 90, 91.</p>
+<p><hi rend="italics">Manteis,</hi> Greek equivalent of diviner, i. 95.</p>
+<p><hi rend="italics">Mantike,</hi> Greek equivalent of divination, i. 1.</p>
+<p>Marcellus, Gaius, augur, colleague of Cicero, ii. 75.</p>
+<p>Marcellus, Marcus, consul three times, mentioned, ii. 14.</p>
+<p>Marcian brothers, Roman prophets, i. 89.</p>
+<p>Marcius, Roman prophet, i. 115.</p>
+<p>Marius, Gaius (b. 157, d. 86 B.C.; seven times consul; saved Rome from the Cimbri and Teutons, 102&ndash;101 B.C.), Cicero's dream of, i. 59; ii. 137&ndash;138, 140; poem on, i. 106.</p>
+<p>Mars, god of war, father of Romulus and Remus, i. 20; the star, ii. 91.</p>
+<p>Marsian diviners, repudiated, i. 132.</p>
+<p>Marsic or Social War (90&ndash;89 B.C., a war of Italian tribes for the Roman franchise, won by Romans under Pompeius Strabo and Lucius Cato), portents of, i. 99.</p>
+<p>Megara (in Greece, formerly part of Attica), referred to, i. 57; ii. 135.</p>
+<p><hi rend="italics">Mentiens</hi> fallacy (<quote>liar fallacy</quote>), ii. 11.</p>
+<p>Mercury (god of gain), statue of, i. 46; the star, ii. 91.</p>
+<p>Mice, gnawing of, significance, i. 99; ii. 59.</p>
+<p>Midas (the Rich, king of Phrygia; all that he touched became gold) and the ants, prophecy as to, i. 78; ii. 66.</p>
+<p>Minerva (goddess of wisdom), referred to, ii. 123.</p>
+<p><hi rend="italics">Monstra,</hi> i. 93; ii. 87 <hi rend="italics">et seq.</hi></p>
+<p>Mopsus, Greek king and prophet, i. 88.</p>
+<p>Mule, foaling of, i. 36; ii. 61.</p>
+<p>Muse (Urania, muse of astronomy), speech of, i. 17&ndash;22.</p>
+<p>Natta, statue of, struck by lightning, i. 19; ii. 45.</p>
+<p>Necromancers, disapproved of, i. 132.</p>
+<p>Neptune (god of the sea), mentioned, ii. 123.</p>
+<p>Nola, a Samnite town in Italy, mentioned, i. 72; ii. 65</p>
+<p>Numerius, Fabius Pictor, see Fabius.</p>
+<p>Numerius Suffustius, a noble of Praeneste, ii. 85.</p>
+<p>Nuptial auspices, i. 28.</p>
+<p>Octavian War (Octavius and Sulla against Cinna and Marius, 87 B.C.), i. 4.</p>
+<p><hi rend="italics">Offa obiecta,</hi> i. 27; ii. 72.</p>
+
+<pb id="p.564"/>
+
+<p>Olympic games, referred to, ii. 144.</p>
+<p>Olympus (mountain in Macedonia, seat of the gods), i. 19.</p>
+<p>Omens, discussed, i. 103, 104; ii. 83, 84.</p>
+<p>Oracles, Greeks believed in, i. 3; at Delphi, defended, i. 37, 38; attacked, ii. 115&ndash;118.</p>
+<p><hi rend="italics">Orator,</hi> Cicero's book, mentioned, ii. 4.</p>
+<p><hi rend="italics">Oscines aves,</hi> i. 120.</p>
+<p><hi rend="italics">Ostenta,</hi> or Portents, defended, i. 72&ndash;78; rejected, ii. 49&ndash;69.</p>
+<p>Pacuvius, Marcus (greatest of the Roman tragic poets, b. about 220 B.C., d. 130), verses from, i. 24, 29, 131; ii. 133.</p>
+<p>Palatine (one of Rome's seven hills), mentioned, i. 101.</p>
+<p>Pamphylia, in Asia Minor, devoted to divination, i. 2, 25.</p>
+<p>Pan (rural Roman deity), image of, i. 23; ii. 48.</p>
+<p>Panaetius (Greek Stoic philosopher; born about 180 B.C.; friend of Scipio Minor and Laelius; died head of the Stoic school after 129), mentioned, i. 6; ii. 88, 97.</p>
+<p>Paris (Trojan hero, son of Priam); his mother's dream of, i. 42; Cassandra's prophecy of, i. 67; judgement of, i. 114.</p>
+<p>Pasipha&euml; (daughter of Helios, wife of Minos, mother of Ariadne, Minotaur, etc.), temple of, i. 96.</p>
+<p>Paulus, Aemilius (defeated Perses, king of Macedonia, 168 B.C.), omen of, i. 103.</p>
+<p>Pergamum (citadel of Troy), mentioned, i. 42.</p>
+<p>Peripatetics (so called because the founder of their school, Aristotle, <quote>walked about</quote> as he lectured), approved of divination, i. 5; belief in dreams and ecstasy, ii. 100.</p>
+<p>Persa, name of a dog, i. 103.</p>
+<p>Perses (king of Macedon, conquered by Paulus, 168 B.C.), i. 103.</p>
+<p>Persians, magi of, honoured by, i. 46, 90, 91; kings of, are magi, i. 90.</p>
+<p>Phalaris (tyrant of Sicily, 570&ndash;564 B.C., famous for the brazen bull in which he burned his victims), his mother's dream of, i. 46; ii. 136.</p>
+<p>Pharsalus (battle of, in Thessaly, where Caesar defeated Pompey, 48 B.C.), mentioned, i. 68; ii. 114.</p>
+<p>Phoenicians, see Carthaginians.</p>
+<p>Pherae, a town in Thessaly, mentioned, i. 53.</p>
+<p>Pherecydes (a Greek philosopher, lived about 600&ndash;550 B.C.; wrote on the origin of the gods and the world and on the transmigration of souls, teacher of Pythagoras), i. 112.
+
+</p>
+<pb id="p.565"/>
+<p>Philip (king of Macedon, b. 382, d. 336 B.C.), ii. 118.</p>
+<p>Philistus (b. about 435 B.C. in Syracuse, historian), i. 39, 73</p>
+<p>Phoebus, or Apollo, torch of, i. 18.</p>
+<p>Phrygians, belief in augury, i. 94; mentioned, ii. 80; ecstatic songs of, i. 114.</p>
+<p>Phthia, in Thessaly, home of Achilles, i. 52.</p>
+<p>Piety, temple of, struck by lightning, i. 98.</p>
+<p>Pisidians, their belief in divination, i. 2, 25, 94; ii. 80.</p>
+<p>Plato (founder of the Academy; disciple of Socrates; lived 429&ndash;347 B.C.; one of world's greatest philosophers), derives divination from frenzy, i. 1; his <hi rend="italics">Republic</hi> quoted, i. 60; mentioned, ii. 59; his <hi rend="italics">Phaedrus</hi> mentioned, i. 80; his views about dreams, i. 60; ii. 119.</p>
+<p>Plautus, T. Maccius (Rome's greatest comic poet, 254&ndash;184 B.C.), quoted, i. 65.</p>
+<p>Plutonia, a pestilential district in Asia Minor, i. 79.</p>
+<p>Polyidus, a prophet of Corinth, i. 89.</p>
+<p><hi rend="italics">Pomerium,</hi> referred to, i. 33; explained, i. 34 <hi rend="italics">n.</hi> 1.</p>
+<p>Pompeius, Gnaeus (the Great, b. 109, d. 48 B.C.), mentioned, ii. 22, 23, 99.</p>
+<p>Portents, approved, i. 72&ndash;78; rejected, ii. 49&ndash;69.</p>
+<p>Posidonius (a Stoic philosopher, b. in Syria about 135, d. 51 B.C., friend and teacher of Cicero), wrote on divination, i. 6; founds divination on God, Nature, and Fate, i. 125; mentioned, ii. 35.</p>
+<p>Postumius, Roman soothsayer, i. 72.</p>
+<p>Prerogative century, omen of, i. 103; ii. 74, 83.</p>
+<p>Priam (last king of Troy), i. 42, 66, 89.</p>
+<p>Priscus, see Tarquinius.</p>
+<p>Privernum, a town in Latium, Italy, i. 97.</p>
+<p>Procles and Eurysthenes, kings of Sparta, ii. 90.</p>
+<p><hi rend="italics">Prognostics</hi> of Cicero, quoted, i. 13, 14.</p>
+<p>Prusias (king of Bithynia, about 228&ndash;180 B.C.), Hannibal's reply to, ii. 52.</p>
+<p>Ptolemaeus, friend of Alexander the Great, cure of, ii. 135.</p>
+<p>Publicius, unknown diviner, i. 115; ii. 113.</p>
+<p><hi rend="italics">Pullarius,</hi> a poulterer, i. 77; ii. 72, 74.</p>
+<p>Pyrrhus (king of Epirus, 295&ndash;272), oracle about, ii. 116.</p>
+<p>Pythagoras (celebrated Greek philosopher, flourished 540&ndash;510 B.C.), an augur and defender of divination, i. 5; directions for dreaming, ii. 119; prohibited eating of beans, i. 62; ii. 119.</p>
+
+<pb id="p.566"/>
+<p>Pythian priestess, who uttered oracles of Apollo, i. 38, 79 ii. 117, 118.</p>
+<p><hi rend="italics">Quadrata,</hi> term used in astronomy, ii. 89.</p>
+<p>Remus (see Romulus), i. 107; ii. 80.</p>
+<p>Rhodian sailor, dream of, i. 68; ii. 114.</p>
+<p><hi rend="italics">Rogator comitiorum,</hi> i. 33; ii. 74.</p>
+<p>Rome, capture of, by the Gauls, predicted, i. 100; origin of name, i. 107; natal day calculated, ii. 98.</p>
+<p>Romulus, brother of Remus (founder of Rome, 753 B.C.), wins throne over Remus by augury, i. 107; he and Remus both augurs, ii. 80.</p>
+<p>Roscius, Quintus (celebrated Roman actor, friend of Cicero, d. 62 B.C.), prophecy of his greatness, i. 79; ii. 66.</p>
+<p>Rutilius, Publius (consul 90 B.C.), i. 4.</p>
+<p>Salii, priests of Mars, i. 30.</p>
+<p>Sallustius (friend and freedman of Cicero), i. 59.</p>
+<p>Samnites, Nola, a city of, mentioned, i. 72; ii. 65.</p>
+<p>Sarpedon (Lycian prince, son of Jupiter, an ally of the Trojans), ii. 25.</p>
+<p>Saturn, father of Jupiter, ii. 64; the star, ii. 91.</p>
+<p>Satyr, Dionysius' mother dreams of, i. 39.</p>
+<p>Scammony, as a purgative, i. 16.</p>
+<p>Scopas (a noted Greek sculptor, flourished 395&ndash;350 B.C.), i. 23.</p>
+<p>Scylax, astronomer and statesman of Halicarnassus, ii. 88.</p>
+<p>Serapis, Egyptian god of healing, ii. 123.</p>
+<p>Servius Tullius, sixth king of Rome, i. 121.</p>
+<p>Sibyl, inspired priestess, mentioned, i. 79; interpreters of books of, chosen, i. 4; prophecy of, as to Caesar being king, ii. 110; prophecies of, written in acrostics, ii. 111, 112.</p>
+<p><hi rend="italics">Silentium,</hi> in augury, ii. 71, 72.</p>
+<p>Silenus (historian of unknown date), i. 49.</p>
+<p>Simonides (Greek lyric poet, b. at Ceos 556 B.C.), dream of, i. 56; ii. 135.</p>
+<p>Sisenna, L. Cornelius (a Roman historian, d. 67? B.C.), i. 99.</p>
+<p>Socrates (great Greek philosopher, 469&ndash;399 B.C.), believed in divination, i. 5; his dream of his death, i. 52; his daimonion, i. 122&ndash;124; Cicero follows his method in disputing, ii. 150.</p>
+<p><hi rend="italics">Solistimum tripudium,</hi> i. 28, 77; ii. 20, 72, 77.</p>
+
+<pb id="p.567"/>
+
+<p>Solon (the Athenian lawgiver and poet, lived about 639&ndash;559), i. 111.</p>
+<p>Solonium (a plain in Italy), birthplace of Roscius, i. 79: ii. 66.</p>
+<p>Sophocles (Greek poet, 495&ndash;405 B.C.), dream of, i. 54.</p>
+<p>Soran augur, a term of contempt, i. 105.</p>
+<p><hi rend="italics">Sorites,</hi> or heap fallacy, ii. 11.</p>
+<p><hi rend="italics">Sortes,</hi> belong to artificial divination, i. 12: <hi rend="italics">aequatae, i.</hi> 34; argument for, i. 34; against, ii. 85&ndash;87; of Praeneste, ii. 85; as equivalent to oracles, ii. 115.</p>
+<p>Sow, pregnant, sacrifice of, i. 101.</p>
+<p>Stoics, disciples of Zeno, approve divination, i. 6; strongest defenders of divination, ii. 150.</p>
+<p>Sulla, Lucius (dictator at Rome 81&ndash;79 B.C., great warrior, statesman, and patron of letters), victory of, at Nola and the portent, i. 72; ii. 65.</p>
+<p>Summanus (Supreme God of the Night, as Jupiter was of the day), mentioned, i. 16.</p>
+<p>Syrians, mentioned, ii. 96.</p>
+<p><hi rend="italics">Tabernaculum vitio capere,</hi> i. 33.</p>
+<p>Tages, god, origin of, ii. 50.</p>
+<p>Tali, see Dice.</p>
+<p>Tarquinius Priscus (fifth king of Rome), i. 31.</p>
+<p>Tarquinius Superbus (seventh king of Rome), dream of, i. 43.</p>
+<p>Tarutius, Roman astronomer, friend of Cicero, ii. 98.</p>
+<p>Taygetus (a mountain in Sparta), i. 112.</p>
+<p>Tegeates (Greeks, fought on side of Spartans in Peloponnesian War), mentioned, i. 37.</p>
+<p>Telmessus (a city of Caria, Asia Minor), i. 91, 94.</p>
+<p>Thales (b. at Miletus about 636 B.C., one of the Seven Sages), cornered the olive market, i. 111.</p>
+<p>Thebes, city of Boeotia, i. 74.</p>
+<p>Theophrastus (Greek philosopher, favourite pupil of Aristotle; his successor as head of the Academy, d. 287 B.C.), writes on government, ii. 3.</p>
+<p>Tiber, head of Summanus falls into, i. 16.</p>
+<p>Tiresias (a blind Theban seer, one of the most famous in history), referred to, i. 88; ii. 9.</p>
+<p>Torquatus, L. Manlius (consul 65 B.C.), mentioned, i. 19.</p>
+<p>Trasimenus (a lake in Etruria, where Hannibal defeated Flaminius, 217 B.C.), i. 77 <hi rend="italics">n.</hi>; ii. 21.</p>
+
+<pb id="p.568"/>
+
+<p><hi rend="italics">Triangula,</hi> term in astronomy, ii. 89.</p>
+<p><hi rend="italics">Tripudium solistimum,</hi> i. 28, 77; ii. 20, 72, 77.</p>
+<p>Trocmori (a tribe in Galatia, Asia Minor), ruled by Deiotarus ii. 79.</p>
+<p>Troglodytes (cave-dwellers of Egypt, Ethiopia and Red Sea regions), mentioned, ii. 93.</p>
+<p><hi rend="italics">Tusculan Disputations,</hi> mentioned, ii. 2.</p>
+<p>Tusculum (a town 10 miles S.E. of Rome, where Cicero had a villa; scene of this dialogue), mentioned, i. 8, 98.</p>
+<p>Ulysses (Greek hero in Trojan War, erroneously called Agamemnon), ii. 63.</p>
+<p>Urania (muse of astronomy), speech of, i. 17&ndash;22.</p>
+<p>Valerius Corvus, Marcus (consul about 343 B.C.), i. 51.</p>
+<p>Varro, Marcus (b. 116, d. 28 B.C., the most learned Roman of Cicero's day), mentioned, i. 68; ii. 114.</p>
+<p>Veii (a city of Etruria taken by Camillus after a siege often years, 406&ndash;396 B.C.), i. 100; ii. 69.</p>
+<p>Venus (goddess of love), statue of, at Cos, i. 23; star, i. 85: ii. 91; throw at dice, i. 23; ii. 121.</p>
+<p>Vesta (goddess of the hearth), wood of, i. 101.</p>
+<p>Victory, goddess, sweating of statue of, i. 98.</p>
+<p>Virgins, white, their revenge on Brennus, i. 81.</p>
+<p><hi rend="italics">Vitium,</hi> a defect in the auguries, i. 29, 33.</p>
+<p>Xenophanes (of Colophon, in Asia Minor, a famous philosopher who flourished 540&ndash;500 B.C.), denied divination, i. 5.</p>
+<p>Xenophon (great Athenian historian, author of <hi rend="italics">Oeconomicus,</hi> <hi rend="italics">Cyropaedia, Anabasis,</hi> etc., who reported the teachings of Socrates; lived about 444&ndash;354 B.C.), praised and quoted, i. 52, 122.</p>
+<p>Zeno (b. in Cyprus; lived about 362&ndash;264 B.C.; founder of Stoic school), defended divination, i. 5; his opinion of the soul in sleep, ii. 119.</p>
+<p>Zodiac, the starry belt, i. 17; ii. 89.</p>
+</body>
+</text>
+</TEI.2>

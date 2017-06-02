@@ -1,0 +1,2185 @@
+<?xml version="1.0"?> 
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [ 
+<!ENTITY % TEI.XML "INCLUDE"> 
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" > 
+%PersProse; 
+]>
+<TEI.2>
+<teiHeader type="text" status="new">
+<fileDesc>
+<titleStmt>
+<title type="work" n="Inst.">Institutio Oratoria, books 10-12, index</title>
+<title type="sub">Machine readable text</title>
+<author n="Quint.">Quintilian</author>
+<editor role="editor" n="Butler">Harold Edgeworth Butler</editor>
+&responsibility;
+&fund.AnnCPB;
+</titleStmt>
+<extent>About 100Kb</extent>
+&Perseus.publish;
+<sourceDesc>
+<biblStruct>
+<monogr>
+<author>Quintilian</author>
+<title>With An English Translation</title>
+    <editor role="editor" n="Butler">Harold Edgeworth Butler</editor>
+<imprint>
+<pubPlace>Cambridge</pubPlace>
+<publisher>Cambridge, Mass., Harvard University Press; London, William Heinemann, Ltd.</publisher>
+<date>1922</date>
+</imprint>
+</monogr>
+</biblStruct>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<refsDecl doctype="TEI.2">
+<state unit="entry"/>
+</refsDecl>
+</encodingDesc>
+
+<profileDesc>
+<langUsage>
+<language id="en">English</language>
+<language id="greek">Greek</language>
+<language id="la">Latin</language>
+</langUsage>
+</profileDesc>
+<revisionDesc>
+<change><date>2006</date>
+<respStmt><name>GRC</name><resp>tagging</resp></respStmt>
+<item></item>
+</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+	<div1 type="chapter"><head>Index of names</head>
+
+<p>Academia, Academici, XII. i. 35; XII. ii. 23 and 25.</p>
+<p>Accius, I. vii. 14; I. viii. 11; V. x. 84; V. xiii. 43.</p>
+<p>Accusator Cossutiani Capitonis, VI. i. 14.</p>
+<p>Achilles, I. x. 30; II. xvii. 8; III. vii.11 <hi rend="italics">sqq.</hi>; III. viii. 53; VII. ii. 7; VII. ix. 8; VIII. iv. 24; X. i. 47 50, 65; XII. xi. 27.</p>
+<p>Acisculus, VI. iii. 53.</p>
+<p>Aegyptus, I. xii. 50; III. viii. 33.</p>
+<p>Aelius Catus, VIII. vi. 37.</p>
+<p>Aelius Stilo, X. i. 99.</p>
+<p>Aemilius Scaurus, V. xii. 10.</p>
+<p>Aenobarbus, VI. i. 50.</p>
+<p>Aeolis, I. iv. 16.</p>
+<p>Aeolus, VIII. iv. 18.</p>
+<p>Aerope, XI. iii. 73.</p>
+<p>Aeschines, II. xvii. 12; IV. iv. 5; X. i. 77; XI. iii. 7 and 168; XII. x. 19 and 23. <hi rend="italics">In Clesiph.,</hi> V. xiii. 42; VI. i. 20; VII. i. 2; X. i. 22 (&sect; 206) III. vi. 3.</p>
+<p>Aeschines Socraticus, V. xi. 27.</p>
+<p>Aeschylus, X. i. 66.</p>
+<p>Aesopus, fabulist, I. ix. 2; V. xi. 19, 20.</p>
+<p>Aesopus, tragic actor, XI. iii. 111.</p>
+<p>Aetoli, X. i. 49.</p>
+<p>Afer, see Domitius.</p>
+<p>Afranius, X. i. 100.</p>
+<p>Afri, XI. i. 80.</p>
+<p>Africa, III. viii. 17 and 33; VII. ii. 6; XI. i. 73.</p>
+<p>Africanus, V. xi. 13; XI. i. 12. See Iulius and Scipio.</p>
+<p>Agamemnon, III. vii. 12; III. xi. 5; IX. iii. 57; XI. i. 37.</p>
+<p>Agatharchus, XI. ii. 14.</p>
+<p>Aglaophon, XII. x. 3.</p>
+<p>Agnon, II. xvii. 15.</p>
+<p>Ahala, V. xiii. 24.</p>
+<p>Aiax, IV. ii. 13; V. x. 41; V. xi. 40; VII. ix. 2; VIII. iv. 24; XI. iii. 73; XII. xi. 27.</p>
+<p>Albinovanus, see Pedo.</p>
+<p>Albutius, II. xv. 36; III. ii. 4; III. vi. 62.</p>
+<p>Alcaeus, X. i. 63.</p>
+<p>Alcamenes, XII. x. 8.</p>
+<p>Alcibiades, VIII. iv. 23.</p>
+<p>Alcidamas Elaite, III. i. 10.</p>
+<p>Alexander, I. i. 23; II. xx. 3; III. viii. 16; V. x. 42 and 111; VIII. v. 24; XII. x. 6.</p>
+<p>Alexandrinus, I. ii. 7.</p>
+<p>Allobroges, XI. i. 89.</p>
+<p>Amphictyones, V. x. 111.</p>
+<p>Amphion, XII. x. 57.</p>
+<p>T. Ampins, III. viii. 50.</p>
+<p>Anaxagoras, XII. ii. 22</p>
+<p>Anaximenes, III iv 9</p>
+<p>Anchariana familia, IV. i. 74; VII. ii. 10; IX. ii. 56.</p>
+<p>Andocides, XII. x. 21.</p>
+<p>Andromache, VI. ii. 23.</p>
+<p>Andronicus, XI. iii. 7.</p>
+<p>Annalis, Sext., VI. iii. 58.</p>
+<p>Antigonus, II. xiii. 12.</p>
+<p>Antimachus, X. i. 53.</p>
+<p>Antipater of Sidon, X. vii. 19.</p>
+<p>Antiphilus, XII. x. 6.</p>
+<p>Antiphon, III. i. 11; XII. x. 22.</p>
+<p>C. Antonius, IX. iii. 94.</p>
+<p>M. Antonius, orator, II. xv. 7; II. xvii. 6; III. i. 19; III. vi. 45; VII. iii. 16; VIII. Pr. 13 <hi rend="italics">sq.</hi>; XI. iii. 8 and 171; XII. i. 21; XII. ix. 5.</p>
+<p>M. Antonius, triumvir, VII. iii. 18; VIII. iv. 25.</p>
+<p>Antonius Gnipho, I. vi. 23.</p>
+<p>Antonius Rufus, I. v. 43.</p>
+<p>Apelles, II. xiii. 12; XII. x. 6.</p>
+<p>Aper, XI. ii. 31.</p>
+<p>Apollas Callimachus, XI. ii. 14.</p>
+
+<pb id="p.518"/>
+
+<p>Apollo, III. vii. 8</p>
+<p>Apollodorus of Pergamum, II. xv. 12; III. i. 1, 17, 18; III. v. 17; III. vi. 35 <hi rend="italics">sqq.</hi>; III. xi. 3; IV. i. 50; IV. ii. 31; V. xiii. 59; VII. ii. 20; IX. i. 12; XI. ii. 14.</p>
+<p>Apollodorei, II. xi. 2; III. i. 18; IV. i. 50.</p>
+<p>Apollonia, III. i. 17.</p>
+<p>Apollonius Molon, rhetorician, III. i. 16; XII. vi. 7.</p>
+<p>Apollonius Rhodius, poet, X. i. 54.</p>
+<p>Apollonius of Drepanum, IX. ii. 52.</p>
+<p>Appius Caecus, II. xvi. 7; III. viii. 54; V. xiii. 35; XI. i. 39; XII. ix. 9; XII. x. 61.</p>
+<p>M'Aquilius, II. xv. 7.</p>
+<p>Aratus, X. i. 46 and 55 (<hi rend="italics">Phaenom.</hi> (1), X. i. 46.</p>
+<p>Archedemus, III. vi. 31 and 33.</p>
+<p>Archias, X. vii. 19.</p>
+<p>Archilochus, X. i. 59.</p>
+<p>Archytas, I. x. 17.</p>
+<p>Areopagitae, V. ix. 13.</p>
+<p>Areus, II. xv. 36; III. i. 16.</p>
+<p>Aristarchus, I. iv. 20; X. i. 54 and 59.</p>
+<p>Aristippus, XII. ii. 24.</p>
+<p>Aristogeiton, XII. x. 22.</p>
+<p>Ariston, II. xv. 19.</p>
+<p>Aristophanes, grammarian, I. i. 15; X. i. 54.</p>
+<p>Aristophanes, poet, I. x. 18; X. i. 65; XII. x. 65.</p>
+<p>Aristophon, V. xii. 10.</p>
+<p>Aristoteles, I. i. 23; I. iv. 18; II. xv. 10; II. xxi. 23; III. i. 13 and 14; III. iv. 1; III. vi. 23, 49, 60; III. vii. 1; X. i. 83; XII. x. 52; XII. xi. 22; <foreign lang="greek">peri\ e(rm.</foreign> (2), I. vi. 28; <hi rend="italics">Gryllus,</hi> II. xvii. 14; <hi rend="italics">Rhet.,</hi> II. xvii. 14; III. i. 14; V. x. 17; (i. 2) II. xv. 13 and 16; II. xvii. 14; V. i. 1; V. xii. 9; (i. 3) II. xxi. 23; (i. 9) III. vii. 23 and 25; (i. 13) III. vi. 49; (ii. 1 <hi rend="italics">sqq.</hi>) V. x. 17; (ii. 23) V. x. 78; V. xii. 10; (ii. 26) III. ix. 5; (iii. 2) VIII. iii. 6; (iii. 7) VIII. iii. 37; (iii. 8) IX. iv. 87 <hi rend="italics">sqq.</hi>; (iii. 12) III. viii. 63; (iii. 13) III. ix. 5; XII. x. 52; (iii. 14) III. viii. 8; IV. i. 72; (iii. 16) IV. ii. 32; <hi rend="italics">Soph. El.</hi> (i. 4), VII. ix. 8.</p>
+<p>Aristoxenus, I. x. 22.</p>
+<p>Arruntius, III. xi. 14.</p>
+<p>C. Artorius Proculus, IX. i. 2.</p>
+<p>Asconius, see Pedianus.</p>
+<p>Asia, XI. ii. 50; XII. vi. 7; XII. x. 16.</p>
+<p>Asiani, VIII. Pr. 17; IX. iv. 103; XII. x. 1, 12, 16 <hi rend="italics">sqq.</hi></p>
+<p>Asinius Pollio, I. v. 8; I. vi. 42; I. viii. 11; IV. i. 11; VI. i. 21; VI. iii. 110; VII. ii. 5 and 26; VIII. i. 3; VIII. iii. 32; IX. ii. 9 and 24; IX. iii. 13 and 34; IX. iv. 76 and 132 (fragm.); X. i. 22, 24, 113; X. ii. 17 and 25; XII. i. 22; XII. vi. 1; XII. x. 11; XII. xi. 28.</p>
+<p>Aspasia, V. xi. 27.</p>
+<p>Asprenas, X. i. 22; XI. i 57.</p>
+<p>Atalanta, V. ix. 12.</p>
+<p>Atellani, VI. iii. 47.</p>
+<p>Athenae, I. xii. 15; II. xvi. 4; III. vii. 24; V. ix. 5; VI. i. 7; VI. iii. 107; VII. ii. 4; X. i. 76; XI. iii. 123; XII. x. 9; XII. x. 19.</p>
+<p>Athenaeus, II. xv. 23; III. i. 16; III. iii. 13; III. v. 5; III. vi. 47.</p>
+<p>Athenienses, I. x. 48; V. xi. 38 and 40; VI. v. 7; ix. ii. 92; X. i. 66.</p>
+<p>Athenodorus of Rhodes, II. xvii. 15.</p>
+<p>Atratinus, XI. i. 68.</p>
+<p>Atreus, III. viii. 45.</p>
+<p>Atridae, VII. ii. 3.</p>
+<p>Attici, VI. i. 7; VI. iii. 18; VI. Pr. 13; VIII. i. 2; VIII. iii. 28 and 59; IX. iv. 145; X. i. 44, 65, 80, 100, 107, 115; XII. ii. 17; XII. x. 1, 14, 19, 20 <hi rend="italics">sqq.,</hi> 25, 26, 35, 39.</p>
+<p>Atticus, rhetorician, III. i. 18.</p>
+<p>T. Attius, V. xiii. 42.</p>
+<p><hi rend="italics">Auctor ad Herenn.</hi> See Cornificius.</p>
+<p>Aufidia, IV. ii. 106; VI. i. 20; X. i. 22.</p>
+<p>Aufidius Bassus, X. i. 103.</p>
+<p>Augustus Caesar, I. vi. 19; I. vii. 22; III. i. 17; VI. iii. 52, 59, 63-5, 74, 75, 77, 79, 95; VIII. iii. 34; XII. vi. 1.</p>
+<p>Aurelius, XI. i. 31.</p>
+<p>Babylon, VIII. v. 24.</p>
+<p>Bagoas, V. xii. 21.</p>
+<p>Bassus, see Aufidius, Iunius, Saleius.</p>
+<p>Berenice, IV. i. 19.</p>
+<p>M. Bibaculus, X. i. 96.</p>
+<p>P. Blessius, VI. iii. 58.</p>
+<p>Bostar, VII. ii. 10.</p>
+<p>Britannia, VII. iv. 2.</p>
+<p>Brutus, V. xi. 7.</p>
+<p>M. Brutus, accuser of Cn. Plancus, VI. iii. 44.</p>
+
+<pb id="p.519"/>
+
+<p>M. Brutus, orator, III. vi. 93; IX. iii. 95; IX. iv. 75; X. i. 23 and 123; X. v. 20; X. vii. 27; XI. i. 5; XII. i. 22; XII. x. 11.</p>
+<p>Bulbus, IV. ii. 107.</p>
+<p>Burrus, I. iv. 15.</p>
+<p>Busiris, II. xvii. 4.</p>
+<p>Caecilianus, XI. i. 39.</p>
+<p>Caecilius, comic poet, I. viii. 11; X. i. 99; XI. i. 39.</p>
+<p>Caecilius, rhetorician, III. i. 16; III. vi. 48; V. x. 7; VIII. iii. 35; IX. i. 12; IX. iii. 38, 46, 89, 91, 97.</p>
+<p>Q. Caecilius, would-be accuser of Verres, V. xiii. 18; VII. ii. 2; XI. i. 20.</p>
+<p>M. Caelius, I. v. 61; I. vi. 29 and 42; IV. ii. 27 and 123 <hi rend="italics">sqq.</hi>; VI. iii. 25, 39, 41; VIII. vi. 53; IX. iii. 58; X. i. 115; X. ii. 25; XI. i. 51; XII. x. 11; XII. xi. 6.</p>
+<p>Caepasius, VI. i. 41; VI. iii. 39.</p>
+<p>Caercllia, VI. iii. 12.</p>
+<p>C. Caesar, I. v. 63; I. vii. 21 and 34; III. vii. 28; III. viii. 19, 47, 55; IV. i. 39; V. xiii. 5; VI. i. 31; VI. iii. 61, 75, 91, 109, 112; VII. ii. 6; VII. iv. 2; VIII. iv. 20; X. i. 38 and 114; X. ii. 25; XI. i. 38 and 80; XII. x. 11. See also under Iulius Caesar Strabo.</p>
+<p>C. Caesar, VII. ii. 6.</p>
+<p>Calamis, XII. x. 7.</p>
+<p>Calchas, II. xiii. 13; VII. iv. 2; VIII. ii. 9; VIII. iv. 20.</p>
+<p>M. Calidius, orator, X. i. 23; XI. iii. 123 and 155; XII. x. 11.</p>
+<p>Callicles, II. xv. 28.</p>
+<p>Callimachus, X. i. 58.</p>
+<p>Callon, XII. x. 7 and 10.</p>
+<p>C. Calvus, I. vi. 42; VI. i. 13; VI. iii. 60; IX. ii. 25; IX. iii. 56; X. i. 115; X. ii. 25; XII. i. 22; XII. vi. 1; XII. x. 11.</p>
+<p>Campatius, VI. iii. 71.</p>
+<p>Cannae, VIII. vi. 26.</p>
+<p>C. Carbo, IX. iv. 103; X. vii. 27.</p>
+<p>Caria, XI. iii. 58.</p>
+<p>Carneades, XII. i. 35.</p>
+<p>Cascellius, VI. iii. 87.</p>
+<p>Cassius Parmensis, V. xi. 24.</p>
+<p>C. Cassius Severus, VI. i. 43; VI. iii. 27, 78, 79, 90; VIII. ii. 2; VIII. iii. 89; X. i. 22; X. i. 116; XI. i. 57; XI. iii. 133; XII. x. 11.</p>
+<p>Castor, XI. ii. 11.</p>
+<p>Catilina, V. ii. 4; XI. i. 23.</p>
+<p>Catius, X. i. 124.</p>
+<p>M. Cato the censor, I. vi. 42; I. vii. 23; II. v. 21; II. xv. 8; III. i. 19; III. vi. 97; V. xi. 39; VI. iii. 105; VIII. iii. 29; VIII. v. 33; VIII. vi. 9; IX. ii. 21; IX. iv. 39; XII. i. 1 and 35; XII. iii. 9; XII. vii. 4; XII. xi. 23.</p>
+<p>Cato Uticensis, III. v. 8 and 11; III. viii. 37 and 49; V. xi. 10; VI. iii. 112; VIII. ii. 9; IX. iv. 75; X. v. 13; XI. i. 69; XII. vii. 4.</p>
+<p>Catullus, X. i. 96; (xxix. 1) IX. iv. 141; (lxii. 45) IX. iii. 16; (lxxxi.) I. v. 20; (lxxxvi.) VI. iii. 18; (xciii.) XI. i. 38; (xcvii. 6) I. v. 8.</p>
+<p>Catulus, VI. iii. 81; XI. iii. 35.</p>
+<p>Caudinum iugum, III. viii. 3.</p>
+<p>Celsina, VI. iii. 85.</p>
+<p>Celsus, see Cornelius.</p>
+<p>Ceres, I. vi. 14; III. vii. 8; VIII. vi. 24.</p>
+<p>Cestius, X. v. 20.</p>
+<p>M. Cethegus, II. xv. 4; XI. iii. 31.</p>
+<p>Chaeronea, IX. ii. 62.</p>
+<p>Chaos, III. vii. 8.</p>
+<p>Charisius, X. i. 70.</p>
+<p>Charmadas, XI. ii. 26.</p>
+<p>Chiron, I. x. 30; VIII. vi. 37.</p>
+<p>Chrysippus, philosopher, I. i. 4 and 16; I. iii. 14; I. x. 32; I. xi. 17; II. xv. 34; XII. i. 28; XII. vii. 9.</p>
+<p>Chrysippus (Vettius), VI. iii. 61.</p>
+<p>Chrysogonus, IV. ii. 3 and 19.</p>
+<p>M. Cicero, I. iv. 11; I. v. 13, and 60 <hi rend="italics">sqq.</hi>; I. vi. 18; I. vii. 20 and 34; I. viii. 11; II. v. 16 and 20; II. xvi. 7; III. i. 20; III. viii. 46, 50, 65; IV. i. 19; IV. v. 24; V. x. 31; V. xi. 17; V. xiii. 2 and 52; VI. iii. 1, 2, 4, 5, 47-9, 51, 55, 67-9, 75-7, 84, 88, 98; VII. i. 10; VII. ii. 39; VII. iii. 28; VII. ix. 12; VIII. ii. 4; VIII. iii. 32, 54, 64, 66; VIII. v. 33; IX. i. 25; IX. ii. 96; IX. iii. 1 and 74; IX. iv. 1, 16, 36, 53, 56 <hi rend="italics">sqq.,</hi> 79, 146; X. i. 24, 33, 39, 40, 80, 81, 92 <hi rend="italics">sqq.,</hi> 105 <hi rend="italics">sqq.,</hi> 112, 113 <hi rend="italics">sqq.</hi>; X. ii. 17, 18, 24; X. v. 2, 11, 16; X. vii. 14, 19, 27, 28; XI. i. 17, 24; XI. iii. 8, 10, 85, 141, 171, 184; XII. Pr. 4; XII. i. 14, 16, 19, 20, 21 <hi rend="italics">sqq.</hi>; XII. ii. 6, 23; XII. vi. 4, 7; XII. vii. 4; XII. x. 12 <hi rend="italics">sqq.,</hi> 39, 45, 48, 52,
+
+<pb id="p.520"/>
+
+54, 56; XII. xi. 6, 26, 28; <hi rend="italics">Rhetorica</hi>; <hi rend="italics">Brut.,</hi> (ii. 8) XI. i. 31; (vii. 27) III. i. 12; (xv. 58) XI. iii. 31; (xxi. <hi rend="italics">sqq.</hi>) XI. i. 4; (xxvi. 101) VII. ix. 12; (xxxviii. 141) XI. iii. 171, 184; (lx. 216 <hi rend="italics">sq.</hi>) XI. iii. 129; (lxii. 225) XI. iii. 128; (lxxiv. 259) XI. iii. 10, 35; (lxxx. 278) XI. iii. 123, 155; (lxxxii. 283) X. i. 115; (lxxxviii. 301) X. vi. 4; (xci. 314 <hi rend="italics">sq.</hi>) XII. vi. 7; (xci. 316) XII. i. 20; <hi rend="italics">De Inv.,</hi> see <hi rend="italics">Rhetorica</hi>; <hi rend="italics">Orator,</hi> (i. 1) IX. iv. 101; (i. 4) XII. xi. 26; (iii. 12) XII. ii. 23; (x. 34) X. vii. 27; (xii. 39) X. i. 33; (xiv. <hi rend="italics">sqq.</hi>) III. iii. 7; (xiv. 44) VIII. Pr. 14; (xiv. 45) III. v. 15; III. vi. 44; (xvii. 55) XI. iii. 1; (xviii. 57) XI. iii. 58, 60; (xviii. 59) XI. iii. 122, 126; (xix. 62) X. i. 33; (xx. 67) IX. iv. 54; (xxi. <hi rend="italics">sqq.</hi>) XI. i. 4; (xxiii.) XI. i. 92; (xxiii. 77) IX. iv. 37; (xxv. 85) IX. ii. 29; (xxvi. 87) VI. iii. 42; (xxvi. 90) VI. iii. 18; (xxvii. 93) VIII. vi. 23; (xxviii.) XI. i. 92; (xxix. 104) X. i. 24; (xxx. 107) XII. i. 20; XII. vi. 4; (xxxix. <hi rend="italics">sqq.</hi>) IX. i. 36 <hi rend="italics">sqq.</hi>; (xlv. 154) I. v. 66; (xlvi. 155) I. vi. 18; (xlvii. 157) I. v. 44; (xlviii. 161) IX. iv. 38; (li. 171) IX. iv. 115; (lxi. 204) IX. iv. 124; (lxiii. 214) IX. iv. 103; (lxiv. <hi rend="italics">sqq.</hi>) IX. iv. 79; (lxv. 219) IX. iv. 109; (lxvi. 223) IX. iv. 101; (lxvii. 223 <hi rend="italics">sqq.</hi>) IX. ii. 15; IX. iv. 122; (lxx. 232) IX. iv. 14; (lxx. 234) IX. iv. 55; (lxxi. 235) IX. iii. 39; <hi rend="italics">De Oratore</hi> III. vi. 59; IX. iii. 90; X. iii. 1; (I. iii. 12) VIII. Pr. 25; (vi. 20) II. xxi. 14; (vi. 21) II. xxi. 5; (xxi. 94) VIII. Pr. 13; (xxviii. 128) XII. v. 5; (xxix. 132) XI. iii. 177; (xxxi. 138) II. xv. 5; (xxxi. 141) III. iii. 15; (xxxi. 142) III. iii. 7; (xxxiii. 150) X. iii. 1; (xxxiv. 155) X. v. 2; (xlii. 190) XII. xi. 4; (lv. 236) XII. iii. 11; (II. vii. 30) II. xvii. 36; (<hi rend="italics">sqq.</hi>) III. iv. 2; (xxi. 88) II. iv. 8; (xxv. 108 <hi rend="italics">sqq.</hi>) VII. iii. 16; (xlv. 188) XI. iii. 94; (liv. 220) VI. iii. 81; (lv. 223) VI. iii. 43; (lvii. 232) II. xvii. 5; (lviii. 236) VI. iii. 8; (lxi. 248) VI. iii. 50; (lxvi. 266) VI. iii. 38; (lxvi. 267) VI. iii. 67; (lxvii. 274) I. v. 65; (lxviii. 275) VI. iii. 87; (lxix. 278) VI. iii. 88; (lxx. 281) VI. iii. 84; (lxxi. 289) VI. iii. 23; (lxxxii.) III. viii. 14; (lxxxii. 334) III. viii. 1; (lxxxvi. 352) XI. ii. 14; (lxxxvi. 354) XI. ii. 21; (lxxxvii. 358) XI. ii. 22; (lxxxviii. 360) XI. ii. 26; (III. x. 37) XI. i. 1; (xi. 42) XI. iii. 10; (xiv. 54) (II. xxi. 6; (xiv. 55) II. xx. 9; (xv. <hi rend="italics">sqq.</hi>) I. Pr. 13; (xxiv. 93) II. iv. 42; (xxvi. 101) II. xii. 7; (xxx.) III. v. 15; (xxxi.) XII. ii. 5; (xli. 164) VIII. vi. 15; (l. 194) X. vii. 19; (lii. <hi rend="italics">sqq.</hi>) IX. i. 26 <hi rend="italics">sqq.</hi>; (liii. 202) IX. ii. 40; (lv. 210) XI. i. 4; (lvi. 213) XI. iii. 7; (lvi. 214) XI. iii. 115; (lix. 220) I. xi. 18; XI. iii. 128; (lix. 222) XI. iii. 1; <hi rend="italics">Part. Or.,</hi> (i. 3) III. iii. 7; (v. 16) VIII. iii. 36; (vi. 19 <hi rend="italics">sqq.</hi>) VIII. iii. 42 <hi rend="italics">sqq.</hi>; (ix. 31) IV. ii. 107; (xviii. 62) III. v. 6; (xxvii. 97) III. viii. 65; (xxviii. 103) III. xi. 19; (xxx. 104) III. xi. 10; (xxx. 105) VII. iii. 35; (xxxi. and xxxviii.) III. vi. 50; <hi rend="italics">Rhetorica</hi> (alias <hi rend="italics">Le Inventione</hi>), II. xv. 6; III. i. 20; III. iii. 6; III. vi. 58 <hi rend="italics">sq.</hi> and 64; (i. 2) III. ii. 4; (i. 5 <hi rend="italics">sqq.</hi>) II. xxi. 4; (I. v. 6) II. xv. 5 and 33; II. xvii. 2; (i. 6) III. v. 14; (I. viii. 10) III. vi. 50; (I. xi. 14) III. vi. 58; (I. xiv. 19) III. xi. 9, 10, 12; (I. xxx. 46 <hi rend="italics">sqq.</hi>) V. x. 78; (I. xxx. 49) V. xi. 2 and 23; (I. xxxi. 51) V. x. 6, 73; V. xi. 2; V. xi. 28; (I. xxxiv. 57) V. x. 6; (I. xxxiv. 58 <hi rend="italics">sqq.</hi>) V. xiv. 7; (I. xxxvii. 67) V. xiv. 5; (I. lvi.) VI. i. 27; <hi rend="italics">Topica,</hi> (iii. 12) V. x. 85; (iii. 13) V. x. 62; V. xi. 33; (iii. 15) V. xi. 32; (v) V. x. 63; (vii. 32) V. xiv. 34; (viii. 35) I. vi. 28; (x. 42) V. x. 73; (xxi.) III. v. 15; (xxi. 79) III. v. 5; VII. i. 4; (xxi. 80) III. v. 18; (xxi. 81) III. v. 6; (xxii. 85 and 87) VII. iii. 8; (xxiii. 88) VII. iii. 28; (xxiv. 91) III. iii. 15; (xxv. 93) III. vi. 13; (xxv. 94) III. vii. 28; (xxv. 95) III. xi. 18; (xxvi. 97) IV. ii. 64; <hi rend="italics">Loci communes,</hi> II. i. 11; <hi rend="italics">Fragmenta rhetorica,</hi> VI. ii. 32; <hi rend="italics">Orationes</hi>; <hi rend="italics">Pro Archia</hi> (i. 1), XI. i. 19; XI. iii. 97; (viii. 19) V. xi. 25; VIII. iii. 75; IX. iv. 44; XI. i. 34; XI. iii. 84 and 167; <hi rend="italics">In Q. Caecilium,</hi> see Verrines; <hi rend="italics">Pro Caecina</hi> (i. 1),
+
+<pb id="p.521"/>
+
+IX. iii. 80; (iv. 11) IV. ii. 49; (viii. 23) IV. ii. 132; (x. 27) VI. iii. 56; (xii. 34) V. xi. 33; (xiii. 37) V. x. 68; (xiv. <hi rend="italics">sqq.</hi>) VII. vi. 7; (xv. 42) VII. iii. 17; (xv. 43) V. x. 92; VII. iii. 29; (xv. 44) VII. iii. 29; (xvi. 45) V. x. 93; (xix. 55) V. x. 98; (xxix. 82) IX. iii. 22; <hi rend="italics">Pro Caelio,</hi> IV. i. 31 and 39; IV. ii. 27; IX. ii. 39; XI. i. 68; (ii. 4) XI. i. 28; (iv. 10) XII. xi. 6; (xiii. 31) V. xiii. 30; IX. iv. 98; (xiii. 32) IX. ii. 99; (xiv. <hi rend="italics">sqq.</hi>) III. viii. 54; (xiv. 33) IX. iv. 102; XII. x. 61; (xiv. 34) IX. iv. 104; (xv. 35) IX. ii. 60; (xv. 36) VIII. iii. 22; (xvi. 38) VIII. iv. 1; (xvii. 39) IX. ii. 15; (xxii. 53) IX. ii. 47; (xxvi. 62) IX. iv. 64; (xxix. 69) VI. iii. 25; <hi rend="italics">In Catilinam I.,</hi> XII. x. 61; (i. 1) IV. i. 68; IX. ii. 7; IX. iii. 30; (i. 2) (IX. ii. 26; IX. iii. 44; (i. 3) VIII. iv. 13; (ii. 4) IX. iii. 29; (ii. 5) IX. iii. 19; (v. 10) IX. iii. 45; (v. 12) VIII. vi. 15; (vii. 17) VIII. iv. 10; (vii. 18) IX. ii. 32; (viii. 19) IX. ii. 45; (ix. 22) IX. iii. 62; (x. 25) VIII. vi. 41; (xi. 27) IX. ii. 32; IX. iii. 71; XII. x. 61; (xii. 30) IX. iii. 71; <hi rend="italics">In Catilinam II.</hi> (i. 1), IX. iii. 46 and 77; <hi rend="italics">In Catilinam III.</hi> (ix. 21), V. xi. 42; <hi rend="italics">In Catilinam IV.</hi> (ii. 3), VI. iii. 109; <hi rend="italics">In Coldium et Curionem,</hi> III. vii. 2; fr. V. x. 92; VIII. iii. 81; VIII. vi. 56; IX. ii. 96; <hi rend="italics">Pro Cluentio,</hi> II. xvii. 21; IV. i. 69; IV. ii. 19 and 85; V. vii. 37 (?); V. xi. 13; V. xiii. 42; VI. v. 9; XI. i. 61 and 74; (i. 1) IV. i. 36; VI. v. 9; VIII. vi. 65; IX. iv. 68, 92, 101, 133; (i. 4) IX. ii. 19; IX. iii. 75 and 81; IX. iv. 75; (ii. 5) IX. ii. 51; IX. iii. 81 and 85; (iv. 9) IV. v. 11; (iv. 11) IV. i. 79; (v. 11) IV. ii. 16 and 130; XI. iii. 162; (v. 14) IV. ii. 121; XI. iii. 162; (vi. 15) IV. ii. 105; IX. iii. 62, 77. 81; (xi. 32) VIII. iv. 11; (xiv. 41) IX. iii. 38; (xvii. <hi rend="italics">sqq.</hi>) V. ii. 1; XI. i. 74; (xx. <hi rend="italics">sqq.</hi>) IV. ii. 19; VI. i. 41; (xxi.) VI. iii. 39; (xxi. 58) VI. iii. 40; (xxiii. 63) IX. ii. 51; (xxiii. 64) V. x. 68; (xxvi.) IV. ii. 107; (xxvii. 75) V. xi. 22; (xxix. 80) IX. iii. 82; (xxxiii. 91) VIII. vi. 55; (xxxv. 96) VIII. iii. 51; (xxxvi. 98) V. x. 108; (xxxvii. 103) IX. ii. 8; (xxxviii. 106) IX. ii. 16; (xl. 111) V. xiii. 39; (xlii.) IV. i. 75; (xlviii. 134) V. xi. 13; (xlviii. 135) V. xiii. 33; (lii.) IV. v. 20; V. xiii. 42; (lii. 143) V. xiii. 47; (liii. 146) V. xi. 25; (lx. 166) IX. ii. 48; (lx. 167) IX. iii. 37; (lx. 168) V. xiii. 15; (lxi. 169) IX. ii. 60; <hi rend="italics">In competitores,</hi> II. vii. 2; <hi rend="italics">Pro Cornelio,</hi> IV. iii. 13; V. xiii. 18; VI. v. 10; VII. iii. 36; VIII. iii. 3; XI. iii. 164; fr. IV. iv. 8; V. xi. 25; V. xiii. 26; IX. ii. 55; IX. iv. 122 <hi rend="italics">sqq.</hi>; <hi rend="italics">Pro Deiotaro,</hi> IV. i. 31; <hi rend="italics">Pro Flacco,</hi> XI. i. 89; <hi rend="italics">Pro Fonteio,</hi> XI. i. 89; fr. VI. iii. 51; <hi rend="italics">Pro Fundanio,</hi> I. iv. 14; <hi rend="italics">Pro Gabinio,</hi> XI. i. 73; <hi rend="italics">Pro Q. Gallio,</hi> VIII. iii. 66; XI. iii. 155 and 165; <hi rend="italics">De lege agraria,</hi> II. xvi. 7; (II. v. 13) V. xiii. 38; VIII. iv. 28; <hi rend="italics">Pro lege Manilia,</hi> II. iv. 40; <hi rend="italics">De proscriptorum liberis,</hi> XI. i. 85; <hi rend="italics">Pro Ligario,</hi> IV. i. 39, 66, 70; IV. ii. 108; V. xiii. 20; VI. v. 10; IX. ii. 50; X. i. 23; XI. i. 78; (i. 4) IX. iv. 73, 75, 92, 105; XI. iii. 108 <hi rend="italics">sqq.</hi>; (i. 2) IV. i. 67; IV. ii. 109 and 131; VIII. v. 13; IX. ii. 51; IX. iv. 133; XI. iii. 162; (i. 3) IV. ii. 110; (ii. 4) IV. ii. 51, 108, 110; (iii. 6 <hi rend="italics">sqq.</hi>) XI. iii. 166; (iii. 7) IX. ii. 14 and 28; (iii. 8) V. x. 93; (iii. 9) V. xiii. 31; VIII. iv. 27; VIII. vi. 12; IX. ii. 7, 38, 57; IX. iv. 99; XI. iii. 166; (iv. 10) V. xiii. 5; VIII. v. 10; IX. ii. 29; IX. iv. 103; (v. 15) VIII. iii. 85; (vi. 19) V. xi. 42; V. xiv. 1; IX. iii. 36; (x. 30) VII. iv. 17; (x. 31) V. x. 93; (xii. 35); VI. iii. 108; (xii. 37) VIII. v. 3; (xii. 38) VIII. v. 7; IX. iv. 107; <hi rend="italics">Contra cont Metelli,</hi> IX. iii. 40, 43, 45, 49, 50; <hi rend="italics">Pro Milone,</hi> II. xx. 8; III. vi. 12 and 93; III. xi. 15; IV. i. 20 and 31; IV. ii. 25 and 57; IV. iii. 17; IV. v. 15; V. xiv. 22; VI. v. 10; VII. ii. 43; IX. ii. 41; IX. iv. 133; X. v. 20; XI. i. 40; XI. iii. 47; (i. 1) IX. iv. 74 and 93; XI. iii. 47 <hi rend="italics">sqq.</hi>; (ii. 5) VIII. vi. 48; IX. iii. 77; (iii. 7) v. xi. 12; (iii. 8) V. xi. 16 and 18; (iii. 9) V. xiv. 18 <hi rend="italics">sqq.</hi>; (iv. 9) V. xi. 15; VIII. v. 11; (iv. 10) V. xiv. 17 and
+
+<pb id="p.522"/>
+
+19; IX. iii. 83; (iv. 11) V. xiv. 17; (v.) V. ii. 1; (vii. 17) V. x. 41; (x. 28) IV. ii. 57; (x. 29) IV. ii. 121; V. x. 50; VII. i. 37; (xi. 30) IV. iv. 2; (xii. 33) IX. ii. 54 and 56; (xiii. 33) IX. iii. 6; (xiii. 34 <hi rend="italics">sqq.</hi>) VIII. vi. 7; (xvi. 41) V. xiv. 3; (xviii. 47) IX. ii. 26; (xx.) V. x. 37; (xx. 53) VIII. vi. 41; (xxii. 59) IX. iii. 30; (xxii 60) VIII. iii. 22; (xxvii. 72) V. xi. 12; IX. iii. 28; (xxix. 79) V.xiv. 2; (xxxi. 85) IX. ii. 38; XI. i. 34; XI. iii. 115 and 167; XII. x. 62; (xxxiii.) IX. ii. 41; (xxxiv. 94) VI. i. 27; IX. iii. 23; (xxxvii. 102) VI. i. 24; XI. iii. 172; (xxxviii. 105) XI. iii. 173; <hi rend="italics">Pro Murena,</hi> II iv. 24; XI. i. 69; (i. 1) IX. iv, 107; (ii. 4) IX. xi. 23; (iii.) IV. i. 75; (v. 11) IV. v. 12; (vi. 14) IX. ii. 28; (viii. 17) V. xi. 11; (ix. 22) V. xiii. 27; (ix. 22) IX. ii. 11; IX. iii. 32; (xi. 25) VIII. iii. 22; (xii. 26) VII. i. 51; (xiii. 29) VIII. iii. 79; IX. iii. 36; (xvii. 35) VIII. vi. 19; (xvii. 36) VIII. iii. 80; (xxix. 60) VIII. vi. 30; (xxxv. 73) VII. iii. 16); (xxxvi. 76) IX. iii. 82; (xxxvii. 79) VI. i. 35; (xxxvii. 80) IX. ii. 18; (xxxix. 83) V. x. 99; (fragm. ?) IX. iii. 21; <hi rend="italics">Pro Oppio</hi>, V. xiii. 17 and 20 <hi rend="italics">sq.</hi> VI. v. 10; XI. i. 67; V. x. 69 and 76: V. xiii. 21 and 30: IX. ii. 51; <hi rend="italics">Philippie II.,</hi> (i. 2) XI. i. 25 <hi rend="italics">sq.</hi>; (ii. 4) V. xiii. 38; (xvii.) v. xiii. 38; (xxv. 62) IX. ii. 47; (xxv. 63) V. x. 99; VIII. iv. 8, 10, 16; VIII. vi. 68; IX. iv. 23, 29, 44, 107; XI. iii. 39, 167, 172; (xxvi. 64) IX. ii. 26; IX. iii. 29; (xxvii. 67) VIII. iv. 25; VIII. vi. 70; XII. x. 62; <hi rend="italics">Phil.</hi> III. (iv.) V. xiii. 38: (ix. 22) IX. iii. 13 and 72; <hi rend="italics">Phil.</hi> IV. (iii. 8) IX. iii. 86; <hi rend="italics">Phil.</hi> VIII. (i. 2) III. viii. 5; (i. 3) VII. iii. 25; <hi rend="italics">Phil.</hi> IX. III. viii. 5: (iii. 7) VII. iii. 18; <hi rend="italics">Phil.</hi> XI. (vi. 14) VIII. iii. 29; <hi rend="italics">Phil.</hi> XIII. (19) v. xiii. 38; <hi rend="italics">In Pisonem,</hi> III. vii. 2; (i. 1) V. xiii. 38; (xiii. 20) IX. iii. 67; (xxx. 73) v. xiii. 38; <hi rend="italics">In Pisonem,</hi> fragm., IX. iv. 47 and 76; VIII. iii. 21; VIII. v. 18(?); <hi rend="italics">Pro Quinctio</hi> (i. 4), XI. i. 19; (xxv. 78) IX. iii. 86; <hi rend="italics">Pro Rabirio perduell. rco.,</hi> V. xiii. 20; VII. i. 9 and 16; (VI. 18) XI. iii. 169; (ix.) VI. i. 49; <hi rend="italics">Pro Rabirio Postuno,</hi> III. vi. II; IV. i. 46 and 49; IV. ii. 10; IX. ii. 17; (iii. 7) IX. iii. 6; (x. 28) IV. ii. 18; (xvii. 46) XI. iii. 172; <hi rend="italics">De Rege Alex.</hi> (?), I. v. 13; <hi rend="italics">De haruspicum responsis,</hi> V. xi. 42; <hi rend="italics">Pro Roscio Amerino,</hi> IV. ii. 19; VII. ii. 23; (xxii.) IV. ii. 3 and 19; IX. ii. 53; (xxvi. 72) XII. vi. 4; <hi rend="italics">Pro Scauro ambitus reo.,</hi> IV. i. 69; <hi rend="italics">Pro Scauro repet. reo,</hi> I. V. 8; IV. i. 69; V. xiii. 28 and 40; VI. i. 21; VII. ii. 10; xi. i. 89; <hi rend="italics">Pro Sestio</hi> (liv. 115), VIII. iii. 34; <hi rend="italics">Pro Tullio</hi> (vii. 14), IV. ii. 131; (xxiv. 56) v. xiii. 21; <hi rend="italics">Pro Vareno,</hi> VI.i. 49; VII. i. 9 and 12; VII. ii. 10, 22, 36; <hi rend="italics">fr.</hi> IV. i. 74; V. x. 69; V. xiii. 28; VIII. iii. 23; IX. ii. 56; <hi rend="italics">In Vatinium testem,</hi> V. vii. 6; XI. i. 73; <hi rend="italics">Pro Valinio,</hi> XI, i. 73; <hi rend="italics">Verinae,</hi> IV. i. 20 and 31; IV. iii. 13; VI. i. 54; VI. iii. 4; VI. v. 4; X. i. 23; XI. ii. 25; <hi rend="italics">Div. in Caccilium,</hi> V. xiii. 18; (i. 1) IV. i. 49; IX. ii. 17; (ii. 4) IX. ii. 59; (xii. 40) XI. i. 20; (xiii. 41) XI. i. 44; (xiv. 45) IV. v. 24; <hi rend="italics">Act. I.,</hi> (xv. <hi rend="italics">sq.</hi>) IV. i. 20; VI. i. 13; <hi rend="italics">Act. II.</hi> (I. i. 1). IX. iv. 119; (I. iii. 9) VIII. iv. 2; (I. xxiv. 63) IV. i. 54; (I. xxx. 76) XI. iii. 114; VI. i. 54; (I. xxx. 76) XI. iii. 162: (I. xxx. 77) IX. i. 16; (I. xiii. 100) V. x. 76; (I. xlvi. 121) VI. iii. 55; (II. i.) III. vii. 27; (II. xxx. 73) IV. ii. 67; (IV. iii. 5) IV. v. 4; IX. ii. 61; (IV. xvii. 37) IX. ii. 52; (IV. xx. 43) IX. ii. 60; (IV. xxv. Ivii.) VI. iii. 55; (iv. xxvi. 57) IX ii. 61; (IV. xliii. 95) VI. iii. 55; (iv. 48) III. vii. 27; IV. ii. 19; IX. iv. 127; (IV. Iv. 123) v. xi. 7; (v. ii. 4) IX. ii. 47; (v. iii.) IV. ii. 17; (V. V. 10) IX. ii. 22; (v. x.) IV. iii. 18; (v. xvii. 44) ix. iii. 34; (v. xxvii. 70) IX. iv. 64; (v. xxxiii. 86) VIII. iii. 64; IX. iv. 104; XI. iii. 90; (V. xli. 107) IX. iii. 43; (V. xliv. 116) IX. ii. 57; IX. iii. 11; (V. xliv. 117) VIII. iv. 19: IX. ii, 51; IX. iv. 70; (V. xlv. 118) IV. ii. 106; VIII. iv. 27; IX. iv. 71, 108. 124; XI. i, 40; (v. xlv. 119) IX. iii. 34; (V. Iii. 136) VI. i. 3; (V. Ivi. 145 VIII. vi. 72; (v. 62 <hi rend="italics">sq.</hi>) IV. ii.
+
+<pb id="p.523"/>
+
+113; (V. Ixii. 161) IX. ii. 40; (V. lxii. 162) IX. iv. 103; XI. i. 40; XI. iii. 90; (V. Ixiii. 163) IX. ii. 38; (V. lxvi. 170) VIII. iv. 4; (V. lxxii.) VI. i. 3; <hi rend="italics">Fragmenta incerta,</hi> VIII. vi. 47; IX. ii. 18, 41, 47, 60; IX. iii. 21, 42, 48, 87; XI. iii. 155; <hi rend="italics">Commentarii causarum,</hi> IV. i. 69; X. vii. 30 <hi rend="italics">sq.</hi>; <hi rend="italics">Epistulae,</hi> I. vii. 34; IX. iv. 41; X. i 107; XI. i. 21; XII. ii. 6; <hi rend="italics">Ad Appium Pulchrum,</hi> III. viii. 3; VIII.iii.35; <hi rend="italics">Ad Atticum,</hi> (v. xv. 3), V. xi. 21; (VIII. vii. 2) VI. iii. 109; VIII. v. 18; (IX. x. 6) VIII. iii. 32; <hi rend="italics">Ad Brutum,</hi> II. xx. 10; III. viii. 42; v. x. 9; VI. iii. 20; VIII. iii. 6 and 34; VIII. vi. 20 and 55; IX. iii. 41 and 58; IX. iv. 41(?); <hi rend="italics">Ad Caerelliam,</hi> VI. iii. 112; <hi rend="italics">Ad filium,</hi> I. vii. 34; <hi rend="italics">Ad incertum,</hi> IX. iii. 61; <hi rend="italics">Dialogi,</hi> XI. i. 20; <hi rend="italics">Cato maior</hi> (iii. 7), V. x. 9; V. xi. 41; <hi rend="italics">Catulus,</hi> III. vi. 64; <hi rend="italics">Lucullus,</hi> III (xxiv. 89), VIII. iii. 55; <hi rend="italics">Lucullus,</hi> III. vi. 64; <hi rend="italics">De nat. deorum</hi> (I. xxxiv. 95), I. v. 72; VIII. iii. 32; <hi rend="italics">De republica,</hi> IX. iii. 75; <hi rend="italics">Tusclanae</hi> (I. ii. 4), I. x. 19; (I. xxiv. 59 (?)) X. vi. 4; <hi rend="italics">Carmina,</hi> VIII. vi. 73; IX. iv. 41; XI. iv. 41; XI.i. 24; <hi rend="italics">Libri de iure,</hi> XII. iii. 10; <hi rend="italics">Libri Platonis et Xenophontis Translati,</hi> V. xi. 28; X. v. 2; <hi rend="italics">Fragmenta incerta,</hi> VIII. iii. 21; IX. iv. 100 (?); XII. i. 17.</p>
+<p>Cimber, VIII. iii. 29.</p>
+<p>Cimbricum secutum, VI. iii. 38.</p>
+<p>Cinna, see Helvius.</p>
+<p>Claudius, I. vii. 26; VI. iii. S1; VIII. V. 16.</p>
+<p>Cleanthes, II. xv. 34; II. xvii. 41; XII. i. 18; XII. vii. 9.</p>
+<p>Cleon, XI. iii. 123.</p>
+<p>Clitarchus, X. i. 75.</p>
+<p>Cloatilla, VIII. v. 16; IX. ii. 20; IX. iii. 66; IX. iv. 31.</p>
+<p>Clodia, III. viii. 54; V. xiii. 30.</p>
+<p>P. Clodius, II. iv. 35; III. v. 10: III. vii. 2; III. viii. 54; III. xi. 15 and 17; IV. ii. 25, 57. 88; V. ii. 4; VI. iii. 49; VII. i. 34 <hi rend="italics">sqq.</hi>; VII. ii. 45; X. v. 13; XI. i. 39.</p>
+<p>Sex. Clodius Phormio, VI. iii. 56.</p>
+<p>Cluentianum indieiun, XI. i. 74.</p>
+<p>Clusiuius Figulus, VII. ii. 5 and 26.</p>
+<p>Clytaemnestra, II. xvii. 4; III. xi 4 <hi rend="italics">sqq.</hi> and 20; VII. vi. 53.</p>
+<p>Coccus, XII. x. 21.</p>
+<p>Colotes of Teos, II. xiii. 13.</p>
+<p>Comic poets, anonymous, VI. iii. 97; IX. iii. 16.</p>
+<p>Corax, II. xvii. 7; III. i. 8.</p>
+<p>Cornelia, I. i. 6.</p>
+<p>Cornelii tres, V. x. 30.</p>
+<p>Cornelius Celsus, rhetorician, II. xv. 22 and 32; III. i. 21; III. v. 3; III. xvi. 13 and 38; III. vii. 25; IV. i. 12; IV. ii. 9 <hi rend="italics">sq.</hi>; VII. i. 10; VII. ii. 19; VIII. iii. 35 and 47; IX, i. 18; IX. ii. 22, 40, 54, 101 <hi rend="italics">sq..</hi> 104, 107; IX iv. 132 and 137; X i. 23 and 124; XII. xi. 24.</p>
+<p>C. Corneiius trib. pleb., x. v. 13.</p>
+<p>Cornelius Gallus, poet, I. v. 8; X. i. 93.</p>
+<p>Cornelius Rufinus, XII. i. 43.</p>
+<p>Cornelius Severus, poet, X. i. 89.</p>
+<p>Cornificius, III. i. 21; IX. iii. 89; (iv. 14) IX. iii. 31 and 70; (iv. 15 <hi rend="italics">sqq.</hi>) IX. iii. 98; (iv. 18) V. x. 2; (iv. 22) IX. iii. 72; (iv. 25) IX. iii. 55 <hi rend="italics">sq.</hi> and 91; (iv. 29) IX. iii.88; (iv.43 and 52) IX. ii. 31.</p>
+<p>Cos, VIII. vi. 71.</p>
+<p>Cossutianus Capito, VI. i. 14.</p>
+<p>L.Cotta, V. xiii. 20 and 30; VI. v.10; XI. i. 67 XI. iii. 10.</p>
+<p>Cranon, XI. ii. 14.</p>
+<p>L. Crassus, orator, I. xi. 18; II iv. 42; II. xx. 9; VI. iii. 43 <hi rend="italics">sq.</hi>; VII. vi. 9; VIII. Pr. 14; VIII. iii. 89; X. iii. 1; X. v. 2; XI.i 4 and 37; XI. iii. 8 and 94; XII. ii. 5; XII. x. 10; XII. xi. 4 and 27.</p>
+<p>Crasus Dives, XI. ii. 50.</p>
+<p>Crates, I. ix. 5.</p>
+<p>Cratinus, X. i. 63.</p>
+<p>Cremutius, x. i. 104.</p>
+<p>Crispus Passienus, VI. i. 50: x. i. 24; XI. i. 31.</p>
+<p>Critolaus, II. xv. 19 and 23; II. xvii, 15.</p>
+<p>Cupido, II. iv. 26.</p>
+<p>Curetes, X. i. 49.</p>
+<p>Curiannum iudicium, VII. vi. 9</p>
+<p>Curri, XII. ii. 30.</p>
+<p>C. Curio (the eleder), XI. iii. 129.</p>
+<p>C. Curio (? the younger). VI. iii. 76.</p>
+<p>M'. Curizun, VI. iii. 72; VII. ii. 38.</p>
+<p>Curius Vibics, VI. iii. 73.</p>
+<p>Cyclops, VIII. iii. 84; VIII. iv. 24.</p>
+
+<pb id="p.524"/>
+
+<p>Cynicus, IV. ii. 30.</p>
+<p>Cyrus, XI. ii. 50.</p>
+<p>Cythnius, II. xiii. 13.</p>
+<p>Daedalus, VIII. vi. 18.</p>
+<p>Declaimer, fragment of unknown, VIII. iii. 22.</p>
+<p>Delphicum oraculum, X. i. 81.</p>
+<p>Demades, II. xvii. 13; Xll. x. 49.</p>
+<p>Demeas, VII. ix. 10; VIII. ii. 16.</p>
+<p>Demtrius, comic actor, XI. iii. 178.</p>
+<p>Demetrius Phalereus, orator, II. iv. 41 <hi rend="italics">sq.</hi>; IX. iii. 84; X.i. 33 and 80.</p>
+<p>Demetrius, sculptor, XII. x. 9.</p>
+<p>Demoleos, VIII. iv. 25.</p>
+<p>Demostheneis I. xi. 5; II. v. 16; III. vi. 3; V. xiii. 42; V. xiv. 32; VI. i. 20; VI. ii. 24; VI. iii. 2; VIII. v. 33; IX. ii. 40 and 98; IX. iv. 17, 36, 47, 55, 146; X. i. 24, 39, 76, 105 <hi rend="italics">sqq.</hi>; X. ii. 24; X. iii. 25 and 30; XI. iii. 6 <hi rend="italics">sq.,</hi> 54, 68, 130, 168; XII. i. 14 <hi rend="italics">sq.</hi> and 22; XII. ii. 22; XII. ix. 16; XII. x. 23, 24, 26, 52, 54; XII. xi. 26; <hi rend="italics">Action against his guardians,</hi> XII. vi. 1; <hi rend="italics">In Androlionem</hi> (7), V. xiv. 4: <hi rend="italics">Pro ctesiphonte,</hi> IV. i. 32, 66, 68; IX. ii. 54; X. i. 22; XI. i. 22; XI. iii. 97; (1) IX. iv. 63 <hi rend="italics">sq.</hi> and 73; (18) IV. ii. 131; (128) XI. i. 22; (179) IX. iii. 55; (208) IX. ii. 62 and 168; <hi rend="italics">De Flaioneso,</hi> III. viii. 5; <hi rend="italics">In Midiam</hi> (72), VI. i. 17; <hi rend="italics">Philippicue,</hi> III. viii. 65; (i. 2) VI. v. 7; (iii. 17) IX. iv. 63 <hi rend="italics">sq.</hi>; <hi rend="italics">Epistulae,</hi> X. i. 105.</p>
+<p>Diana, III. vii. 8.</p>
+<p>Didius Gallus, VI. iii. 88.</p>
+<p>Dido, IX. ii. 64.</p>
+<p>Didymus, I. viii. 20.</p>
+<p>Diogenes of Babylon, I. i. 9.</p>
+<p>Diomedes, XI. i. 37; XII. xi. 27.</p>
+<p>Dion, I. x. 48; III. iii. 8.</p>
+<p>Dionusius, I. x. 48; V. xi. 8; VIII. vi. 52.</p>
+<p>Dionysius of Halicarnassus, III. i. 16; IX. iii. 89; IX. iv. 88.</p>
+<p>Dolabella, VI. iii. 79 and 99; VIII. ii. 4; IX. i. 16; XII. xi. 6.</p>
+<p>Domitia Passieni, VI. i. 50; VII. iii. 74.</p>
+<p>Domitianus, IV. Pr. 2 <hi rend="italics">sq.</hi>; X. i. 91.</p>
+<p>Domitius Afer, V. vii. 7; V. x. 79; VI. iii. 29, 42, 54, 68, 81, 84 <hi rend="italics">sq.,</hi> 92-4: VIII. v. 3 and 16; IX. ii. 20; IX. iii. 66 and 79; IX. iv. 31; X. i. 24, 86, 118; XI. iii. 126; XII. x. 11; XII. xi. 3.</p>
+<p>Domitius Marsus, VI. iii. 102 <hi rend="italics">sqq.,</hi> 108, 111.</p>
+<p>L. Domitius, IV. ii. 17.</p>
+<p>Dorica, VIII. iii. 59.</p>
+<p>Duilius, I. vii. 12.</p>
+<p>Egeria, II. iv. 19.</p>
+<p>Egnatius, V. xiii. 32.</p>
+<p>Elis, XII. x. 9.</p>
+<p>Emnedocles, I. iv. 4; III. i. 8.</p>
+<p>Empylus of Rhodes, rhetorician, X. vi. 4.</p>
+<p>Ennius, I. v. 12; I. vi. 12; I. viii. 11; VIII. iii. 31; IX. ii. 36; IX. iv. 115; X. i. 88; <hi rend="italics">Ann.</hi> (160) (Vahlen), VIII. vi. 9; (178) VI. iii. 86; (186) VII. ix. 6; (222) IX. iv. 115; (305) XI. iii. 31; (309) II. xv. 4; (472) II. xvii. 24; <hi rend="italics">Medea,</hi> v. x. 84.</p>
+<p>Ephorus, II. viii. 11; IX. iv. 87; X. i. 75.</p>
+<p>Epicurus, II. xvii. 15; VII. iii. 5; X. ii. 15; XII. ii. 24.</p>
+<p>Epicurei, V. vii. 35; X. i. 124.</p>
+<p>Eratosthenes, I. i. 16; XI. ii. 14.</p>
+<p>Euathlus, III. i. 10.</p>
+<p>Euenus, I. x. 17.</p>
+<p>Euphorion, x. i. 56; XI. ii. 14.</p>
+<p>Euphranor, XII. x. 6 and 12.</p>
+<p>Eupolis, I. x. 18; X. i. 65; XII. x. 65.</p>
+<p>Euripides, III. i. 14; V. x. 31 (<hi rend="italics">Phoeriss.,</hi> 636 <hi rend="italics">sq.</hi>); X. i. 67 <hi rend="italics">sq.</hi></p>
+<p>Eurypylus of Larissa, XI. ii. 14.</p>
+<p>Fabia Dolabellae, VI. iii. 73.</p>
+<p>Fabius, III. viii. 19 and 37; (Cunctator) II. xvii. 19; VI. iii. 61; VIII. ii. 11; XI. ii. 30.</p>
+<p>Fabricius Pictor, I. vi. 12.</p>
+<p>Fabricius, VII. ii. 38; XII. i. 43; XII. ii. 30.</p>
+<p>Fama, IX. ii. 36.</p>
+<p>C. Fannius, VII. ix. 12.</p>
+<p>Fidenates, III. viii. 37.</p>
+<p>Figulus Clusinius, VII. ii. 4 <hi rend="italics">sq.</hi> and 26.</p>
+<p>Flaccus, see Valerius.</p>
+<p>Flaminius, II. xvi. 5.</p>
+<p>Cn. Flavius, VIII. iii. 22.</p>
+<p>Flavus, see Sergius and Verginius.</p>
+<p>Florus, see Julius.</p>
+<p>Fonteius, VI. iii. 51.</p>
+<p>Fulvius, VI. iii. 100.</p>
+<p>Furius, see Bibaculus.</p>
+
+<pb id="p.525"/>
+
+<p>Clabinius, XI. i. 73.</p>
+<p>A. Galba, wit, VI. iii. 27, 62, 64, 66, 80, 90.</p>
+<p>Servius Galba, II. xv. 8.</p>
+<p>Galliae, VIII. v. 15; X. iii. 13.</p>
+<p>Gallio, III. i. 21; IX. ii. 91.</p>
+<p>Gallus, see Cornelius and Sulpicius.</p>
+<p>Gallus, III. viii. 19; VI. iii. 38 and 79; VIII. iv. 20.</p>
+<p>Gavius, I. vi. 36.</p>
+<p>Germani, VIII. iv. 30; VIII. v. 24.</p>
+<p>Gerinania, III. viii. 19.</p>
+<p>Germanicum bellnm, x. i. 103.</p>
+<p>Germanicus, see Domitianus.</p>
+<p>Geta, I. Pr. 6.</p>
+<p>Glaucia, II. xvi. 5.</p>
+<p>Glaucus of Carystus, XI. ii. 14.</p>
+<p>Glyco Spiridion, VI. i. 41.</p>
+<p>Gnipho, see Antonius.</p>
+<p>Gorgias of Leontini, II. xxi. 21; III. i. 8, 9. 12, 13, 18 <hi rend="italics">sq.</hi>; III. viii. 9; IX. ii. 102; IX. iii. 74; XII. xi. 21.</p>
+<p>Gracchi, I. i. 6; II. v. 21; II. xvi. 5; III. vii. 21: v. xi. 6; VIII. v. 33; XII. x. 10 and 45.</p>
+<p>C. Gracchus, I. x. 27; IX. iv. 15; XI. iii. 8 and 115.</p>
+<p>Tib. Gracchus, V. xiii. 24; VII. iv. 13.</p>
+<p>Graecia, III. iv. 14; XII. ii. 22; XII. x. 28.</p>
+<p>Gracci, I. i. 12 and 13; I. v. 32 and 60 <hi rend="italics">sqq.</hi>; I. x. 21; V. xiv. 32; X. i. 22; XI. i. 89; XI. ii. 51; XI. iii. 102, 123, 138; XII. ii. 30; XII. x. 33; XII. xi. 23.</p>
+<p>Grail, VIII. iv. 21.</p>
+<p>Gratiae, X. i. 82.</p>
+<p>Hannibal, II. xvii. 19; III. viii. 17; V. x. 48; VIII. iv. 20.</p>
+<p>Heius, VII. iv. 36.</p>
+<p>Helena, III. viii. 9; VIII. iv. 21.</p>
+<p>Hegesias, sculptor, XII. x. 7.</p>
+<p>C. Helvinus Cinna, poet , X. iv. 4.</p>
+<p>Helvius Mancia, VI. iii. 38.</p>
+<p>Hercules, III. vii. 6; VI. i. 36; VII. ii. 17; x. i. 56; XI. iii. 73.</p>
+<p>Hermagoras, rhetorician, II. xv. 14; II. xxi. 21; III. i. 16; III. iii. 9; III. v. 4 and 14; III. vi. 3, 21, 53, 56, 59 <hi rend="italics">sq.</hi>; III. xi. 1 and 18; III. xviii. 22; V. ix. 12; IX. ii. 106.</p>
+<p>Herinagoras, pmpil of Theodorus of Gadara, III. i. 18.</p>
+<p>Hermagorei, III. i. 1 and 16; III. v. 4; VII. iv. 4.</p>
+<p>Herinocreon, V. x. 78.</p>
+<p>Herodotus, IX. iv. 18 and 46; x. i. 73 and 101.</p>
+<p>Hesiodus, I. i. 15; v. xi. 19; X. i. 52.</p>
+<p>Hippiae nuptiae, VIII. iv. 16.</p>
+<p>Hippias of Elis, III. i. 10 and 12; XII xi. 21.</p>
+<p>Hippocrates, VI. iii. 34.</p>
+<p>Hirtius, VIII. iii. 54; XII. xi. 6.</p>
+<p>Hispania, I. v. 57.</p>
+<p>Hispo, VI. iii. 100.</p>
+<p>Homerus, I. viii. 5: II. iii. 12; II. xvii. 8 and 18; V. xii. 14; VII. x. 11; VIII. v 9; VIII vi 18; x. i. 24, 46 <hi rend="italics">sqq.,</hi> 57, 62, 65, 81, 85; XII. iv. 2; XII. x. 5 and 64; XII. xi. 21 and 26. <hi rend="italics">Hiad</hi> (i. 249), XII. x. 64; (ii. 180) III. vii. 12; (ii. 201) IX. iii. 57: (ii. 255 <hi rend="italics">sqq.</hi>) XI. i. 37; (ii. 477) III. vii. 12; (ii. 558) v. xi. 40; (iii. 156 <hi rend="italics">sqq.</hi>) VIII. iv. 21; (iii. 214 and 221 <hi rend="italics">sqq.</hi>) XII. x. 64; (iii. 217) XI. iii. 158; (iv. 125) I. v. 72; (iv. 299) V. xii.II: (v. 801) III. vii. 12; (vii. 219) VIII. ix. 24; (xvi. 140) VIII. iv. 24; (xxi. 196) X. i. 46; <hi rend="italics">Odyssey</hi> (viii. 173) XII. x. 65; (ix. 394) I. v. 72; (vi. 130) I. v. 67; (xi. 523) VIII. iii. 84; (xv. 299) VIII. vi. 37.</p>
+<p>Horatius, one of three Horatit, III. vi 76; IV. ii. 7; V. xi. 10; VII. iv. 8.</p>
+<p>Horatius, I.viii. 6; X. i. 94 and 96; <hi rend="italics">Odes</hi> (I. iv. 13) VIII. vi. 27; (I. xii. 1) VIII. ii. 9; (I. xii. 40) IX. iii. 18; (i. 14) VIII. vi. 44; (I. xv. 24) IX. iii. 10; (II. xiii. 26) X. i. 63; (III. vi. 36) VIII. ii. 9; (IV. ii.) X. i. 61; (IV.ii. 11) IX . iv. 54; <hi rend="italics">Epistlis</hi> (I. i. 41), IX. iii. 10; (I. i. 73) V. xi. 20; (I. v. 23) XI. iii. 80; <hi rend="italics">Ars poet</hi> (1), VIII. iii. 60; (25) IX. iii. 65; (63) VIII. vi. 23; (139) VIII. iii. 20; (311) I. v. 2: (359) X. i. 56; (388)Introd. 2; (402) X. i. 56; <hi rend="italics">Satires.</hi> (I. i. 100) IX. iv. 65; (I. iv. 11) X. i. 94; (I. vi. 104) I. v. 57; (I. x 44) VI. iii. 20; (II. v. 41) VIII. vi 17; (II. vi. 83) IX ii. 17.</p>
+<p>Q. Hortensius, I. v. 12; II. i. II; III. v. 11; IV. v. 24; VI. iii. 98; VIII. iii. 35; X. i. 23; X. v. 13; X. vi.4; XI ii. 24; XI. iii. 8; XII. vii. 4; XII. x. 11 and 27.</p>
+
+<pb id="p.526"/>
+
+<p>Hortensius, daughter of, I. i. 6.</p>
+<p>Hyperbolus, I. x. 18.</p>
+<p>Hyperides, II. xv. 9; X. i. 77; X. v. 2; XII. x. 22.</p>
+<p>Ilium, v. x. 42.</p>
+<p>Interamna, IV. ii. 88.</p>
+<p>Jopas, I. X. 10.</p>
+<p>Iphicrates v. xii. 10.</p>
+<p>Iphigenia, II. xiii. 13.</p>
+<p>Irus, III. vii. 19.</p>
+<p>Isacus, XII. x. 22.</p>
+<p>Isuuricus, VI. iii. 25 and 48.</p>
+<p>Isocrates, II. viii. 11; II. xv. 4 and 33: III. i. 13-15; III. iv. 11; III. v. 18; III. vi. 3; III. viii. 9: IV. ii. 31.; IX. iii. 74; IX. iv. 4 and 35; X. i. 74 and 108; XII. x. 22 and 50.</p>
+<p>Isthmos, III. viii. 16.</p>
+<p>Italia, I. vi. 31; 1. xii. 15; VII. ii. 26.</p>
+<p>Iuba, VI. iii. 90; XI. i. 80.</p>
+<p>Iudaicae superstitionis auctor, III. vii. 21.</p>
+<p>Iulia basilica, XII. v. 6.</p>
+<p>Iulius Africanus, VIII. v. 15; X. i. 118; XII. X. 11.</p>
+<p>C. Iulius Caesar Strabo, VI. iii. 38; IX. i. 28; XI. iii. 129.</p>
+<p>Iulius Florus, x. iii. 13.</p>
+<p>Iulius Secundns, X. i. 120 <hi rend="italics">sq.</hi>; x. iii. 12 <hi rend="italics">sqq.</hi>; XII. x. 11.</p>
+<p>Iunius Bassus, VI. iii. 27, 57, 74.</p>
+<p>Iuno, I. vi. 25; VIII. iv. 18.</p>
+<p>Iuppiter, I. vi. 25; II. iii. 6; III. vii. 4 and 8; X. i. 46; XII. x. 19.</p>
+<p>Labienus (i), V. xiii. 20.</p>
+<p>Labienus (ii), I. v. 8; IV. i. 11; ix iii. 13.</p>
+<p>Laeedaemon, III. vii. 24.</p>
+<p>Lacedaemonii, i. x. 14; I. xi. 18; II. xvi. 4; VII. ii. 4.</p>
+<p>Laches, VII. ix. 10.</p>
+<p>Laelia, I. i. 6; IX. iv. 32.</p>
+<p>D. Laelius Balbus, X. i. 24; XII. x. 10 and 39.</p>
+<p>Laenas Popilius, III. i. 21; X. vii. 32; xi. iii. 183.</p>
+<p>Latium, I. vi. 31.</p>
+<p>Latona, III. vii. 8.</p>
+<p>Latro see Porcius.</p>
+<p>Lentulus (Catilinarian), V. x. 30; (Spinther), VI.iii. 57.</p>
+<p>Cn. Lentulus (orator), XI.iii. 8.</p>
+<p>Lentuli, VI. iii. 67.</p>
+<p>Leocrates, XI. ii. 14.</p>
+<p>Leonidas, I. i. 9.</p>
+<p>Liber, III. viii. 8; VIII. vi. 24.</p>
+<p>Liburunia, IX. ii. 34.</p>
+<p>Licinius, see Archias.</p>
+<p>Ligarius, VII. ii. 6.</p>
+<p>Linus, I.X. 9.</p>
+<p>Livius Andronicus, X. ii. 7.</p>
+<p>T. Livius, I. v. 56; I. vii. 24; II. v. 19; VIII. i. 3; VIII. iii. 53; X. i. 101; <hi rend="italics">Praef.</hi> (1), IX. iv. 74; (i. 9) IX. ii. 37; (i. 12) I. v. 44; (ii. 27) VIII. vi. 20; (xxxviii. 54) VIII. vi. 9; <hi rend="italics">Epist. ad filium,</hi> II. v. 20; X. i. 39; (?) VIII. ii. 18.</p>
+<p>Lotophagi, V. viii. 1.</p>
+<p>Lucanus, X. i. 90.</p>
+<p>Lucilius, I. v. 6; I. vi. 8; I. vii. 15 and 19; I. viii. 11; IX. iv. 38 and 113; X. i. 94.</p>
+<p>Lucretia, V. xi. 10.</p>
+<p>Lucretius, I. iv. 4; X. i. 87; XII. xi. 27; (i. 936) III. i. 4; (iv. 1) VIII. vi. 45; (iv. 11) III. i. 4.</p>
+<p>Luculli, XII. vii. 4.</p>
+<p>Lupercalia, I. v. 66.</p>
+<p>Lupus, see Rutilius.</p>
+<p>Luranius, IX. iv. 38.</p>
+<p>C. Lusius, III. xi. 14.</p>
+<p>Lycurgus (lawgiver), I. x. 15.</p>
+<p>Lycurgus (orator), XII. x. 22.</p>
+<p>Lydia, III. vii. 6.</p>
+<p>Lysias, II. xvii. 6; III. viii. 51; IX. iv. 16 and 17; X. i. 78; XII. x. 21 <hi rend="italics">sqq.</hi></p>
+<p>Lysippus, XII. x. 9.</p>
+<p>Macer, VI. iii. 96; X. i. 56; X. i. 87; XII. xi. 27.</p>
+<p>Maecenas, I. vi. 62; IX. iv. 28.</p>
+<p>Sp. Maclius, III. vii. 20; V. ix. 13; V. xiii. 24.</p>
+<p>Magnus, V. x. 30.</p>
+<p>Mancia, see Helvius.</p>
+<p>Mancinus, VII. iv. 21.</p>
+<p>M. Manlius, V. ix. 13; V. xi. 7; VII. ii. 2; cp. also III. vii. 20.</p>
+<p>Manlius Sura, VI. iii. 54; XI. iii. 126.</p>
+<p>Marathon, IX. ii. 62; XI. iii. 168; XII. x. 24.</p>
+<p>M. Marcellus, V. xi. 7; X. i. 38.</p>
+<p>Marcellus Victorius, see Victorius.</p>
+<p>Marcia, III. v. 11; X. v. 13.</p>
+<p>Marcianus, VI. iii. 95.</p>
+<p>Maricas, I. x. 18.</p>
+
+<pb id="p.527"/>
+
+<p>Marius, III. viii. 37.</p>
+<p>Marrucini, VII. ii. 26.</p>
+<p>Mars, III. vii. 5, 8; VIII. vi. 24.</p>
+<p>Marsus, see Domitius.</p>
+<p>Matius, III. i. 18.</p>
+<p>Medea, VIII. v. 6; IX. ii. 8; X. i. 98; XI. iii. 71.</p>
+<p>Megabyzus, V. xii. 21.</p>
+<p>Megarii, V. xi. 40.</p>
+<p>Melanthius, XII. x. 6.</p>
+<p>Menaleas, VIII. vi. 47.</p>
+<p>Menander, I. viii. 7; I. x. 18; III. vii. 18; III. xi. 27; IX. iii. 89; X. i. 69, 70; XI. iii. 91; XII. x. 25.</p>
+<p>Menelaus, II. xiii. 13; VIII. iii. 81; XII. x. 61.</p>
+<p>Mercurius, III. vii. 8.</p>
+<p>Meropes, VIII. vi. 71.</p>
+<p>Messala, I. v. 15 and 61; I. vi. 42; I. vii. 23 and 34; IV. i. 8; VIII. iii. 34; IX. iv. 38; X. i. 22, 24, 113; X. v. 2; XII. x. 11; XII. xi. 28.</p>
+<p>Metellus, IX. iii. 50.</p>
+<p>Metrodorus of Scepsis, X. vi. 4; XI. ii. 22 and 26.</p>
+<p>Milo of Croton, I. ix. 5.</p>
+<p>T. Milo, III. v. 10; III. xi. 15 and 17; IV. ii. 25 and 27; V. ii. 1; VI. iii. 59; VI. v. 10; VII. i. 34 <hi rend="italics">sqq.</hi>; VII. ii. 45; VII. iv. 8; X. v. 13; XI. i. 40.</p>
+<p>Minerva, III. vii. 8; X. i. 91; XI. i. 24; XII. x. 9.</p>
+<p>Misericordia, V. xi. 38.</p>
+<p>Mithridates, VIII. iii. 82; XI. ii. 50.</p>
+<p>Modestus, I. vi. 36.</p>
+<p>Mors, IX. ii. 36.</p>
+<p>Mucii, XII. iii. 30.</p>
+<p>L. Murena, VI. i. 35.</p>
+<p>Musa, IV. Pr. 4; X. i. 55.</p>
+<p>Myron, II. xiii. 10; XII. x. 7.</p>
+<p>Naevius of Arpinum, VII. ii. 24.</p>
+<p>Narbonensis, VI. iii. 44.</p>
+<p>Nasica, V. xiii. 24.</p>
+<p>Naucrates, III. vi. 3.</p>
+<p>Neptunus, III. vii. 8.</p>
+<p>C. Nero (Claudius), VI. iii. 50.</p>
+<p>Nero Imp., VIII. v. 15 and 18.</p>
+<p>Nestor, XII. x. 64.</p>
+<p>Nicander, X. i. 56.</p>
+<p>Nicias, I. x. 48.</p>
+<p>Nicostratus, II. viii. 14.</p>
+<p>Nigidius, XI. iii. 143.</p>
+<p>Nircus, I. x. 48.</p>
+<p>Nonianus, see Servilius.</p>
+<p>Novanius Gallio, P., IX. ii. 35.</p>
+<p>Numa, I. x. 20; III. vii. 18; VII. i. 24.</p>
+<p>Numantia, VIII. vi. 30.</p>
+<p>Numantinus, III. viii. 3; VII. iv. 12.</p>
+<p>Oceanus, III. viii. 16; VII. iv. 2; X. i. 46.</p>
+<p>Oedipus, IX. iii. 89.</p>
+<p>Opitergini, III. viii. 23 and 30.</p>
+<p>Oppianicus, V. ii. 1.</p>
+<p>P. Oppius, VI. iii. 67; XI. i. 67.</p>
+<p>Orators, fragments of unknown, V. x. 71; VIII. ii. 3; VIII. v. 20 <hi rend="italics">sqq.</hi>; VIII. vi. 14; IX. ii. 17 and 50; IX. iii. 15, 48, 87.</p>
+<p>Orestes, III. xi. 4 <hi rend="italics">sqq.,</hi> 11, 20; III. v. 11; VII. iv. 8.</p>
+<p>Orpheus, I. x. 9.</p>
+<p>Ostiensis portus, II. xxi. 18; III. viii. 16.</p>
+<p>Ovidius Naso, VI. iii. 96; X. i. 88, 93, 98; <hi rend="italics">Metamorph.,</hi> IV. i. 77; (i. 502) VIII. iii. 47; (v. 17) IX. iii. 48; (x. 422) IX. ii. 64; (xi. 456) IX. iv. 65; (xiii. 1) I. v. 43; (xiii. 5) V. x. 41; <hi rend="italics">Rem. Am.</hi> (707), XII. x. 74; <hi rend="italics">Medea,</hi> VIII. v. 6; X. i. 98; <hi rend="italics">Epigrams,</hi> IX. iii. 70.</p>
+<p>Pacuvius, I. v. 67; I. viii. 11; I. xii. 18; VIII. vi. 35; X. i. 97.</p>
+<p>Padus, I. v. 8.</p>
+<p>Palaemo, I. iv. 20; I. vi. 35.</p>
+<p>Palamedes, III. i. 10.</p>
+<p>Palla, IV. ii. 27.</p>
+<p>Pallas, VI. ii. 33.</p>
+<p>Pamphilus, painter, XII. x. 6.</p>
+<p>Pamphilus, rhetorician, III. vi. 34.</p>
+<p>Pansa, XII. xi. 6.</p>
+<p>Panyasis, X. i. 54.</p>
+<p>Paris, III. vii. 19; V. x. 84; VIII. iv. 21.</p>
+<p>Parius, II. xix. 3.</p>
+<p>Parrhasius, XII. x. 4 <hi rend="italics">sq.</hi></p>
+<p>Parthi, III. viii. 33.</p>
+<p>Passienus, see Crispus.</p>
+<p>Patrocles, rhetorician, II. xv. 16; III. vi. 44.</p>
+<p>Patroclus, X. i. 49.</p>
+<p>Panlus, L., I. x. 47.</p>
+<p>Pedianus Asconius, I. vii. 24; V. x. 9.</p>
+<p>Pedo Albinovanus, VI. iii. 61; X. i. 90.</p>
+<p>Pelides, VIII. vi. 29.</p>
+<p>Peloponnesius, VII. ii. 7; XII. x. 4.</p>
+<p>Pelops, IX. iv. 140.</p>
+
+<pb id="p.528"/>
+
+<p>Pericles, I. x. 47; II. xvi. 19; III. i. 12; X. i. 82; XII. ii. 22; XII. ix. 3; XII. x. 24, 49, 65.</p>
+<p>Peripatetici, II. xv. 20; II. xvii. 2; III. i. 15; XII. ii. 25.</p>
+<p>Perses, III. vii. 21.</p>
+<p>Persius, X. i. 94; <hi rend="italics">Sat.</hi> (i. 9), IX. iii. 9; (i. 26) IX. iii. 42; (i. 95) IX. iv. 65; (i. 106) X. iii. 21; (v. 71) I. v. 8.</p>
+<p>Pharsalus, XI. ii. 14.</p>
+<p>Phidias, II. iii. 6; XII. x. 8 <hi rend="italics">sqq.</hi></p>
+<p>Philemon, X. i. 72.</p>
+<p>Philetas, X. i. 58.</p>
+<p>Philippus, consul, XI. i. 37.</p>
+<p>Philippus, L. Marcius, VI. iii. 81.</p>
+<p>Philippus of Macedon, I. i. 23; XII. x. 6.</p>
+<p>Philistus, X. i. 74.</p>
+<p>Philocteta, V. x. 84.</p>
+<p>Philodamus, IV. ii. 114; XI. iii. 171.</p>
+<p>Phoenix, II. iii. 12; II. xvii. 8.</p>
+<p>Phormio, VI. iii. 56.</p>
+<p>Phryne, II. xv. 9; X. v. 2.</p>
+<p>Picens, IV. ii. 2.</p>
+<p>Pindarus, VIII. vi. 71; X. i. 69 and 109.</p>
+<p>Piraeus, VIII. vi. 64.</p>
+<p>Pisandros, X. i. 56.</p>
+<p>Pisaurum, VII. ii. 26.</p>
+<p>Pisistratus, V. xi. 8.</p>
+<p>Piso, C., IX. iii. 22.</p>
+<p>Piso, IX. ii. 61.</p>
+<p>Placentinus, I. v. 12.</p>
+<p>Placidus, VI. iii. 53.</p>
+<p>Plancus, Cn., VI. iii. 44.</p>
+<p>Platacae, XI. iii. 168.</p>
+<p>Plato, I. x. 13, 15, 17; I. xi. 17; I. xii. 15; II. xv. 24, 26, 29; V. vii. 28; VIII. vi. 64; IX. iv. 77 <hi rend="italics">sq.</hi>; X. i. 81 and 108; X. v. 2; XII. ii. 22; XII. x. 24; XII. xi. 22; <hi rend="italics">Gorg.,</hi> (419 E) II. xxi. 1 and 4; (452 E) II. xv. 10; (453 A) II. xv. 5; (454 B) II. xv. 18; (460 C) II. xv. 27; (462 B) II. xv. 24; (463 D) II. xv. 25; (464 B) II. xv. 25; (466 A) II. xv. 25; (500 C) II. xv. 27; (508 C) II. xv. 28; <hi rend="italics">Phaedr.</hi> (261 A), II. xv. 19; II. xxi. 4; (261 D) III. i. 10; (266 E) III. i. 11; (267 A) II. xv. 31; (273 E) II. xv. 29; (275 A) XI. ii. 9; <hi rend="italics">Respubl.</hi> I. <hi rend="italics">init.,</hi> VIII. vi. 64; <hi rend="italics">Soph.</hi> (222 C), III. iv. 10; <hi rend="italics">Symp.</hi> (218 B), VIII. iv. 23; <hi rend="italics">Tim. init.,</hi> IX. iv. 77; (47) I. x. 13.</p>
+<p>Plautia lex, IX. iii. 56.</p>
+<p>Plautus, comic poet, X. i. 99.</p>
+<p>Plautus, Stoic, X. i. 124; cp. II. xiv. 2; III. vi. 23.</p>
+<p>Pletorius, VI. iii. 51.</p>
+<p>Plinius (the elder), III. i. 21; XI. ii. 143 and 148.</p>
+<p>Plisthenes, III. vii. 19.</p>
+<p>Plotius, II. iv. 42; XI. iii. 143.</p>
+<p>Poeni, I. v. 57.</p>
+<p>Pollio, see Asinius.</p>
+<p>Pollux, XI. ii. 11.</p>
+<p>Polus, II. xv. 28.</p>
+<p>Polycletus, XII. x. 7.</p>
+<p>Polycrates, II. xvil. 4; III. i. 11.</p>
+<p>Polyguotus, XII. x. 3 and 10.</p>
+<p>Polynices, V. x. 31.</p>
+<p>Polyxena, VI. ii. 23.</p>
+<p>Pompeius, Cn., III. viii. 33, 50, 56 <hi rend="italics">sqq.</hi>; IV. ii. 25; IV. iii. 13; VI. iii. 111; VII. ii. 6; VIII. iii. 21; IX. ii. 55; IX. iii. 95; XI. i. 80; XI. iii. 164.</p>
+<p>Pompeius, S., III. viii. 44.</p>
+<p>Pomponius Secundus, VIII. iii. 31; X. i. 98.</p>
+<p>Pomponius, VI. iii. 75.</p>
+<p>Pomptina palus, III. viii. 16.</p>
+<p>Popilius, see Laenas.</p>
+<p>Porcius Latro, IX. ii. 91; X. v. 18.</p>
+<p>Posidonius, III. vi. 37.</p>
+<p>Praxiteles, II. xix. 3; XII. x. 9.</p>
+<p>Priamus, III. viii. 53; VIII. iv. 21 <hi rend="italics">sqq.</hi>; X. i. 50.</p>
+<p>Priuernas ager, VI. iii. 44.</p>
+<p>Proculcius, VI. iii. 79; IX. iii. 68.</p>
+<p>Prodamus, I. x. 18.</p>
+<p>Prodicus, III. i. 10 and 12; III. iv. 10.</p>
+<p>Propertius, X. i. 93.</p>
+<p>Proserpina, IV. ii. 9; IV. iii. 13; XI. iii. 164.</p>
+<p>Protagoras, III. i. 10 and 12; III. iv. 10.</p>
+<p>Protogenes, XII. x. 6.</p>
+<p>Ptolomaeus, VII. ii. 6.</p>
+<p>Publilia Cicerouis, VI. iii. 75.</p>
+<p>Punicum bellum, III. viii. 30.</p>
+<p>Pyrrhus, II. xvi. 7; V. x. 10; VI. iii. 10; VII. ii. 6.</p>
+<p>Pyrron, XII. ii. 24.</p>
+<p>Pythagoras, I. x. 12 and 32; XI. i. 27; XII. i. 19.</p>
+<p>Pythagorei, I. xii. 15; IX. iv. 12.</p>
+<p>Quintilianus pater, IX. iii. 37.</p>
+<p>Quintilianus filius, I. Pr. 1 <hi rend="italics">sqq.</hi>; II. xii. 12; III. i. 22; III. vi. 68; IV. Pr. 2 <hi rend="italics">sqq.</hi>; IV. i. 19; IV. ii. 86; V.
+
+<pb id="p.529"/>
+
+i. 3; V. xii. 15; V. vii. 7; VI Pr. 1 and 3; VI. ii. 25; VII. i. 3, 22, 29, 54; VII. ii. 24; VIII. vi. 76; IX. ii. 73; X. i. 91; XI. i. 5; XI. ii. 39; XII. xi. 8.</p>
+<p>Quintius, V. xiii. 39.</p>
+<p>Quirinus, I. vii. 12.</p>
+<p>Rabirius Postumus, VII. i. 9.</p>
+<p>Rabirius, poet, X. i. 90.</p>
+<p>Reguli, XII. ii. 30.</p>
+<p>Rhodii, XI. iii. 7.</p>
+<p>Rhodus, III. i. 17; XII. vi. 7.</p>
+<p>Roma, V. ix. 5.</p>
+<p>Romani veteres, I. x. 20; III. vii. 24.</p>
+<p>Romulus, II. iv. 19; III. vii. 5.</p>
+<p>Roscius Amerinus, S., VII. ii. 2 and 23.</p>
+<p>Roscius, Q., actor, XI. iii. 111.</p>
+<p>Rufus, see Antonius.</p>
+<p>Rullus, VIII. iv. 28.</p>
+<p>Rutilius Lupus, IX. ii. 99, 101 <hi rend="italics">sqq.</hi>; IX. iii. 36 and 89; (i. 4) IX. iii. 65; (i. 5) IX. iii. 68; (i. 10) IX. iii. 36; (ii. 2) IX. iii. 92; (ii. 6) IX. iii. 89; (ii. 12) IX. iii. 75; (ii. 16) IX. iii. 84, 91; (ii. 19) IX. iii. 93.</p>
+<p>Rutilius, P., V. ii. 4; XI. i. 12.</p>
+<p>Sacerdos, VI. iii. 55.</p>
+<p>Saguntini, III. viii. 23.</p>
+<p>Salamis, V. xi. 40; IX. ii. 62; XI. iii. 168; XII. x. 24.</p>
+<p>Salarius, VII. i. 9.</p>
+<p>Saleius Bassus, X. i. 90.</p>
+<p>Saliorum carmina, I. vi. 40; I. x. 20.</p>
+<p>Sallustius Crispus, II. xv. 9; IV. ii. 45; VIII. iii. 29; X. i. 32, 101, 102 <hi rend="italics">sq.</hi>; X. ii. 27; X. iii. 8; <hi rend="italics">Cat.</hi> (17), VIII. iii. 44; (20) III. viii. 45; <hi rend="italics">??ug.</hi> (1), IX. iv. 77; (x. 1) IX. iii. 12; (x. 7) VIII. v. 4; (xix.) II. xiii, 14; (xx.) III. viii. 45; (xxi.) VIII. iii. 44; (xxiv. (?)) IX. iii. 17; (xxxviii.) VIII. iii. 44; <hi rend="italics">??ist. fr.,</hi> IV. ii. 2; VIII. iii. 82; VIII. vi. 59; IX. iii. 12; XII. ix. 9; <hi rend="italics">Decl. in Cic.,</hi> IV. i. 68; IX. iii. 89.</p>
+<p>Samnites, III. viii. 17.</p>
+<p>Santra, XII. x. 16.</p>
+<p>Sardus, I. v. 8; XI. i. 89.</p>
+<p>Sarmentus, VI. iii. 58.</p>
+<p>Saturninus, II. xvi. 5; V. xi. 6; VI. i. 49; VII. i. 9.</p>
+<p>Saturnus, I. vi. 36.</p>
+<p>Scaevola, Q., VII. vi. 9; XII. iii. 9.</p>
+<p>Scaevola, XI. ii. 38.</p>
+<p>Scamander, XI. i. 74.</p>
+<p>Scaurus, M. Aeinilius, V. xii. 10; V. xiii. 40 and 55.</p>
+<p>Scipio Africanus Major, III. viii. 17; V. x. 48; VIII. iv. 20; VIII. vi. 9; XI. i. 12; XII. x. 10.</p>
+<p>Scipio Africanus Minor, I. vii. 25; VIII. vi. 30 and 43; X. i. 99; XII. x. 10 and 39.</p>
+<p>Scipio, Metellus, V. xi. 10.</p>
+<p>Scipio. see also Serapio and Nasica.</p>
+<p>Scopa, XI. ii. 14 <hi rend="italics">sqq.</hi></p>
+<p>Seneca, philosopher, VIII. v. 18; IX. ii. 8; X. i. 125 <hi rend="italics">sqq.</hi>; XII. x. 11.</p>
+<p>Seneca, rhetorician, VIII. iii. 31; IX. ii. 48 <hi rend="italics">sq.,</hi> 98.</p>
+<p>Septimius, IV. i. 19.</p>
+<p>Serapio, VI. iii. 57.</p>
+<p>Serranus, X. i. 89.</p>
+<p>Servilia lex, VI. iii. 44.</p>
+<p>Servilius Nonianus, X. i. 102.</p>
+<p>Servius, IX. iv. 38.</p>
+<p>Severus, see Cassius, Cornelius.</p>
+<p>Sextii, X. i. 124.</p>
+<p>Sibyllinilibri, V. x. 30.</p>
+<p>Sicilia, I. vi. 30; I. x. 48; III. vii. 27; IV. iii. 13, 21; VI. iii. 80; XI. iii. 164.</p>
+<p>Sicinius, O., XI. iii. 129.</p>
+<p>Siculus, VI. iii. 41; X. i. 89.</p>
+<p>Simonides, X. i. 64; XI. ii. 11.</p>
+<p>Sinon, IX. ii. 9.</p>
+<p>Sirenes, V. viii. 1.</p>
+<p>Sisenna, I. v. 13; VIII. iii. 35.</p>
+<p>Socrates, I. x. 13; I. xi. 17; II. xv. 26, 30; II. xvi. 3; II. xxi. 4; III. i. 9; IV. iv. 5; V. xi. 3, 27, 42; VIII. iv. 23; IX. ii. 46, 85; XI. i. 9 <hi rend="italics">sq.</hi>; XII. vii. 9; XII. x. 4.</p>
+<p>Socratici, V. vii. 28; V. xi. 27; X. i. 35, 81 <hi rend="italics">sq.</hi>; XII. i. 10.</p>
+<p>Sol, I. vii. 12.</p>
+<p>Sophocles, X. i. 67.</p>
+<p>Sophron, I. x. 17.</p>
+<p>Sosipater, VII. ii. 4.</p>
+<p>Spatale, VIII. v. 17 and 19.</p>
+<p>Sphinx, VI. iii. 98.</p>
+<p>Spiridion, see Glyco.</p>
+<p>Staienus, IV. ii. 107.</p>
+<p>Stertinius, III. i. 21.</p>
+<p>Stesichorus, X. i. 62.</p>
+<p>Stilo, see Aelius.</p>
+<p>Stoici, I. iv. 19; I. x. 15; II. xv. 20; II. xvii. 2; III. i. 15; V. vii. 35;
+
+<pb id="p.530"/>
+
+VI. iii. 78; X. i. 84, 124; XI. i. 70; XII. i. 18 and 38; XII. ii. 24.</p>
+<p>Stratocies, XI. iii. 178 <hi rend="italics">sqq.</hi></p>
+<p>Suelius, VI. iii. 78.</p>
+<p>Suetonii Caesar (53), VIII. ii. 9.</p>
+<p>Sulla, III. viii. 53; V. x. 30 and 71; XI. i. 12 and 85.</p>
+<p>Sulpicianus, VI. iii. 75.</p>
+<p>Sulpicius Gallus, I. x. 47; II. xv. 8.</p>
+<p>Sulpicius, Servius, III. viii. 5; IV. ii. 106; VI. i. 20; VII. iii. 18; IX. iii. 21; X. i. 22 and 116; X. v. 4; X. vii. 30; XI. i. 69; XII. iii. 9; XII. vii. 4; XII. x. 11.</p>
+<p>Sulpicius Longus, VI. iii. 32.</p>
+<p>Sura, see Manlius.</p>
+<p>Sybaritae, III. vii. 24.</p>
+<p>Syri sententia (486), VIII. v. 6; IX. iii. 64.</p>
+<p>Syracusae, I. x. 48.</p>
+<p>Syracusani, V. xi. 7.</p>
+<p>Tabulae XII, I. vi. 11; III. vi. 84; V. xiv. 18.</p>
+<p>Tarentini, VI. iii. 10.</p>
+<p>Tarentum, VII. viii. 4.</p>
+<p>Terentianus pater, XI. i. 39.</p>
+<p>Terentius, I. viii. 11; VI. iii. 56; VIII. iii. 35; X. i. 99; XI. i. 39; <hi rend="italics">Andr.</hi> (I. i. 41) VIII. v. 4; <hi rend="italics">Eun.</hi> (I. i. 1) IX. ii. 11; IX. iii. 16; IX. iv. 141; XI. iii. 182; (I. ii. 5) IX. iii. 18; (I. ii. 75) IX. ii. 58; <hi rend="italics">Phorm.</hi> (I.i. 2), I. vii. 22.</p>
+<p>Terentius Varro, M., I. iv. 4; I. vi. 12 and 37; X. i. 95 and 99; XII. xi. 24.</p>
+<p>Terraconenses, VI. iii. 77.</p>
+<p>Thebae, V. x. 111; XI. iii. 168.</p>
+<p>Thebani, V. x. 111 <hi rend="italics">sqq.</hi></p>
+<p>Themistocles, I. x. 19; IX. ii. 92; XI. ii. 50.</p>
+<p>Theocritus, X. i. 55.</p>
+<p>Theodectes, I. iv. 19; II. xv. 10; III. i. 14; IV. ii. 63; IX. iv. 88; XI. ii. 51.</p>
+<p>Theodorus of Byzantium, III. i. 11.</p>
+<p>Theodorus of Gadara, II. xv. 16 and 21; III. i. 17 <hi rend="italics">sqq.</hi>; III. vi. 2, 36, 51; III. xi. 3; IV. i. 23; V. xiii. 59.</p>
+<p>Theodorci, II. xi. 2; III. i. 18; III. iii. 8; III. xi. 27; IV. ii. 32.</p>
+<p>Theodotus, III. viii. 55 <hi rend="italics">sqq.</hi></p>
+<p>Theon, III. vi. 48; IX. iii. 76.</p>
+<p>Theophrastus, III. i. 15; III. vii. 1; III. viii. 62; IV. i. 32; VIII. i. 2; IX. iii. 76; IX. iv. 88; X. i. 27.</p>
+<p>Theopompus, historian, II. viii. 11; IX. iv. 35; X. i. 74.</p>
+<p>Theopompus of Sparta, II. xvii. 20.</p>
+<p>Thersites, III. vii. 19; XI. i. 37.</p>
+<p>Thessali, V. x. 111 <hi rend="italics">sqq.</hi></p>
+<p>Thetis, III. vii. 11.</p>
+<p>Thrasybulus, III. vi. 26; VII. iv. 44.</p>
+<p>Thrasymachus, III. iii. 4 and 12.</p>
+<p>Thucydides, IX. iv. 16; X. i. 33, 73 <hi rend="italics">sq.,</hi> 101; X. ii. 17; (i. 8) IX. iv. 78.</p>
+<p>Tibcrius Caesar, III. i. 17.</p>
+<p>Tibullus, X. i. 93.</p>
+<p>Tiburs, VI. iii. 44.</p>
+<p>Timagenes, I. x. 10; X. i. 75.</p>
+<p>Timanthes, II. xiii. 12.</p>
+<p>Timotheus, II. iii. 3.</p>
+<p>Tinga of Placentia, I. v. 12.</p>
+<p>Tiro, VI. iii. 5; X. vii. 31.</p>
+<p>Tisias, II. xvi. 3; II. xvii. 7; III. i. 8.</p>
+<p>Titius Maximus, VI. iii. 71.</p>
+<p>Titius, XI. iii. 128.</p>
+<p>Torquatus, V. xi. 10.</p>
+<p>Trachalus, VI. iii. 78; VIII. v. 19; X. i. 119; XII. v. 5 <hi rend="italics">sq.</hi>; XII. x. 11.</p>
+<p>Tragic poets, anonymous, quoted, VI. iii. 96; VIII. iii. 31 and 48; VIII. vi. 10, 14, 35; IX. iii. 57 and 77; IX. iv. 140.</p>
+<p>Trebatius, III. xi. 18; V. x. 64.</p>
+<p>Triarius, V. xiii. 40.</p>
+<p>Troia, VII. ii. 3.</p>
+<p>Troianus, VII. ii. 7; VIII. iv. 21.</p>
+<p>Troilus, VII. ix. 7.</p>
+<p>Tryphon I, Introd. letter.</p>
+<p>Tubero, V. xiii. 20 and 31; X. i. 23; XI. i. 78 and 80.</p>
+<p>Tullius, VI. iii. 53.</p>
+<p>Tuscanicae statuae, XII. x. 1 and 7.</p>
+<p>Tutilius, III. i. 21.</p>
+<p>Tydeus, III. vii. 12.</p>
+<p>Tydides, VIII. vi. 29.</p>
+<p>Tyndaridae, XI. ii. 16.</p>
+<p>Tyrtaeus, X. i. 56.</p>
+<p>Valerius Corvus, II. iv. 18.</p>
+<p>Valerius Flaccus, X. i. 90.</p>
+<p>Valgius, C., III. i. 18; III. v. 17; V. x. 4.</p>
+<p>Varenus, C., VII. i. 9.</p>
+<p>Varenus, Cn., VII. i. 9.</p>
+<p>Varius, III. viii. 45; X. i. 98; X. iii. 8.</p>
+<p>Varius of Suero, V. xii. 10.</p>
+<p>Varro, see Terentius.</p>
+<p>Varro, P., of Atax, I. v. 17; X. i. 87.</p>
+<p>Varus, L., VI. iii. 78.</p>
+
+<pb id="p.531"/>
+
+<p>Vatinius, V. vii. 6; IX. iii. 60, 68, 77, 84; XI. i. 73.</p>
+<p>Venus, II. iv. 26; VIII. vi. 24; X. i. 79 and 100.</p>
+<p>Vergilius Maro, I. vii. 8, 18, 20; I. viii. 5; I. x. 10; VI. ii. 32; VI. iii. 20; VIII. iii. 20, 24, 47, 63, 79, VIII. iv. 24; IX. iii. 14; X. i. 56. 85 <hi rend="italics">sqq.</hi>; X. iii. 8; XII. xi. 26 <hi rend="italics">sq.</hi>; <hi rend="italics">Aen.</hi> (i. 1), I. v. 27; IX. iii. 52; XI. iii. 36; (i. 3) XI. iii. 34; (i. 6) I. v. 18; (i. 19) IX. iii. 14; (i. 33) VIII. v. 11; (i. 45) I. v. 18; (i. 48) IX. ii. 10; (i. 65) VIII. vi. 29; (i. 67) IX. iii. 17; (i. 78) XI. iii. 176; (i. 81) VIII. iv. 18; (i. 109) VIII. ii. 14; (i. 135) IX. ii. 54; (i. 151) XII. i. 27; (i. 162) VIII. vi. 68; (i. 177) VIII. vi. 23; (i. 335) XI. iii. 70; (i. 369) I. v. 43; IX. ii. 7; (i. 399) IX. iii. 75; (i. 477) VII. ix. 7; (i. 617) XI. iii. 176; (i. 742) I. x. 10; (ii. 1) I. v. 43; (ii. 15) VIII. vi. 34; (ii. 29) IX. ii. 37; (ii. 69) IX. ii. 9; (ii. 104) IX. iii. 11; (ii. 262) VIII. iii. 84; (ii. 268) VIII. vi. 60; (ii. 307) VIII. vi. 10; (ii. 311) VIII. vi. 25; (ii. 355) VIII. iii. 72 and 78; (ii. 435) IX. iii. 35; (ii. 540) V. xi. 14; (iii. 29) VIII. iii. 70; (iii. 55) IX. iii. 25; (iii. 56) IX. ii. 10; (iii. 193) XII. Pr. 4; (iii. 234) IX. iii. 64; (iii. 321) VI. ii. 22; (iii. 436) II. xiii. 8; (iii. 475) VIII. vi. 42; (iii. 517) IX. iv. 65; (iii. 620) XI. iii. 70; (iii. 631) VIII. iii. 84; (iii. 659) VIII. iv. 24; (iv. 143) VIII. iii. 73; (iv. 174) IX. ii. 36; (iv. 254) I. v. 25; VIII. iii. 72; (iv. 359) VIII. iii. 54; (iv. 379) IX. ii. 50; (iv. 381) IX. ii. 48; (iv. 419) VIII. ii. 3; (iv. 425) IX. ii. 39; (iv. 495) VIII. vi. 29; (iv. 550) IX. ii. 64; (iv. 592) IX. ii. 11; (iv. 595) IX. iii. 25; (v. 9) XII. Pr. 4; (v. 212) VII. ix. 10; (v. 248) IX. iii. 9; (v. 264) VIII. iv. 25; (v. 319) VIII. vi. 69; (v. 426) VIII. iii. 63; (vi. 1) VIII. vi. 10; (vi. 16 and 19) VIII. vi. 18; (vi. 179) I. iv. 28; (vi. 275) VIII. vi. 27 and 41; (vi. 276) VIII. vi. 41; (vii. 464) I. vii. 18; (vii. 518) VIII. iii. 70; (vii. 649) VIII. iv. 6; (vii. 759) IX. iii. 34; (vii. 787) IX. iii. 15; (vii. 791) V. x. 10; (vii. 808) VIII. vi. 69; (viii. 641) VIII. iii. 19; (viii. 642) IX. iii. 26; (viii. 691) VIII. vi. 68; (viii. 728) VIII. vi. 11; XII. x. 61; (ix. 26) I. vii. 18; (ix. 474) VI. ii. 32; (ix. 773) VIII. vi. 12; (x. 1) I. iv. 28; IX. iv. 49; (x. 92) IX. ii. 49; (x. 782) VI. ii. 33; (xi. 40) VI. ii. 32; (xi. 89) VI. ii. 32; (xi. 142) VIII. vi. 21; (xi. 383) IX. ii. 49; XI. iii. 176; (xi. 406) IX. iii. 14; (xi. 681) VIII. ii. 10; VIII. vi. 40; (XII. 208) I. vi. 2; (xii. 638) IX. iii. 46; (xii. 646) VIII. v. 6; <hi rend="italics">Ed.</hi> (i. 2), IX. iv. 85; (i. 11) I. iv. 28; (i. 15) I. vi. 2; (i. 23) V. xi. 30; (i. 43) IX. iii. 53; (i. 81) X. i. 12; (ii. 66) VIII. vi. 22; (ii. 69) IX. iii. 28; (iii. 8) IX. iii. 59; (iii. 17 and 21) IX. ii. 13; (iii. 25) XI. iii. 176; (iii. 69) I. vi. 2; (iii. 103) VIII. vi. 73; (iii. 104) VIII. vi. 52; (iv. 62) IX. iii. 8; (vi. 5) VIII. ii. 9; (vi. 62) I. v. 35; (viii. 13) X. i. 92; (viii. 28) IX. iii. 6; (ix. 7) VIII. vi. 46; (ix. 45) IX. iv. 54; (x. 11) IX. iii. 18; (x. 50) X. i. 56; (x. 72) IX. iii. 44; <hi rend="italics">Georg.</hi> (i. 43) IV. ii. 2; (i. 54) IX. iii. 39; (i. 86) IX. iii. 96; (i. 181) VIII. iii. 20; (i. 183) IX. iii. 6; (i. 295) VIII. ii. 10; (i. 357) VIII. iii. 47; (i. 388) V. ix. 15; (i. 422) V. ix. 16; (i. 431) V. ix. 15; (i. 512) VIII. iii. 78; (ii. 74) I. v. 35; (ii. 169) IX. iii. 24; (ii. 272) I. iii. 13; (ii. 298) IX. iii. 21; (ii. 541) VIII. vi. 45; IX. iii. 20; (iii. 79) VIII. ii. 15; (iii. 83) VIII. ii. 15; (iii. 135) VIII. vi. 8; (iii. 243) I. v. 28; (iii. 344) IX. iii. 51; (iii. 346) IX. iii. 20; (iii. 364) VIII. vi. 40; (iii. 381) VIII. vi. 66; (iii. 435) IX. iii. 21; (iv. 59) VIII. vi. 18; (iv. 445) IX. iii. 15; <hi rend="italics">Catal.</hi> (2), VIII. iii. 27.</p>
+<p>Verginius Flavus, III. i. 21; III. vi. 45; IV. i. 23; VII. iv. 24; VIII. iii. 33; XI. iii. 126.</p>
+<p>Verres, VIII. vi. 37.</p>
+<p>Verrius, XI. i. 31.</p>
+<p>Vestinus, VI. iii. 64.</p>
+<p>Vettius of Praeneste, I. v. 56.</p>
+<p>Vibius Crispus, V. xiii. 48; VIII. v. 15 and 17; X. i. 119; XII. x. 11.</p>
+<p>Victori??e, IX. ii. 92.</p>
+<p>Victorius Marrellus Introd. letter, I. Pr. 6; 4 Pr. 1; VI. Pr. 1; XII. xi. 31.</p>
+
+<pb id="p.532"/>
+
+<p>Villius, A., VI. iii. 69.</p>
+<p>Virtus, IX. ii. 36.</p>
+<p>Visellius, IX. ii. 101 and 107; IX. iii. 89.</p>
+<p>Vita, IX. ii. 36.</p>
+<p>Vlixes, I. iv. 16; II. xiii. 13; IV. ii. 13; VI. iii. 96; XI. iii. 158; XII. x. 64.</p>
+<p>Voluptas, IX. ii. 36.</p>
+<p>Volusenus Catulus, X. i. 24.</p>
+<p>Vrbinia, IV. i. 11; VII. ii. 4 <hi rend="italics">sq.</hi> and 26.</p>
+<p>Vrbs, VI. iii. 17 and 102; VIII. ii. 5; VIII. v. 9.</p>
+<p>Vulcanus, VIII. vi. 23.</p>
+<p>Xenophon, V. xi. 27; X. i. 33, 75, 82; X. v. 2; <hi rend="italics">Mem.</hi> (ii. 1), IX. ii. 36; (iii. x. 1) XII. x. 4.</p>
+<p>Zeno, II. xx. 7; IV. ii. 117; XII. i. 28; XII. vii. 9.</p>
+<p>Zeuxis, XII. x. 4 <hi rend="italics">sq.</hi></p>
+<p>Zmyrna, IX. ii. 64.</p>
+<p>Zoilus, IX. i. 14.</p>
+<p>Zopyrus of <hi rend="italics">Clazomenae,</hi> III. vi. 3.</p>
+
+<pb id="p.533"/>
+
+<p><hi rend="italics">ab,</hi> I. vi. 69; XII. x. 32.</p>
+<p>abdicatio, III. vi. 76; VII. iv. 10, 25, 27, 29.</p>
+<p>ablativus casus, I. i. 26; I. v. 59; VII. ix. 10.</p>
+<p>absoluta defensio, VII. iv. 4 and 9.</p>
+<p><hi rend="italics">abstemius,</hi> I. vii. 9.</p>
+<p><hi rend="italics">abstulit,</hi> I. vi. 69.</p>
+<p><hi rend="italics">abversa,</hi> XII. x. 32.</p>
+<p>abusio, VIII. vi. 34 <hi rend="italics">sq.</hi>; VIII. ii. 5.</p>
+<p>accentus, I. v. 22; XII. x. 33.</p>
+<p>accusatio mutua, III. x. 4; VII. i. 3; VII. ii. 9 and 23; XI. i. 57.</p>
+<p>acervatio, IX. iii. 53.</p>
+<p><hi rend="italics">acetabulum,</hi> VIII. vi. 35.</p>
+<p><hi rend="italics">Achilli,</hi> I. v. 63.</p>
+<p>actus = <foreign lang="greek">pra=cis,</foreign> III. vi. 26.</p>
+<p><hi rend="italics">ad, at,</hi> I. vii. 5.</p>
+<p>ad aliquid, I. vi. 13; III. vi. 23, 36 <hi rend="italics">sqq.,</hi> 51, 90.</p>
+<p>adfectus, VI. ii. <hi rend="italics">passim.</hi></p>
+<p>adfirmatio, V. xii. 12; XI. i. 28; XI. iii. 154.</p>
+<p>adgressio = <foreign lang="greek">e)pixei/rhma,</foreign> V. x. 4; V. xiv. 27.</p>
+<p>adhaerens tempus, V. x. 46.</p>
+<p><foreign lang="greek">a)diano/hta,</foreign> VIII. ii. 20.</p>
+<p>adiectio, I. v. 6; I. v. 38; I. v. 40; IX. iii. 18, 27 <hi rend="italics">sqq.,</hi> 55.</p>
+<p>adiuncta, V. x. 74.</p>
+<p>adiunctio, IX. i. 33.</p>
+<p>adnominatio = <foreign lang="greek">paronomasi/a,</foreign> IX. iii. 66.</p>
+<p><foreign lang="greek">a)/docon,</foreign> IV. i. 40.</p>
+<p>adposita argumenta, V. x. 87.</p>
+<p>adpositum = <foreign lang="greek">e)pi/qeton,</foreign> II. xiv. 3; VIII. ii. 10; VIII. vi. 40, 43; IX. iv. 24.</p>
+<p><foreign lang="greek">a(dro/n,</foreign> XII. x. 58.</p>
+<p><hi rend="italics">adsentio, adsentior,</hi> I. v. 13; IX. iii. 7.</p>
+<p>adseveratio, I. iv. 20.</p>
+<p>adsumptio, V. xiv. 5 <hi rend="italics">sqq.</hi></p>
+<p>adsumptiva causa, VII. iv. 7.</p>
+<p>adverbia, I. iv. 19 and 39; XI. iii. 87.</p>
+<p><hi rend="italics">adulari,</hi> IX. iii. 1.</p>
+<p><hi rend="italics">ae, ai</hi> I. vii. 18.</p>
+<p><hi rend="italics">aedificare equum,</hi> VIII. vi. 34.</p>
+<p><hi rend="italics">aedus, ha??dus,</hi> I. v. 20.</p>
+<p><hi rend="italics">Aegypto venio,</hi> I. v. 38.</p>
+<p><hi rend="italics">Aenea,</hi> I. v. 61.</p>
+<p>aenigma, VI. iii. 51; VIII. vi. 14 and 52 <hi rend="italics">sqq.</hi></p>
+<p>aeolica littera, I. iv. 8; I. vii. 26; XII. x. 29.</p>
+<p><hi rend="italics">aerumna,</hi> VIII. iii. 26.</p>
+<p><hi rend="italics">ager,</hi> I. vi. 37.</p>
+<p><hi rend="italics">Agrippa,</hi> I. iv. 25.</p>
+<p><hi rend="italics">aiio,</hi> I. iv. 11.</p>
+<p><foreign lang="greek">ai)=nos,</foreign> V. xi. 20.</p>
+<p><foreign lang="greek">*ai)sw/peioi lo/goi,</foreign> V. xi. 20.</p>
+<p><foreign lang="greek">ai)ti/a,</foreign> III. xi. 5.</p>
+<p><foreign lang="greek">ai)tiologi/a,</foreign> IX. iii. 93.</p>
+<p><foreign lang="greek">ai)/tion,</foreign> III. xi. 4, 6.</p>
+<p><foreign lang="greek">a)ko/louqa,</foreign> V. x. 75.</p>
+<p><foreign lang="greek">a)/kuron,</foreign> VIII. ii. 3.</p>
+<p><hi rend="italics">al,</hi> VIII. ii. 3.</p>
+<p><hi rend="italics">Alba, Albanus, Albensis,</hi> I. vi. 15.</p>
+<p>Albanus, VI. iii. 44.</p>
+<p><hi rend="italics">albenti caelo,</hi> VIII. iii. 35.</p>
+<p><hi rend="italics">albi dentes,</hi> VIII. ii. 20.</p>
+<p>album ac rubricae, XII. iii. 11.</p>
+<p><hi rend="italics">Alexanter,</hi> I. iv. 16.</p>
+<p><hi rend="italics">allegoria,</hi> V. xi. 21; VI. iii. 69; VIII. vi. 14, 44 <hi rend="italics">sq.,</hi> 57 <hi rend="italics">sq.</hi>; IX. i. 5; IX. ii. 46.</p>
+<p><foreign lang="greek">a)lloi/wsis,</foreign> IX. iii. 92.</p>
+<p><hi rend="italics">altercatio,</hi> II. iv. 28; VI. iii. 4 and 46; VI. iv. 1 and 21; X. i. 35; XII. iii. 3.</p>
+<p>ambitus = periodus, IX. iv. 22 and 124; = periphrasis, X. i. 16.</p>
+<p><hi rend="italics">ambulo viam,</hi> I. vi. 38.</p>
+<p><hi rend="italics">amisit,</hi> I. vi. 69.</p>
+<p><foreign lang="greek">a)mfiboli/a,</foreign> III. vi. 46 and 88; VI. iii. 47 and 62; VII. ix. 1 <hi rend="italics">sqq.</hi></p>
+<p>amphibrachys, IX. iv. 82 and 105.</p>
+<p><foreign lang="greek">a)mfi/docon,</foreign> IV. i. 10.</p></div1>
+
+<pb id="p.534"/>
+
+<div1 type="chapter"><head>Index of words</head>
+<p>amphimacer, IX. iv. 81.</p>
+<p>amplificatio, VIII. iv. 1 <hi rend="italics">sqq.,</hi> 17.</p>
+<p><hi rend="italics">an, aut,</hi> I. v. 50.</p>
+<p>Anacreonticon colon, IX. iv. 78.</p>
+<p><foreign lang="greek">a)nagkai=on,</foreign> IX. ii. 106; IX. iii. 99.</p>
+<p><foreign lang="greek">a)nakefalai/wsis,</foreign> VI. i. 1 and 8.</p>
+<p><foreign lang="greek">a)na/klasis,</foreign> IX. iii. 97.</p>
+<p>analogia, I. v. 13; I. vi. 1, 3 <hi rend="italics">sqq.,</hi> 15; V. xi. 34.</p>
+<p><foreign lang="greek">a)na/mnhsis,</foreign> IX. ii. 106.</p>
+<p>anapaestus, IX. iv. 48, 81, 110.</p>
+<p><foreign lang="greek">a)naskeuh/,</foreign> II. iv. 18.</p>
+<p><foreign lang="greek">a)nastrofh/,</foreign> I. v. 40; VIII. vi. 65.</p>
+<p><hi rend="italics">Anchisa,</hi> I. v. 61.</p>
+<p><foreign lang="greek">a)nepi/fatos,</foreign> actio, IV. i. 60.</p>
+<p><foreign lang="greek">a)noikono/mhton,</foreign> VIII. iii. 59.</p>
+<p><foreign lang="greek">a)ntana/klasis,</foreign> IX. iii. 68.</p>
+<p><foreign lang="greek">a)ntapo/dosis,</foreign> VIII. iii. 77 and 79.</p>
+<p><hi rend="italics">antegerio,</hi> I. vi. 40; VIII. iii. 25.</p>
+<p><foreign lang="greek">a)nte/gklhma,</foreign> VII. iv. 8.</p>
+<p>anteoccupatio, IX. i. 31 and 44.</p>
+<p><foreign lang="greek">a)nqhro/n,</foreign> X. xii. 58.</p>
+<p><foreign lang="greek">a)nqupofora/,</foreign> IX. ii. 106; IX. iii. 87.</p>
+<p><hi rend="italics">Anticato,</hi> I. v. 68.</p>
+<p><foreign lang="greek">a)nti/dotoi,</foreign> I. x. 6.</p>
+<p><foreign lang="greek">a)ntikathgori/a,</foreign> III. x. 4; VII. ii. 9 <hi rend="italics">sq.,</hi> 18, 20, 25 <hi rend="italics">sq.</hi></p>
+<p><foreign lang="greek">kat' a)nti/lhyin,</foreign> VII. iv. 4.</p>
+<p><foreign lang="greek">a)ntimetabolh/,</foreign> IX. iii. 85 and 97.</p>
+<p><foreign lang="greek">a)ntinomi/a,</foreign> III. vi. 46; VII. i. 15; VII. vii. 1; VII. x. 2.</p>
+<p><foreign lang="greek">a)nti/frasis,</foreign> VIII. vi. 57; IX. ii. 47.</p>
+<p><foreign lang="greek">a)nti/rrhsis,</foreign> IX. ii. 106.</p>
+<p>antisophistes, XI. III. 126.</p>
+<p><foreign lang="greek">a)nti/stasis,</foreign> VII. iv. 12.</p>
+<p><foreign lang="greek">kat' a)nti/qesin,</foreign> VII. iv. 7.</p>
+<p><foreign lang="greek">a)nti/qeton,</foreign> IX. ii. 101; IX. iii. 81 and 92.</p>
+<p><foreign lang="greek">a)ntonomasi/a,</foreign> VIII. vi. 29 <hi rend="italics">sq.,</hi> 43; IX. i. 5 <hi rend="italics">sq.</hi></p>
+<p><foreign lang="greek">a)pago/reusis,</foreign> IX. iv. 56.</p>
+<p><foreign lang="greek">a)pa/laistoi,</foreign> IX. iv. 56.</p>
+<p><hi rend="italics">aper,</hi> I. vi. 13.</p>
+<p>apex, I. iv. 10; I. vii. 2.</p>
+<p><foreign lang="greek">a)fe/leia,</foreign> VIII. iii. 87.</p>
+<p><foreign lang="greek">a)/fodos,</foreign> IX. iii. 87.</p>
+<p><foreign lang="greek">a)formai/ e)/rgwn,</foreign> III. vi. 27.</p>
+<p><foreign lang="greek">a)podei/ceis,</foreign> I. x. 38; V. x. 1 and 7</p>
+<p>apologatio, V. xi. 20.</p>
+<p>apologus, VI. iii. 44.</p>
+<p><foreign lang="greek">a)pofqegmatiko/s,</foreign> VI. iii. 109.</p>
+<p>aposiopesis, VIII. iii. 85; IX. ii. 54 <hi rend="italics">sq.</hi>; IX. iii. 60 <hi rend="italics">sq.</hi></p>
+<p><foreign lang="greek">a)postrofh/,</foreign> IV. i. 63; IX. ii. 38; IX. iii. 24 and 26.</p>
+<p>appellatio, I. iv. 19&ndash;21; IX. iii. 9.</p>
+<p><hi rend="italics">Apri,</hi> XI. ii. 3.</p>
+<p>arbitrorum disceptationes, XI. i. 43.</p>
+<p><hi rend="italics">arbos,</hi> I. iv. 13.</p>
+<p><hi rend="italics">argenteei,</hi> I. vii. 16.</p>
+<p><hi rend="italics">Argiletum,</hi> I. vi. 31.</p>
+<p><hi rend="italics">argumentatio,</hi> IV. ii. 79; VIII. Pr. 7; XI. iii. 164.</p>
+<p>argumentum, I. iv. 2; V. viii. 6; V. X. <hi rend="italics">passim</hi>; V. xi. 32 <hi rend="italics">sqq.</hi>; V. xii. 1; V. xiv. 33; VII. ii. 44; IX. iv. 135 and 138.</p>
+<p><hi rend="italics">armamentum,</hi> VII. ix. 4.</p>
+<p><foreign lang="greek">a)/rruqmon,</foreign> IX. iv. 56.</p>
+<p>ars, II. xvii. 41; II. xviii. 1; II. xx. 3.</p>
+<p>articuli, I. iv. 19; IX. iii. 98.</p>
+<p>articulosa partitio, IV. v. 24.</p>
+<p>artificialis probatio, V. i. 1; V. ix. 1 <hi rend="italics">sqq.</hi>; XII. viii. 14.</p>
+<p><foreign lang="greek">a)sxhma/tisto/s,</foreign> VIII. iii. 59; IX. i. 13.</p>
+<p><hi rend="italics">asper homo,</hi> VIII. vi. 6.</p>
+<p><hi rend="italics">assiduus,</hi> V. x. 55.</p>
+<p><foreign lang="greek">a)steismo/s,</foreign> VIII. vi. 57.</p>
+<p>astrologia, II. xviii. 1.</p>
+<p><foreign lang="greek">a)su/ndeton,</foreign> IX. iii. 50 <hi rend="italics">sqq.</hi>; IX. iv. 23.</p>
+<p>atabulus, VIII. ii. 13.</p>
+<p><foreign lang="greek">a)texni/a,</foreign> II. xx. 2.</p>
+<p><foreign lang="greek">a)/texnoi,</foreign> probationes, V. i. 1.</p>
+<p><hi rend="italics">Atreus,</hi> I. v. 24.</p>
+<p>Attice, VIII. i. 2; XII. x. 18 and 20 <hi rend="italics">sqq</hi></p>
+<p><foreign lang="greek">*)attikismo/s,</foreign> I. viii. 8; VI. iii. 107.</p>
+<p><hi rend="italics">audaciter,</hi> I. vi. 17.</p>
+<p><hi rend="italics">avere,</hi> I. vi. 21.</p>
+<p>aversio, IX. ii. 38.</p>
+<p><hi rend="italics">aufugit,</hi> I. v. 69.</p>
+<p><hi rend="italics">augurale,</hi> VIII. ii. 8.</p>
+<p><foreign lang="greek">au)lhtri/s,</foreign> VII. ix. 4.</p>
+<p><hi rend="italics">aurea tecta,</hi> VIII. vi. 28.</p>
+<p><hi rend="italics">aureei,</hi> I. vii. 16.</p>
+<p><hi rend="italics">autem,</hi> I. v. 39.</p>
+<p><hi rend="italics">autumo,</hi> VIII. iii. 26.</p>
+<p><foreign lang="greek">a)ci/a,</foreign> III. vi. 53.</p>
+<p>B, I. iv. 15.</p>
+<p>bacchius, IX. iv. 82 and 101 <hi rend="italics">sqq.</hi></p>
+<p><hi rend="italics">balare,</hi> I. v. 72.</p>
+<p>barbarismus, I. v. 5 <hi rend="italics">sqq.</hi></p>
+<p>basilica. Iulia, XII. v. 6.</p>
+<p><hi rend="italics">beatitas, beatitudo,</hi> VIII. iii. 32.</p>
+<p><hi rend="italics">Belena,</hi> I. iv. 15.</p>
+<p><hi rend="italics">Belii</hi> for <hi rend="italics">Duelii,</hi> I. iv. 15.</p>
+<p><hi rend="italics">belligerare,</hi> IX. iv. 39.</p>
+<p><hi rend="italics">bellum</hi> from <hi rend="italics">duellum,</hi> I. iv. 15.</p>
+<p><hi rend="italics">Benerentum,</hi> II. vi. 31.</p>
+<p><hi rend="italics">biclinium</hi> I. v. 68.</p>
+
+<pb id="p.535"/>
+
+<p><hi rend="italics">bipennis</hi> from <hi rend="italics">pinnus,</hi> I. iv. 20.</p>
+<p><hi rend="italics">bos clitellas,</hi> V. xi. 21.</p>
+<p><foreign lang="greek">brasmo/s,</foreign> XI. iii. 55.</p>
+<p><foreign lang="greek">braxulogi/a,</foreign> VIII. iii. 82; IX. iii. 50 and 99.</p>
+<p><hi rend="italics">Bruges</hi>, I. iv. 15.</p>
+<p><hi rend="italics">Bruti,</hi> I. vi. 31.</p>
+<p><hi rend="italics">Burri,</hi> I. iv. 25.</p>
+<p>C, I. vii. 28; I. xi. 5.</p>
+<p>caelibes, I. vi. 36.</p>
+<p>caesim dicere, IX. iv. 126.</p>
+<p><hi rend="italics">caldus, calidus,</hi> I. vi. 19.</p>
+<p><hi rend="italics">calefacere</hi> for <hi rend="italics">calfacere,</hi> I. vi. 21.</p>
+<p><hi rend="italics">Calypsonem,</hi> I. v. 63.</p>
+<p><hi rend="italics">Camillus,</hi> I. v. 32.</p>
+<p>canina cloquentia, XII. ix. 9.</p>
+<p>cano, canto, dico, VIII. vi. 38.</p>
+<p><hi rend="italics">Canobus,</hi> I. v. 13.</p>
+<p>canon Alexandrinorum, I. iv. 3; X. 54.</p>
+<p><hi rend="italics">Canopitae,</hi> I. v. 13.</p>
+<p>cantare, XI. i. 56; XI. iii. 57 <hi rend="italics">sqq.</hi></p>
+<p>canticum, I. viii. 2; I. x. 23; IX. i. 35; XI. iii. 167.</p>
+<p>cantus, XI. iii. 23, 60 and 172.</p>
+<p><hi rend="italics">cantus</hi> = tyre of wheel, I. v. 8.</p>
+<p><hi rend="italics">Capitolium,</hi> I. vi. 31.</p>
+<p><hi rend="italics">capsis,</hi> I. v. 66.</p>
+<p>caput (how carried), XI. iii. 68 <hi rend="italics">sqq.</hi></p>
+<p>caput = status, III. vi. 2, 21, 89; III. xi. 3 and 27.</p>
+<p><hi rend="italics">casamo,</hi> I. v. 8.</p>
+<p><hi rend="italics">Cassantra,</hi> I. iv. 16.</p>
+<p><hi rend="italics">cassus</hi> for <hi rend="italics">casus,</hi> I. vii. 20.</p>
+<p><hi rend="italics">Castor,</hi> XI. ii. 11; quantity of -o, I. v. 60.</p>
+<p><hi rend="italics">castrata respublica,</hi> VIII. vi. 15.</p>
+<p>casus, I. iv. 26; I. v. 45 and 61; I. vi. 22; VIII. iii. 20.</p>
+<p><hi rend="italics">Cato,</hi> quantity of -o, VII. ix. 13.</p>
+<p>Causa (a category), III. vi. 27; = <foreign lang="greek">ai)ti/a,</foreign> III. xi. 5 and 10; = <foreign lang="greek">to\ su/ne/xon,</foreign> III. xi. 24; = quaestio finita or <foreign lang="greek">u(po/qesis,</foreign> III. v. 7; kinds of causae, III. iii. 15; III. iv. 1 <hi rend="italics">sqq.</hi>; III. x. 1 and 3; IV. i. 40.</p>
+<p>causidicus, XII. i. 25.</p>
+<p><hi rend="italics">caussa,</hi> I. vii. 20.</p>
+<p>centumviri, III. x. 3; IV. i. 57; IV. ii. 3; V. ii. 1; V. x. 115; VII. iv. 11 and 20; XI. i. 78; XI. iii. 138.</p>
+<p>cerae, X. iii. 30 <hi rend="italics">sqq.</hi></p>
+<p>ceratinae, I. x. 5.</p>
+<p><hi rend="italics">cerno,</hi> VII. ix. 2.</p>
+<p><hi rend="italics">cervix,</hi> I. xi. 9; XI. iii. 82; (use in the singular), VIII. iii. 35.</p>
+<p><hi rend="italics">cerrom,</hi> I. vii. 26.</p>
+<p><hi rend="italics">Cethegus,</hi> I. v. 23.</p>
+<p><foreign lang="greek">xalinoi/,</foreign> I. i. 37.</p>
+<p><foreign lang="greek">xalkeutikh/,</foreign> II. xxi. 10.</p>
+<p><foreign lang="greek">xarakthrismo/s,</foreign> IX. iii. 99.</p>
+<p><hi rend="italics">chenturiones,</hi> I. v. 20.</p>
+<p>chironomia, I. xi. 17.</p>
+<p>chorcus, IX. iv. 80 <hi rend="italics">sqq.,</hi> 103 <hi rend="italics">sqq.,</hi> 140.</p>
+<p><hi rend="italics">choronae,</hi> I. v. 20.</p>
+<p><foreign lang="greek">xreiw=des,</foreign> I. ix. 5.</p>
+<p>chria, I. ix. 3 <hi rend="italics">sqq.</hi>; II. iv. 26.</p>
+<p><foreign lang="greek">xro/nos,</foreign> III. vi. 25.</p>
+<p>cinctura, XI. iii. 138 <hi rend="italics">sqq.</hi></p>
+<p>circuitus = periodus, IX. iii. 122 and 124; XI. i. 26; = <foreign lang="greek">peri/frasis,</foreign> VIII. vi. 59.</p>
+<p><hi rend="italics">circum,</hi> I. v. 25 <hi rend="italics">sq.</hi></p>
+<p>circumducta syllaba = <foreign lang="greek">perispwme/nh,</foreign> I. v. 35.</p>
+<p>circumductio, IX. iv. 118; XI. iii. 39.</p>
+<p>circumductum = periodus, IX. iv. 22.</p>
+<p>circumlocutio, VIII. vi. 61.</p>
+<p>circumscriptio = periodus, IX. i. 35 and 91; IX. iv. 124.</p>
+<p>circumstantia = <foreign lang="greek">peri/stasis,</foreign> V. x. 104.</p>
+<p><hi rend="italics">clamos,</hi> I. iv. 13.</p>
+<p>clarigatio, VII. iii. 13.</p>
+<p>classis, I. ii. 23 and 24; I. vi. 33; X. v. 21.</p>
+<p>clausula, VIII. v. 13; IX. iii. 45; IX. iv. 18, 45, 61 <hi rend="italics">sqq.,</hi> 70, 93.</p>
+<p>cogitatio, X. vi. 1 <hi rend="italics">sqq.</hi></p>
+<p>coguatio, IX. ii. 105.</p>
+<p>collectio, IX. ii. 103.</p>
+<p>collectiva quaestio, VII. i. 60.</p>
+<p><hi rend="italics">collegil,</hi> not <hi rend="italics">conlegit,</hi> XI. iii. 35.</p>
+<p><hi rend="italics">colli</hi> (plural), I. vi. 42.</p>
+<p>collum (carriage of), XI. i. 82.</p>
+<p>color, IV. ii. 88, 91, 94 <hi rend="italics">sqq.</hi>; VI. v. 5; VII. i. 40, 53; X. i. 116; X. vi. 5; XI. i. 85; XII. i. 33; XII. viii. 6.</p>
+<p><hi rend="italics">columa</hi> for <hi rend="italics">columna,</hi> I. vii. 29; columna rostrata, I. vii. 12.</p>
+<p><hi rend="italics">comam in gradus frangere,</hi> I. vi. 44.</p>
+<p>comici, I. vii. 22; I. viii. 8; XII. ii. 22.</p>
+<p>commentatio = <foreign lang="greek">e)nqu/mhma,</foreign> V. x. 1.</p>
+<p>commentum = <foreign lang="greek">e)nqu/mhma,</foreign> V. x. 1; IX. ii. 107.</p>
+<p>commiseratio, X. i. 107.</p>
+<p>commissura verborum, VII. x. 16; IX. iv. 37; XII. ix. 17.</p>
+<p>commoratio, IX. i. 27; IX. ii. 4.</p>
+
+<pb id="p.536"/>
+
+<p>communc (exordium), IV. i. 71; (argumentum), V. xiii. 29, 34; VII. i. 28; (syllabae) IX. iv. 84; see locus.</p>
+<p>communicatio, IX. i. 30; IX. ii. 20, 23, 25.</p>
+<p>comoedia, I. viii. 7; X. i. 9, 65 <hi rend="italics">sqq.,</hi> 69, 82, 99; XI. iii. 74.</p>
+<p>comoedus, I. xi. 1; VI. ii. 35; XI. iii. 91 and 181.</p>
+<p><hi rend="italics">comparatio,</hi> II. iv. 21; VI. iii. 66; VII. ii. 22; VIII. iv. 3, 9; VIII. v. 5; VIII. vi. 9.</p>
+<p>comparativus (status), III. vi. 90; (genus causarum) III. x. 3; VII. iv. 12; (argumenta) V. x. 86 <hi rend="italics">sqq.</hi>; (contraposita) IX. iii. 32; IX. iii. 19.</p>
+<p>complexio = <foreign lang="greek">sunai/resis,</foreign> I. v. 6 and 17; (in logic) V. xiv. 5.</p>
+<p>compositio, VIII. iii. 57; IX. iv. <hi rend="italics">pas sim</hi>; XI. i. 33.</p>
+<p><hi rend="italics">compositio verborum,</hi> I. v. 65 and 70.</p>
+<p><hi rend="italics">comprehendere, comprendere,</hi> I. v. 21.</p>
+<p>comprehensio = periodus, IX. iv. 121 and 124.</p>
+<p>concertativa accusatio, VII. ii. 9.</p>
+<p>concessio, IX. ii. 51.</p>
+<p>conciliatio, IV. i. 16; IX. i. 32; IX. ii. 3; XI. iii. 154.</p>
+<p>conclusio = periodus, IX. iii. 98; IX. iv. 22; X. ii. 17; = clausula, VIII. v. 13.</p>
+<p>concursio, IX. i. 33.</p>
+<p>conexio, V. xiv. 6, 12, 17.</p>
+<p>confessio, IX. ii. 17, 51.</p>
+<p><hi rend="italics">confirmatio,</hi> IV. iii. 1 <hi rend="italics">sqq.</hi>; V. viii. 5; X. v. 12.</p>
+<p>coniectura, III. vi. 30; VII. ii. 1, 19, 27; VII. iv. 24.</p>
+<p>coniecturales causae, II. iv. 26; IV. ii. 81; IV. iv. 8; cf. VII. i. 53.</p>
+<p><hi rend="italics">coniicit,</hi> I. iv. 11.</p>
+<p><hi rend="italics">conire, coire,</hi> I. vi. 17.</p>
+<p>coniugatum, V. x. 85.</p>
+<p>coniunctio, I. iv. 18.</p>
+<p>coniunctum tempus, V. viii. 5; V. ix. 5; VII. ii. 46.</p>
+<p>conlatio = <foreign lang="greek">parabolh/,</foreign> V. xi. 2 and 23.</p>
+<p><hi rend="italics">conlegu,</hi> XI. iii. 35.</p>
+<p>consencio, IX. ii. 51.</p>
+<p>consequens, V. viii. 5; V. x. 74 <hi rend="italics">sq.</hi>; VI. iii. 76; VIII. vi. 40; IX. ii. 103.</p>
+<p>consonantes, I. iv. 6 and 10; IX. iv. 37; XI. iii. 34, 35.</p>
+<p>constitutio = status, III. vi. 2; VII. iv. 5 <hi rend="italics">sqq.</hi></p>
+<p><hi rend="italics">consul,</hi> I. vi. 32; I. vii. 29.</p>
+<p>consummatio, IX. ii. 103.</p>
+<p>contentio, IX. i. 31; IX. ii. 2; IX. iii. 81.</p>
+<p>continens = <foreign lang="greek">sune/xon,</foreign> III. xi. 1, 9, 18 <hi rend="italics">sq.,</hi> 24.</p>
+<p>continuatio = periodus, IX. iv. 22 and 124; continuatio sermonis, VIII. ii. 14; IX. iii. 23.</p>
+<p>continuatum, IX. i. 35.</p>
+<p>contrapositum, IX. iii. 81 and 83; contraposita, IX. iii. 32 and 102; IX. iv. 18.</p>
+<p>contrarium (figure), IX. i. 34; IX. iii. 90; = <foreign lang="greek">e)nqu/mhma,</foreign> V. x. 2.</p>
+<p>controversiae, II. iv. 33; IV. ii. 94, 97; VII. i. 4; IX. i. 14; IX. ii. 65 <hi rend="italics">sqq.,</hi> 77, 88.</p>
+<p><hi rend="italics">contumcliam fecit,</hi> IX. iii. 13.</p>
+<p>conversio = <foreign lang="greek">a)ntimetabolh/,</foreign> IX. i. 33.</p>
+<p>convinctiones, I. iv. 18 <hi rend="italics">sq.</hi></p>
+<p><hi rend="italics">convivimus,</hi> I. vi. 44.</p>
+<p>coppa, I. iv. 9.</p>
+<p>cordax, IX. iv. 88.</p>
+<p><hi rend="italics">Cordus,</hi> I. iv. 25.</p>
+<p><hi rend="italics">Corinthi Dionysum esse,</hi> VIII. vi. 52.</p>
+<p><hi rend="italics">Corinthia aera,</hi> IX. ii. 8; <hi rend="italics">verba,</hi> VIII. iii. 28.</p>
+<p>correctio, IX. i. 30, 35; IX. iii. 89.</p>
+<p><hi rend="italics">cortex amara</hi> and <hi rend="italics">amarus,</hi> I. v. 35.</p>
+<p><hi rend="italics">Corvinum,</hi> VII. ix. 4.</p>
+<p><hi rend="italics">cotidie,</hi> I. vii. 6.</p>
+<p><hi rend="italics">Cottae,</hi> I. iv. 25.</p>
+<p><hi rend="italics">creticus,</hi> IX. iv. 81 and 107.</p>
+<p><hi rend="italics">Crispus,</hi> XI. ii. 31.</p>
+<p>crocodilinae, I. x. 5.</p>
+<p><hi rend="italics">cubare supra se,</hi> VIII. ii. 20.</p>
+<p><hi rend="italics">Culcides,</hi> I. iv. 16.</p>
+<p><hi rend="italics">cum</hi> and <hi rend="italics">quum,</hi> I. vii. 5.</p>
+
+<p>D, I. iv. 16; I. vii. 12; XII. x. 32.</p>
+<p>dactylicus rhythmus, IX. iv. 46 <hi rend="italics">sqq.</hi></p>
+<p>dactylus, IX. iv. 49, 81, 85, 104, 136.</p>
+<p><hi rend="italics">damae limidi,</hi> IX. iii. 6.</p>
+<p>dativus, I. iv. 26; VII. ix. 13.</p>
+<p>de eodem et alio, III. vi. 31, 36; VII. iii. 8.</p>
+<p><hi rend="italics">de susum,</hi> I. v. 38.</p>
+<p><hi rend="italics">declamare, declamatio,</hi> I. ii. 13; II. i. 2; II. x. 1 <hi rend="italics">sqq.</hi>; II. xi. 3 <hi rend="italics">sqq.,</hi> 13; IV. ii. 29; V. xii. 17; V. xiii. 44; VII. i. 4 and 38; X. ii. 12; X. v. 14 <hi rend="italics">sqq.</hi>; XI. i. 38 and 83; XII. xi. 15.</p>
+
+<pb id="p.537"/>
+
+<p>declamatores, III. viii. 44, 51, 69; IV. ii. 28; V. xiii. 42; VIII. iii. 22; IX. ii. 42; X. i. 71; X. vii. 21; XI. i. 55 <hi rend="italics">sqq.</hi></p>
+<p>declinatio (figure), IX. i. 32, 34, 42, 44.</p>
+<p>declinatio (grammat.), I. iv. 13, 21, 27, 29; I. v. 63; II. xv. 4; VIII. iii. 32.</p>
+<p><hi rend="italics">dederont,</hi> I. iv. 16.</p>
+<p>defensio coniuncta, VII. i. 15.</p>
+<p>definita quaestio, VII. ii. 1 <hi rend="italics">sqq.</hi></p>
+<p>definitio, III. vi. 42; definitiones, I. vi. 29.</p>
+<p><foreign lang="greek">dei/nwsis,</foreign> VI. ii. 24; VIII. iii. 88; IX. ii. 104.</p>
+<p>delatores, III. x. 3; IX. ii. 74.</p>
+<p>deliberativum genus orationis, II. i. 2; II. iv. 25; II. x. 11; III. iii. 14; III. iv. 15, 16; III. vi. 56; III. viii. 1 <hi rend="italics">sqq.,</hi> 6, 10, 12, 22 <hi rend="italics">sqq.,</hi> 58 <hi rend="italics">sqq.,</hi> 66; VIII. Pr. 6; VIII. iii. 11; XI. i. 48.</p>
+<p>demonstrativum genus causarum, II. x. 11; II. xxi. 23; III. iv. 9, 12, 14; III. vii. 1 <hi rend="italics">sqq.</hi>; III. viii. 8, 63; V. x. 43; VII. iv. 3; VIII. Pr. 8; VIII. iii. 11; IX. iv. 130; XI. i. 48.</p>
+<p><hi rend="italics">dentes albi,</hi> VIII. vi. 40.</p>
+<p>deprecatio, III. vi. 13; V. xiii. 5; VII. IV. 3 and 17; IX. i. 32; IX. ii. 3; XI. 1. 52.</p>
+<p><hi rend="italics">deprehendere</hi> and <hi rend="italics">deprendere,</hi> IX. iv. 59.</p>
+<p>depulsio, III. vi. 7 and 16 <hi rend="italics">sqq.</hi>; III. xi. 1; VI. iv. 2; VIII. Pr. 9.</p>
+<p>derivatio verborum, III. vii. 25; XI. i. 90.</p>
+<p>descriptio, IV. iii. 12; IX. ii. 44; IX. iv. 138.</p>
+<p>detractio (figure), IX. ii. 37; IX. iii. 18 <hi rend="italics">sqq.,</hi> 27, 58, 62.</p>
+<p>detractio litterarum, I. v. 16 and 38; = <foreign lang="greek">e)/lleiyis,</foreign> I. v. 40.</p>
+<p><hi rend="italics">devorari hominem,</hi> VIII. vi. 25.</p>
+<p>dialectice, I. x. 37; II. xvii. 14 and 42; II. xx. 7; II. xxi. 13; v. xiv. 27; XII. ii. 10 <hi rend="italics">sqq.</hi></p>
+<p>dialectici, II. iv. 41; VII. iii. 14.</p>
+<p><foreign lang="greek">dia/lektos,</foreign> I. v. 29; IX. iv. 18.</p>
+<p><foreign lang="greek">diallagh/,</foreign> IX. iii. 49.</p>
+<p>dialogi, V. vii. 28; V. xiv. 27; IX. ii. 31; X. v. 15; XI. i. 21.</p>
+<p><foreign lang="greek">dianoi/as sxh/mata,</foreign> IX. ii. 107.</p>
+<p><foreign lang="greek">diatu/pwsis,</foreign> IX. ii. 41.</p>
+<p><hi rend="italics">dicem</hi> for <hi rend="italics">dicam,</hi> I. vii. 23.</p>
+<p>dichoreus, IX. iv. 95 and 103.</p>
+<p>dictare, X. iii. 18 <hi rend="italics">sqq.</hi></p>
+<p><hi rend="italics">dictu,</hi> I. iv. 29.</p>
+<p><foreign lang="greek">die/codos,</foreign> IX. iii. 87.</p>
+<p>differens, V. x. 55 and 58.</p>
+<p>digammon, I. iv. 8; I. vii. 27.</p>
+<p>digestio, IX. i. 31; IX. ii. 2.</p>
+<p>digiti, XI. iii. 92.</p>
+<p><hi rend="italics">dignu' locoque,</hi> IX. iv. 38.</p>
+<p>digressio, IV. ii. 19; IX. i. 28 and 35; IX. ii. 55 <hi rend="italics">sqq.</hi>; IX. iii. 90; X. i. 33.</p>
+<p>digressus, IV. iii. 14; X. i. 40.</p>
+<p>diiunctio, IX. i. 35; IX. iii. 45.</p>
+<p><foreign lang="greek">dikaiologi/a,</foreign> IX. iii. 99.</p>
+<p><foreign lang="greek">dikaiologiko/s,</foreign> III. vi. 33.</p>
+<p>dinumeratio, IX. i. 35; IX. iii. 91.</p>
+<p><hi rend="italics">divoe Victore</hi> for <hi rend="italics">Diovi Victori,</hi> I. iv. 17.</p>
+<p>dispositio, III. iii. 1 <hi rend="italics">sqq.</hi>; VI. iv. 1; VII. Pr. 1; VII. i. 1 <hi rend="italics">sqq.</hi>; VII. x. 5 <hi rend="italics">sq.</hi> and 11; X. ii. 27.</p>
+<p>disputatrix = <foreign lang="greek">dialektikh/,</foreign> II. xx. 7; XII. ii. 13.</p>
+<p>dissimilia, V. x. 73; V. xi. 5 <hi rend="italics">sqq.</hi>; VI. iii. 63.</p>
+<p>dissimulatio, IV. i. 60; IV. ii. 117; VI. iii. 85; IX. i. 29; IX. ii. 14 and (= ironia) 44; XII. ix. 5.</p>
+<p>dissipatio, IX. i. 35; <hi rend="italics">cp.</hi> IX. iii. 39.</p>
+<p>dissolutio, IX. iii. 50.</p>
+<p>dissolutum, IX. i. 34.</p>
+<p>distincta oratio, XI. iii. 35.</p>
+<p>distinctio (figure), IX. i. 33; IX. iii. 65 and 82; (punctuation) XI. iii. 35, 37 <hi rend="italics">sqq.,</hi> 47, 52, 181.</p>
+<p>distributio, IX. i. 30; IX. ii. 2.</p>
+<p><hi rend="italics">Ditis,</hi> I. vi. 34.</p>
+<p><hi rend="italics">diu,</hi> I. iv. 29.</p>
+<p>divisio, V. x. 63; VII. i. 1; VIII. v. 30 <hi rend="italics">sqq.</hi>; IX. ii. 105.</p>
+<p><hi rend="italics">divissiones,</hi> I. vii. 20.</p>
+<p><hi rend="italics">dixti,</hi> IX. iii. 22.</p>
+<p>dochmius, IX. iv. 79, 97, 99.</p>
+<p><foreign lang="greek">dogmatikoi/,</foreign> sermones, II. xv. 26.</p>
+<p><hi rend="italics">dua, duapondo,</hi> I. v. 15.</p>
+<p>dualis numerus, I. v. 42.</p>
+<p>dubitatio, IX. i. 30 and 35; IX. ii. 19; IX. iii. 88.</p>
+<p><hi rend="italics">ductare exercitus,</hi> VIII. iii. 44.</p>
+<p><hi rend="italics">Duelii</hi> and <hi rend="italics">Belii,</hi> I. iv. 15.</p>
+<p><hi rend="italics">duellum,</hi> I. iv. 15.</p>
+<p><foreign lang="greek">duiko/s,</foreign> I. v. 42.</p>
+<p><hi rend="italics">dum,</hi> IX. iii. 16.</p>
+<p>duplicia iudicia, XI. i. 78.</p>
+<p><foreign lang="greek">du/namis,</foreign> II. xv. 3; V. x. 33.</p>
+<p><foreign lang="greek">dunato/n,</foreign> III. viii. 25.</p>
+<p><foreign lang="greek">dusparakolou/qhton,</foreign> IV. i. 40.</p>
+
+<pb id="p.538"/>
+
+<p>E, I. iv. 9 and 17; I. vii. 15; IX. iv. 34.</p>
+<p><hi rend="italics">ebur,</hi> I. vi. 22.</p>
+<p>ediscore, I. i. 36; II. vii. 1 <hi rend="italics">sqq.</hi>; II. xiii. 15; XI. ii. 27 <hi rend="italics">sqq.,</hi> 44.</p>
+<p>effectiva ars, II. xviii. 5.</p>
+<p><foreign lang="greek">e)gku/klios paidei/a,</foreign> I. x. 1.</p>
+<p><foreign lang="greek">e)gkwmiastiko/n,</foreign> III. iv. 13.</p>
+<p>egressio, egressus, III. ix. 4; IV. iii. 12 <hi rend="italics">sqq.</hi>; XI. iii. 64 and 164.</p>
+<p><hi rend="italics">ei</hi> for <hi rend="italics">i,</hi> I. vii. 15.</p>
+<p><foreign lang="greek">ei)kw/n,</foreign> V. xi. 24.</p>
+<p><foreign lang="greek">ei)ko/ta,</foreign> V. ix. 8; V. x. 15.</p>
+<p><foreign lang="greek">ei)/rwn,</foreign> IX. ii. 46.</p>
+<p><foreign lang="greek">h)i/qeoi,</foreign> I. vi. 36.</p>
+<p><foreign lang="greek">e)k tw=n pro\s a)/llhla,</foreign> V. x. 78.</p>
+<p><foreign lang="greek">e)kba/seis,</foreign> V. x. 86.</p>
+<p>elegia, I. viii. 6; X. i. 58 and 93.</p>
+<p><foreign lang="greek">e)legktikoi/</foreign> sermones Platonis, II. xv. 26.</p>
+<p><hi rend="italics">elininat gradus,</hi> VIII. iii. 31.</p>
+<p><foreign lang="greek">e)/lleiyis,</foreign> I. v. 40; VIII. vi. 21.</p>
+<p>elocutio, II. v. 21; Book VIII. and IX.; VIII. Pr. 17; XI. i. 1.</p>
+<p>elecutoria, elocutrix, II. xiv. 2.</p>
+<p>emendatio (gen.), X. iv. 1 <hi rend="italics">sqq.</hi>; (figure) IX. ii. 17.</p>
+<p><hi rend="italics">emicavit</hi> for <hi rend="italics">emicuit,</hi> I. vi. 17.</p>
+<p><foreign lang="greek">e)/mfasis,</foreign> VI. iii. 69; VIII. ii. 11; VIII. iii. 83, 86; VIII. iv. 26; IX. ii. 3 and 64; IX. iii. 57.</p>
+<p>emutatio, VIII. vi. 51.</p>
+<p><foreign lang="greek">e)nantio/ths,</foreign> IX. ii. 106; IX. iii. 90.</p>
+<p><foreign lang="greek">e)na/rgeia,</foreign> IV. ii. 03; VI. ii. 32; VIII. iii. 61.</p>
+<p>enarratio, I. ii. 14; I. iv. 2; I. viii. 18; II. v. 1.</p>
+<p><foreign lang="greek">e)/ndocon,</foreign> IV. i. 40.</p>
+<p><foreign lang="greek">e)ne/rgeia,</foreign> VIII. iii. 89.</p>
+<p><hi rend="italics">enim hoc voluit,</hi> I. v. 39.</p>
+<p><hi rend="italics">enimvero,</hi> IX. iii. 14.</p>
+<p><foreign lang="greek">e)/nnoia,</foreign> III. vi. 35 and 37.</p>
+<p><foreign lang="greek">e)/nruqmon,</foreign> IX. iv. 56 and 77.</p>
+<p><hi rend="italics">ensis</hi> and <hi rend="italics">gladius,</hi> X. i. 11.</p>
+<p><foreign lang="greek">e)\ntexnoi</foreign> probationes, V. i. 1.</p>
+<p>enthymema, I. x. 37; IV. ii. 107; V. x. 1 <hi rend="italics">sqq.</hi>; V. xiv. 1, 2, 17, 24, 25; VIII. v. 4 and 9; IX. ii. 106; IX. iv. 57; XI. iii. 102; XII. x. 51.</p>
+<p>enumeratio = <foreign lang="greek">a)nakefalai/wsis,</foreign> V. xiv. 11; VI. i. 1 and 36.</p>
+<p><foreign lang="greek">e)pagwgh/,</foreign> V. x. 73; V. xi. 2.</p>
+<p><foreign lang="greek">e)pakolou/qhsis,</foreign> IX. ii. 103.</p>
+<p><foreign lang="greek">e)pana/lhyis,</foreign> VIII. iii. 51.</p>
+<p><foreign lang="greek">e)pa/nodos,</foreign> IX. iii. 35 and 97.</p>
+<p><foreign lang="greek">e)pecergasi/a,</foreign> VIII. iii. 88.</p>
+<p><foreign lang="greek">e)pezeugme/non,</foreign> IX. iii. 62.</p>
+<p><foreign lang="greek">e)pixei/rhma,</foreign> IV. iv. 1; V. x. 2, 4; V. xi. 2; V. xiv. 5 and 14; VIII. v. 4; IX. ii. 107.</p>
+<p>epici, X. i. 46 <hi rend="italics">sqq.,</hi> 85 <hi rend="italics">sqq.</hi></p>
+<p>epicoena, I. iv. 24; I. vi. 12.</p>
+<p><foreign lang="greek">e)pideiktiko/s,</foreign> II. x. 13; III. iv. 13 <hi rend="italics">sqq.</hi></p>
+<p><foreign lang="greek">e)pidih/ghsis,</foreign> IV. ii. 128.</p>
+<p>epilogi, VI. i. 7, 37, 41, 55; VII. ii. 56; VII. iv. 19; IX. iv. 137 <hi rend="italics">sqq.</hi>; X. i. 107; XI. iii. 170.</p>
+<p>epipbonema, VIII. v. 11.</p>
+<p><hi rend="italics">epiraedium,</hi> I. v. 68.</p>
+<p><foreign lang="greek">e)pita/fioi,</foreign> III. iv. 5.</p>
+<p>epitheton, VIII. ii. 10; VIII. iii. 20; VIII. vi. 29 and 40; IX. i. 6.</p>
+<p><hi rend="italics">epitogium,</hi> I. v. 68.</p>
+<p><hi rend="italics">erctum citum,</hi> VII. iii. 13.</p>
+<p><foreign lang="greek">e)sxhmatisme/nh</foreign> oratio, IX. i. 13.</p>
+<p><hi rend="italics">esse videatur,</hi> IX. iv. 73.</p>
+<p><hi rend="italics">essentia,</hi> II. xiv. 2; III. vi. 23; VIII. iii. 33.</p>
+<p><hi rend="italics">est</hi> preceded by a vowel, IX. iv. 109.</p>
+<p><foreign lang="greek">h)qikh/,</foreign> II. xxi. 3; VI. ii. 8; XII. ii. 15.</p>
+<p>ethologia, I. ix. 3.</p>
+<p><foreign lang="greek">h)qopoii+/a,</foreign> IX. ii. 58; IX. iii. 99.</p>
+<p><foreign lang="greek">h)=qos,</foreign> VI. ii. 8 and 17; VI. iii. 93.</p>
+<p>etymologia, I. vi. 1, 28 <hi rend="italics">sqq.,</hi> 38; V. x. 55 and 59; VII. iii. 25.</p>
+<p><foreign lang="greek">eu)xwlh/,</foreign> III. iv. 10.</p>
+<p>evidentia, IV. ii. 63; VI. ii. 32; VIII. iii. 61; IX. ii. 40.</p>
+<p><foreign lang="greek">eu)fantasi/wtos,</foreign> VI. ii. 30.</p>
+<p><foreign lang="greek">eu)fwni/a,</foreign> I. v. 4.</p>
+<p><hi rend="italics">Europai,</hi> I. v. 17.</p>
+<p><foreign lang="greek">eu)ruqmi/a,</foreign> I. x. 26.</p>
+<p><hi rend="italics">Euthia,</hi> I. v. 61.</p>
+<p><foreign lang="greek">e)callagh/,</foreign> IX. iii. 12.</p>
+<p>excessus, <hi rend="italics">cp.</hi> excursio, egressio, III. ix. 1 and 4.</p>
+<p>exclamatio, IX. i. 34 and 39; IX. ii. 27; IX. iii. 97.</p>
+<p>excursio, I. xi. 3; II. xiii. 1; IV. ii. 103 <hi rend="italics">sqq.</hi>; IV. iii. 1.</p>
+<p>excursus, IV. iii. 5 and 12; X. v. 12.</p>
+<p>excusatio, VII. iv. 3, 14, 31.</p>
+<p>exemplum, V. II. 1; V. xi. 1 <hi rend="italics">sqq.</hi> and 17 <hi rend="italics">Sqq.</hi>; IX. i. 31; IX. xxi. 2; XII. iv. 1.</p>
+<p><foreign lang="greek">e)cergasi/a,</foreign> VIII. iii. 88.</p>
+<p><foreign lang="greek">e)cetastiko\n,</foreign> III. iv. 9.</p>
+<p>exhortatio, IX. ii. 103.</p>
+<p>exhortativus (status), III. vi. 47; (genus), V. x. 82.</p>
+
+<pb id="p.539"/>
+
+<p>exitus = <foreign lang="greek">e)kba/seis,</foreign> V. x. 86.</p>
+<p>exordium, IV. i. 1 <hi rend="italics">sqq.,</hi> 5, 7, 11, 16, 28, 30, 42, 58, 62, 71, 72, 76; XI. iii. 161.</p>
+<p><hi rend="italics">expecto</hi> and <hi rend="italics">exspecto,</hi> I. vii. 4.</p>
+<p><hi rend="italics">expectorat,</hi> VIII. iv. 31.</p>
+<p>explanatio (figure), IX. i. 27; IX. ii. 2.</p>
+<p>expositio, III. ix. 7; IV. ii. 50; VII. ii. 26; XI. i. 53.</p>
+<p>exsecratio, IX. i. 32; IX. ii. 3.</p>
+<p>extemporalis actio, X. vi. 6; X. vii. 18; XI. ii. 3.</p>
+<p>extenuatio, IX. i. 27; IX. ii. 3.</p>
+<p>F, I. iv. 14; XII. x. 29.</p>
+<p><hi rend="italics">fabricari,</hi> IX. iii. 6.</p>
+<p><hi rend="italics">face</hi> for <hi rend="italics">fae,</hi> I. vi. 21.</p>
+<p><hi rend="italics">faciem</hi> for <hi rend="italics">faciam,</hi> I. vii. 23.</p>
+<p>facere (category), III. vi. 24.</p>
+<p>facetum, VI. iii. 20.</p>
+<p><hi rend="italics">faciliter,</hi> I. vi. 17.</p>
+<p><hi rend="italics">faeitus</hi> for <hi rend="italics">haedus,</hi> I. iv. 14.</p>
+<p><hi rend="italics">furi,</hi> VIII. iii. 27.</p>
+<p><hi rend="italics">fasciatim,</hi> I. iv. 20.</p>
+<p><hi rend="italics">favor,</hi> VIII. iii. 34.</p>
+<p>feminina positio, I. iv. 24.</p>
+<p><hi rend="italics">femur,</hi> I. vi. 22.</p>
+<p><hi rend="italics">fero,</hi> I. iv. 29; I. vi. 26.</p>
+<p><hi rend="italics">ferrum</hi> for <hi rend="italics">gladius,</hi> VIII. vi. 20; <hi rend="italics">ferrum</hi> and <hi rend="italics">mucro,</hi> X. i. 11.</p>
+<p>fides = <foreign lang="greek">pi/steis,</foreign> V. x. 8 and 10 <hi rend="italics">sqq.</hi></p>
+<p><hi rend="italics">Figulatum,</hi> VIII. iii. 32.</p>
+<p>figura = <foreign lang="greek">sxh=ma,</foreign> I. v. 5; I. viii. 16; II. xiii. 11; VII. iv. 28; VI. iii. 70; VIII. vi. 67; IX. <hi rend="italics">passim.</hi></p>
+<p>figuratus, VIII. iii. 59; IX. i. 13 and 14; IX. ii. 65 <hi rend="italics">sqq.</hi> and 88.</p>
+<p><hi rend="italics">Fimbriatum,</hi> VIII. iii. 32.</p>
+<p>finis = finitio, IV. iv. 3; V. x. 54, etc.</p>
+<p>finitae questiones, III. v. 7; VIII. Pr. 8.</p>
+<p>finitio, III. v. 10; V. x. 36 and 54 <hi rend="italics">sqq.</hi>; VI. iv. 4; VII. iii. 1 <hi rend="italics">sqq.,</hi> 19 <hi rend="italics">sqq.</hi>; VII. x. 1 <hi rend="italics">sqq.</hi>; IX. iii. 91.</p>
+<p>finitiva causa, VII. iii. 36; see also status.</p>
+<p>firmamentum causae = <foreign lang="greek">sune/xon,</foreign> III. xi. 1, 9, 19.</p>
+<p><hi rend="italics">fletur,</hi> I. iv. 28.</p>
+<p>flexa littera, syllaba, I. v. 23 and 30; XII. x. 33.</p>
+<p><hi rend="italics">Floralia,</hi> I. v. 52.</p>
+<p><hi rend="italics">fluctuatur</hi> and <hi rend="italics">fluctuat,</hi> IX. iii. 7.</p>
+<p><hi rend="italics">fordeum</hi> for <hi rend="italics">hordeum,</hi> I. iv. 14.</p>
+<p>forma = species, V. x. 62.</p>
+<p>formulae, III. vi. 69; VII. iv. 20.</p>
+<p>formularii, XII. iii. 11.</p>
+<p><hi rend="italics">fraudator,</hi> I. iv. 28.</p>
+<p><hi rend="italics">frugalis,</hi> I. vi. 17.</p>
+<p><hi rend="italics">funis,</hi> I. vi. 5.</p>
+<p><hi rend="italics">Furii</hi> for <hi rend="italics">Fusii,</hi> I. iv. 13.</p>
+<p>G, I. vii. 12.</p>
+<p><hi rend="italics">Gaius</hi> indicated by C., I. vii. 28.</p>
+<p><hi rend="italics">Galbae,</hi> I. iv. 25.</p>
+<p>galliambi, IX. iv. 6.</p>
+<p>Gallica verba, I. v. 57.</p>
+<p><hi rend="italics">gullus,</hi> VII. ix. 2.</p>
+<p><foreign lang="greek">geloi=on,</foreign> VI. iii. 22.</p>
+<p>geminatio, I. iv. 10; I. vii. 14; VIII v. 18; IX. i. 33; IX. iii. 28, 45, 47; IX. iv. 119.</p>
+<p><hi rend="italics">gemma,</hi> VIII. vi. 6.</p>
+<p>generalis quaestio, III. v. 9; III. vi. 21; VII. i. 49 and 58; VII. ii. 1 <hi rend="italics">sqq.</hi>; X. v. 13; XII. ii. 18.</p>
+<p><foreign lang="greek">ge/nesis</foreign> = coniectura, III. vi. 53.</p>
+<p>geometria, I. x. 34 <hi rend="italics">sqq.</hi></p>
+<p>gestus, I. xi. 3 and 16; XI. iii. 65 <hi rend="italics">sqq.,</hi> 88 <hi rend="italics">sqq.,</hi> 102, 109, 117, 125, 181.</p>
+<p><hi rend="italics">gladiola,</hi> I. vi. 42.</p>
+<p><hi rend="italics">gladius</hi> and <hi rend="italics">ensis,</hi> X. i. 11; and <hi rend="italics">mucro,</hi> X. i. 11 and 14; <hi rend="italics">gladia,</hi> I. v. 6.</p>
+<p><foreign lang="greek">glw=ssai,</foreign> I. i. 35.</p>
+<p>glossemata, I. viii. 15.</p>
+<p><hi rend="italics">Glycerium,</hi> I. iv. 24.</p>
+<p><hi rend="italics">Gnaeus,</hi> I. vii. 29.</p>
+<p><foreign lang="greek">gnw=mai,</foreign> VIII. v. 3.</p>
+<p><hi rend="italics">Gracci,</hi> I. v. 20.</p>
+<p><hi rend="italics">graculi,</hi> I. vi. 27.</p>
+<p>gradatio (figure), IX. i. 34; IX. iii. 54.</p>
+<p>grammatice, I. iv. 4, 5, 6; I. v. 51; I. viii. 12; I. x. 17; II. i. 1 <hi rend="italics">sqq.</hi> and 4.</p>
+<p>grammaticus, I. ii. 14; I. iv. 1 <hi rend="italics">sqq.</hi>; I. viii. 21; II. xiv. 3; IX. iv. 53; X. i. 54.</p>
+<p>gravis (accent), I. v. 22 <hi rend="italics">sqq.</hi></p>
+<p><hi rend="italics">gubernator</hi> for <hi rend="italics">agitator,</hi> VIII. vi. 9.</p>
+<p><hi rend="italics">gurdi,</hi> I. v. 57.</p>
+<p><hi rend="italics">guttur,</hi> I. vi. 22.</p>
+<p>H, I. v. 19 <hi rend="italics">sqq.</hi></p>
+<p>habere (category), III. vi. 24.</p>
+<p><foreign lang="greek">a(dra/n,</foreign> XII. x. 58.</p>
+<p><foreign lang="greek">a(rmoni/a,</foreign> I. x. 12.</p>
+<p><hi rend="italics">haruspex,</hi> I. vii. 9.</p>
+<p><hi rend="italics">have,</hi> I. vi. 21.</p>
+<p><hi rend="italics">Hecoba,</hi> I. iv. 16.</p>
+<p><foreign lang="greek">h(/meron,</foreign> III. vi. 28.</p>
+<p>hendecasyllabi, I. viii. 6.</p>
+
+<pb id="p.540"/>
+
+<p><hi rend="italics">here</hi> and <hi rend="italics">heri,</hi> I. iv. 8; I. vii. 22.</p>
+<p><hi rend="italics">Hermagora,</hi> I. v. 61.</p>
+<p>herous (epic), I. viii. 5; X. i. 46 <hi rend="italics">sqq.,</hi> 85 <hi rend="italics">sqq.;</hi> = dactyl, IX. iv. 88 <hi rend="italics">sqq.</hi></p>
+<p><foreign lang="greek">e(teroi/wsis,</foreign> IX. iii. 12.</p>
+<p><hi rend="italics">heu,</hi> I. iv. 20.</p>
+<p>hexameter, IX. iv. 74, 75, 78.</p>
+<p><foreign lang="greek">e(/cis,</foreign> X. i. 1 and 59; X. v. 1.</p>
+<p>hiatus, IX. iv. 33 <hi rend="italics">sqq.</hi></p>
+<p>Hispanum nomen, I. v. 8 and 57.</p>
+<p>historia, I. viii. 18; II. iv. 2; III. viii. 67 <hi rend="italics">sqq.;</hi> IX. iv. 18 and 129; X. i. 31, 73 <hi rend="italics">sqq.,</hi> 101 <hi rend="italics">sqq.</hi>; X. v. 15.</p>
+<p>historice, I. ix. 1.</p>
+<p>historici, I. vi. 2; I. x. 40; II. iv. 19; IV. ii. 2; VIII. vi. 65.</p>
+<p>histriones, VI. ii. 35; X. v. 6; XI. iii. 89.</p>
+<p><hi rend="italics">homo,</hi> I. vi. 34.</p>
+<p><foreign lang="greek">o(moei/deia,</foreign> VIII. iii. 52.</p>
+<p><foreign lang="greek">o(moio/ptwton,</foreign> IX. iii. 78 <hi rend="italics">sqq.</hi></p>
+<p><foreign lang="greek">o(moiote/leuton,</foreign> IX. iii. 77 <hi rend="italics">sq.</hi></p>
+<p>homonyma, VIII. ii. 13.</p>
+<p><foreign lang="greek">o(mwnumi/a,</foreign> VII, ix. 2.</p>
+<p><hi rend="italics">hordea,</hi> I. v. 16.</p>
+<p><foreign lang="greek">u(/lh,</foreign> V. x. 33.</p>
+<p><foreign lang="greek">u(pallagh/,</foreign> VIII. vi. 23; IX. iii. 92.</p>
+<p><foreign lang="greek">u(pallaktikh\ sta/sis,</foreign> III. vi. 47.</p>
+<p>hyperbaton, I. v. 40; VIII. vi. 62 <hi rend="italics">sqq.</hi>; VIII. ii. 14; IX. i. 3, 6; IX. iii. 23, 91; IX. iv. 26.</p>
+<p>hyperbole, VI. iii. 67; VIII. iv. 29; VIII. vi. 67 <hi rend="italics">sqq.</hi>; IX. i. 5.</p>
+<p><foreign lang="greek">u(pecai/resis</foreign> = exceptio, III. vi. 61.</p>
+<p><foreign lang="greek">u(podiastolh/,</foreign> XI. iii. 35.</p>
+<p><foreign lang="greek">u(postigmh/,</foreign> XI. iii. 35.</p>
+<p><foreign lang="greek">u(po/qesis,</foreign> III. v. 7 and 18.</p>
+<p><foreign lang="greek">u(potu/pwsis,</foreign> IV. ii. 3; IX. ii. 40 and 58.</p>
+<p>I, I. iv. 7 and 11; I. vii. 17 and 21; IX. iv. 34.</p>
+<p><hi rend="italics">iacutari,</hi> VIII. ii. 5.</p>
+<p><hi rend="italics">iam,</hi> I. iv. 10.</p>
+<p>iambus, IX. iv. 47, 76, 80, 88, 136; X. i. 9, 59, 96.</p>
+<p><foreign lang="greek">i)dio/ths,</foreign> III. vi. 53.</p>
+<p><hi rend="italics">iecur,</hi> I. vi. 22.</p>
+<p><hi rend="italics">igitur,</hi> I. v. 39.</p>
+<p>imago (figure), IX. i. 35; = <foreign lang="greek">fantasi/ai,</foreign> VI. iii. 29; X. vii. 15.</p>
+<p>imitatio, I. iii. 1; IX. i. 30; IX. ii. 35 and 58; X. i. 3, 21 <hi rend="italics">sq.,</hi> 27; X. ii. 1 <hi rend="italics">sqq.</hi></p>
+<p>imminutio (figure), IX. i. 34; IX. iii. 90.</p>
+<p>mutatio (solecism), I. v. 12 and 41; (figure) IX. i. 35.</p>
+<p><hi rend="italics">imperterritus,</hi> I. v. 65.</p>
+<p><hi rend="italics">impius</hi> for <hi rend="italics">parricida,</hi> VIII. vi. 30.</p>
+<p>improprium, I. v. 46; I. viii. 13; VIII. ii. 3 <hi rend="italics">sqq.</hi>; VIII. iii. 15; XII. x. 42.</p>
+<p>improvisum (figure), IX. i. 35; IX. iii. 90.</p>
+<p><hi rend="italics">in</hi> changed to <hi rend="italics">im</hi> in composition, I. vii. 7.</p>
+<p><hi rend="italics">in Alexandriam,</hi> I. v. 38.</p>
+<p>inartificialis probatio, V. i. 1.</p>
+<p>incisa = <foreign lang="greek">ko/mmata,</foreign> IX. iv. 22, 67, 122 <hi rend="italics">sqq.</hi></p>
+<p><hi rend="italics">incompositus,</hi> I. v. 65.</p>
+<p>incrementum, VIII. iv. 3 and 28.</p>
+<p><hi rend="italics">incumbere illi, in illum,</hi> IX. iii. 1.</p>
+<p><hi rend="italics">incurvicervicum pecus,</hi> I. v. 67 and 70.</p>
+<p>indicium = <foreign lang="greek">shmei=on,</foreign> V. ix. 9.</p>
+<p>indifferens syllaba, IX. iv. 93.</p>
+<p>inductio = <foreign lang="greek">e)pagwgh/,</foreign> V. x. 73; V. xi 2 <hi rend="italics">sqq.</hi></p>
+<p>infinitae quaestiones, III. v. 5; X. v. 11.</p>
+<p>infitialisstatus = coniecturalis, III. vi. 15 and 32; IX. i. 8.</p>
+<p><hi rend="italics">ingenua,</hi> VII. ix. 4.</p>
+<p>ingrati actio, VII. iv. 37.</p>
+<p>initium causae = <foreign lang="greek">ai)ti/a,</foreign> III. xi. 5.</p>
+<p>inlusio = ironia, VIII. vi. 54; IX. i. 28.</p>
+<p>inlustratio = <foreign lang="greek">e)na/rgeia,</foreign> VI. ii. 32.</p>
+<p>inopinatum = <foreign lang="greek">para/docon,</foreign> VI. iii. 84; IX. ii. 23.</p>
+<p>inscripta = non scripta, III. vi. 37; VII. iv. 36.</p>
+<p>insequentia, V. x. 45 <hi rend="italics">sq.,</hi> 75; VII. ii. 46.</p>
+<p>insinuatio, IV. i. 42 and 48.</p>
+<p>instrumenta, II. xxi. 24; V. x. 51; VII. ii. 25 and 45; XII. v. 1 <hi rend="italics">sq.</hi></p>
+<p><hi rend="italics">intellego</hi> and <hi rend="italics">video,</hi> X. i. 13 <hi rend="italics">sq.</hi></p>
+<p>intentio, III. vi. 7 and 13 <hi rend="italics">sqq.</hi>; III. ix. 1; V. xiv. 6; VI. iv. 2; VII. i. 9, 13, 16; VII. v. 2; VIII. Pr. 9; (= propositio), V. xiv. 6, 12, 16 <hi rend="italics">sq.</hi></p>
+<p><hi rend="italics">intercapedinis,</hi> VIII. iii. 46.</p>
+<p>interclusio (figure), IX. iii. 23.</p>
+<p>interdicta, II. x. 5; IV. ii. 61; VII. v. 3; XII. x. 70.</p>
+<p>intertatio, IV. ii. 50.</p>
+<p>interieetio, I. iv. 19; = parenthesis, VII I. ii. 15.</p>
+<p>interpositio (figure), IX. iii. 23.</p>
+<p>interrogatio (of witnesses), V. vi. 3 <hi rend="italics">sqq.,</hi> 22, 27; (figure) IX. ii. 6 <hi rend="italics">sqq.,</hi> IX. iii. 98.</p>
+
+<pb id="p.541"/>
+
+<p>interruptio = <foreign lang="greek">a)posiw/phsis,</foreign> IX. ii. 54.</p>
+<p>interruptum (figure), IX. i. 35.</p>
+<p><hi rend="italics">intro</hi> and <hi rend="italics">intus,</hi> I. v. 50.</p>
+<p>inventio, III. iii. 1; VIII. Pr. 14; VIII. iii. 2; X. i. 106.</p>
+<p>inversio = <foreign lang="greek">a)nastrofh/,</foreign> I. v. 40; = allegoria, VIII. vi. 44.</p>
+<p><hi rend="italics">invidere hanc rem, hac re,</hi> IX. iii. 1; <hi rend="italics">huius rei,</hi> IX. iii. 17.</p>
+<p><hi rend="italics">invidus</hi> and <hi rend="italics">invidiosus,</hi> VI. ii. 21.</p>
+<p>iocus, VI. iii. 21.</p>
+<p><foreign lang="greek">i)wtakismo/s,</foreign> I. v. 32.</p>
+<p>iracundia (figure), IX. i. 32; IX. ii. 3.</p>
+<p>ironia, IV. i. 39; VI. ii. 15; VI. iii. 68; VIII. vi. 54; IX. i. 3 and 7; IX. ii. 44 and 97; IX. iii. 29.</p>
+<p><foreign lang="greek">i)sxno/n,</foreign> XII. x. 58.</p>
+<p><foreign lang="greek">i)sxno/ths,</foreign> I. v. 32.</p>
+<p><foreign lang="greek">i)so/kwlon,</foreign> IX. iii. 80.</p>
+<p>iteratio, IX. i. 28; IX. ii. 63.</p>
+<p><hi rend="italics">itur,</hi> I. iv. 28.</p>
+<p>iudiciales causae, II. i. 10; III. iv. 16; III. vi. 104; III. viii. 53; III. ix. 1 <hi rend="italics">sqq.,</hi> 3, 4, 9; VI. ii. 1; VIII. Pr. 6, 9 <hi rend="italics">sqq.,</hi> 11; VIII. iii. 11; IX. iv. 130; X. vii. 5.</p>
+<p>iugata, V. x. 94; VI. iii. 6.</p>
+<p>iugulum petere, VIII. vi. 51.</p>
+<p>iugum Caudinum, III. viii. 3.</p>
+<p>Iulia basilica, XII. v. 6.</p>
+<p>iunctura, VIII. iii. 45; IX. iv. 22, 32, 43; XI. iii. 53.</p>
+<p>iuridicialis status, III. vi. 32 <hi rend="italics">sq.,</hi> 45, 47, 57.</p>
+<p>iurisconsulti, V. xiv. 34; XI. ii. 41.</p>
+<p><hi rend="italics">iusi</hi> for <hi rend="italics">iussi,</hi> I. vii. 21.</p>
+<p>iusiurandum, V. i. 2; V. vi. 1 <hi rend="italics">sqq.</hi></p>
+<p>K, I. iv. 9; I. vii. 10.</p>
+<p><foreign lang="greek">kairo/s,</foreign> III. vi. 26.</p>
+<p><foreign lang="greek">kake/mfaton,</foreign> VIII. iii. 44 and 47.</p>
+<p><foreign lang="greek">kakozhli/a,</foreign> II. iii. 9; VIII. vi. 73.</p>
+<p><foreign lang="greek">kako/zhlon,</foreign> VIII. iii. 56 <hi rend="italics">sqq.</hi></p>
+<p><foreign lang="greek">kakosu/nqeton,</foreign> VIII. iii. 59.</p>
+<p><foreign lang="greek">kakotexni/a,</foreign> II. xv. 2; II. xx. 2.</p>
+<p><foreign lang="greek">kat' ai)/sqhsin,</foreign> III. vi. 37; <foreign lang="greek">a)nti/lhy/in,</foreign> VII. iv. 4; <foreign lang="greek">e)/nnoian,</foreign> III. vi. 37; <foreign lang="greek">r(hto\n kai\ dia/noian,</foreign> III. vi. 46; <foreign lang="greek">r(hto\n kai\ u(pecai/resin,</foreign> III. vi. 61; <foreign lang="greek">sumbebhko/s,</foreign> III. vi. 56; <foreign lang="greek">u(po/qesin,</foreign> V. x. 95.</p>
+<p><foreign lang="greek">katapeplasme/non,</foreign> I. xi. 6.</p>
+<p><foreign lang="greek">kata/plhcis</foreign> (figure), IX. ii. 103.</p>
+<p><foreign lang="greek">kataskeuh/,</foreign> II. iv. 18.</p>
+<p><foreign lang="greek">kata/xrhsis,</foreign> VIII. ii. 5; VIII. vi. 34 and 36; IX. i. 5.</p>
+<p><foreign lang="greek">kaqolika/,</foreign> II. xiii. 14; VIII. v. 7.</p>
+<p><foreign lang="greek">kei=sqai,</foreign> III. vi. 24.</p>
+<p><foreign lang="greek">kefa/laion genikw/taton,</foreign> III. vi. 2; <hi rend="italics">cp.</hi> III. xi. 27.</p>
+<p><foreign lang="greek">kli=mac,</foreign> IX. iii. 54.</p>
+<p><foreign lang="greek">koilostomi/a,</foreign> I. v. 32.</p>
+<p><foreign lang="greek">ko/mmata,</foreign> IX. iv. 22.</p>
+<p>koppa, I. iv. 9.</p>
+<p><foreign lang="greek">krino/menon,</foreign> III. xi. 4 and 18.</p>
+<p><foreign lang="greek">kri/seis,</foreign> V. xi. 36.</p>
+<p><foreign lang="greek">kritikh/,</foreign> V. xiv. 28.</p>
+<p><foreign lang="greek">kw=la,</foreign> IX. iv. 22.</p>
+<p>labda, I. xi. 5.</p>
+<p><foreign lang="greek">labdakismo/s,</foreign> I. v. 32.</p>
+<p><hi rend="italics">laborant fructus,</hi> VIII. vi. 6</p>
+<p><hi rend="italics">labos,</hi> I. iv. 13.</p>
+<p><hi rend="italics">Laenates,</hi> I. iv. 25.</p>
+<p><hi rend="italics">Lartius,</hi> VI. iii. 96.</p>
+<p><hi rend="italics">Lases</hi> for <hi rend="italics">Lares,</hi> I. iv. 13.</p>
+<p><hi rend="italics">larare,</hi> I. iv. 13; I. vi. 44.</p>
+<p>laudatio, II. iv. 20; III. vii. 2; XI. iii. 126, 131, 153.</p>
+<p><hi rend="italics">laureati postes,</hi> VIII. vi. 32.</p>
+<p><hi rend="italics">leber,</hi> I. iv. 17.</p>
+<p>lectio, I. i. 31, 32; I. viii. 1 <hi rend="italics">sqq.</hi>; I. viii. 5; II. v. 1 <hi rend="italics">sqq.,</hi> 18; X. i. 17, 20 <hi rend="italics">sqq.,</hi> 27, 45.</p>
+<p>legale quaestionum genus, III. v. 4; III. vi. 87 <hi rend="italics">sqq.</hi></p>
+<p>leguleii, XII. iii. 11.</p>
+<p><foreign lang="greek">lhisth/s,</foreign> I. vii. 17.</p>
+<p><foreign lang="greek">*le/wn,</foreign> VII. ix. 6.</p>
+<p><hi rend="italics">lepus,</hi> I. vi. 12 and 33.</p>
+<p>lex Manilia, II. iv. 40; Plautia, IX. iii. 56; Servilia, VI. iii. 44; theatralis, III. vi 9; leges contrariae III. vi. 88; VII. vii. 1 <hi rend="italics">sqq.</hi></p>
+<p>libera oratio = <foreign lang="greek">parrhsi/a,</foreign> IX. ii. 27.</p>
+<p><foreign lang="greek">*libukoi\ lo/goi,</foreign> V. xi. 20.</p>
+<p>licentia = <foreign lang="greek">parrhsi/a,</foreign> IX. ii. 27.</p>
+<p>litterae, I. i. 24 and 27; I. iv. 7; I. vii. 11 and 31; II. xviii. 4; VI. Pr. 14; IX. iv. 36; XII. x. 27.</p>
+<p>litteratoria, litteratrix, II. xiv. 3.</p>
+<p>litteratura = grammatice, II. i. 4; II. xiv. 3.</p>
+<p><hi rend="italics">litus,</hi> V. xiv. 34; VII. iii. 13.</p>
+<p>locuples, V. x. 55.</p>
+<p>loci argumentorum, V. viii. 4; V. x. 20; VI. iii. 65.</p>
+<p>loci communes, II. i. 1, 9, 11; II. iv. 22, 27; IV. vii. 4; V. i. 3; V. xiii. 57; X. v. 12; XI. i. 46.</p>
+<p>locutio recta = <foreign lang="greek">o)rqoe/peia,</foreign> I. vi. 20.</p>
+
+<pb id="p.542"/>
+
+<p><hi rend="italics">lodices,</hi> I. vi. 42.</p>
+<p><foreign lang="greek">logiko/n,</foreign> genus quaestionum, III. v. 4.</p>
+<p><foreign lang="greek">logodai/daloi,</foreign> III. i. 11.</p>
+<p><hi rend="italics">Longi,</hi> I. iv. 25; I. vi. 38.</p>
+<p>loquendi genera = <foreign lang="greek">dia/lektoi,</foreign> I. v. 29.</p>
+<p>lucubration, X. iii. 27.</p>
+<p><hi rend="italics">lucus,</hi> I. vi. 34.</p>
+<p><hi rend="italics">ludus,</hi> I. vi. 34; <hi rend="italics">ludi Floralia</hi> ac <hi rend="italics">Megalensia,</hi> I. v. 52.</p>
+<p><hi rend="italics">lupus femina,</hi> I. vi. 12.</p>
+<p><hi rend="italics">lurchinabundus,</hi> I. vi. 42.</p>
+<p><hi rend="italics">lururiatur</hi> and <hi rend="italics">lururiat,</hi> IX. iii. 7.</p>
+<p>lyrici, I. viii. 6; IX. iv. 53; X. i. 61 and 96.</p>
+<p>M, IX. iv. 39, 40; XII. x. 31.</p>
+<p><foreign lang="greek">makrologi/a,</foreign> VIII. iii. 53.</p>
+<p><hi rend="italics">magester</hi> for <hi rend="italics">magister,</hi> I. iv. 17.</p>
+<p><hi rend="italics">Maiia,</hi> I. iv. 11.</p>
+<p><hi rend="italics">maleficus,</hi> I. v. 65.</p>
+<p><hi rend="italics">malecolus,</hi> I. v. 68.</p>
+<p><hi rend="italics">malus,</hi> I. vii. 3.</p>
+<p><hi rend="italics">mappa,</hi> I. v. 27.</p>
+<p><hi rend="italics">Marcipores,</hi> I. iv. 26.</p>
+<p><hi rend="italics">marmur,</hi> I. vi. 23.</p>
+<p><hi rend="italics">mastruca,</hi> I. v. 8.</p>
+<p><foreign lang="greek">mataiotexni/a,</foreign> II. xx. 3.</p>
+<p><hi rend="italics">marimus, marumus,</hi> I. vii. 21.</p>
+<p><hi rend="italics">medidies,</hi> I. vi. 30.</p>
+<p>medium dicendi genus, X. i. 52 and 80; XII. x. 58 <hi rend="italics">sq.</hi></p>
+<p><hi rend="italics">Megalensia,</hi> I. v. 52.</p>
+<p><foreign lang="greek">megalopre/peia,</foreign> IV. ii. 61.</p>
+<p><hi rend="italics">mehe</hi> for <hi rend="italics">me,</hi> I. v. 21.</p>
+<p><foreign lang="greek">mei/wsis,</foreign> VIII. iii. 50.</p>
+<p><foreign lang="greek">me/los</foreign> and <foreign lang="greek">r(uqmo/s,</foreign> I. x. 22.</p>
+<p>membra = <foreign lang="greek">kw=la,</foreign> IX. iv. 22, 67, 123.</p>
+<p>membratim, IX. iv 126, 127.</p>
+<p>memoria, I. i. 19; I. iii. 1; III. iii. 1 and 10; XI. ii. 1 <hi rend="italics">sqq.,</hi> 11 <hi rend="italics">sqq.,</hi> 36 and 40.</p>
+<p><hi rend="italics">Menerva,</hi> I. iv. 17.</p>
+<p><hi rend="italics">merere</hi> for <hi rend="italics">mereris,</hi> I. v. 42.</p>
+<p><hi rend="italics">meridies</hi> and <hi rend="italics">medidies,</hi> I. vi. 30.</p>
+<p><foreign lang="greek">merikoi\ e)pi/logoi,</foreign> VI. i. 55.</p>
+<p><hi rend="italics">mertare,</hi> I. iv. 14.</p>
+<p><hi rend="italics">merula,</hi> I. vi. 38.</p>
+<p><foreign lang="greek">meta/basis</foreign> (figure), IX. iii. 25.</p>
+<p><foreign lang="greek">metabolh/</foreign> (figure), IX. iii. 38; rhythmi, IX. iv. 50.</p>
+<p><foreign lang="greek">meta/lhyis</foreign> (causa), III. vi. 46; (figure) VI. iii. 52; IX. ii. 106; (trope) VIII. vi. 37 <hi rend="italics">sq.</hi>; IX. i. 5.</p>
+<p><foreign lang="greek">metafora/,</foreign> VI. iii. 68; VIII. vi. 4 <hi rend="italics">sqq.,</hi> 8; IX. i. 5; IX. ii. 46.</p>
+<p>metaplasmus, I. viii. 14.</p>
+<p><foreign lang="greek">meta/stasis</foreign> = translatio, III. vi. 53; VII. iv. 14; (figure) IX. ii. 41.</p>
+<p>methodice, IX. i. 1.</p>
+<p>metonymia, VIII. vi. 23; IX. i. 5.</p>
+<p><foreign lang="greek">me/tra,</foreign> IX. iv. 45&ndash;51.</p>
+<p>metrici pedes, IX. iv. 48 and 52.</p>
+<p><hi rend="italics">Mettocoque Fufetioeo,</hi> I. v. 12.</p>
+<p><foreign lang="greek">mi/mhsis</foreign> = <foreign lang="greek">h)qopoii+/a,</foreign> IX. ii. 58.</p>
+<p>mimi = pantomimi, VI. iii. 8 and 29.</p>
+<p>mimi = comoediae, I. x. 17; IV. ii. 53.</p>
+<p>minae = <foreign lang="greek">kata/plhcis,</foreign> IX. ii. 103.</p>
+<p><hi rend="italics">minuendi species,</hi> VIII. iv. 1 <hi rend="italics">sqq.</hi> and 28.</p>
+<p>miseratio, VI. i. 9, 19, 23, 27, 30, 46; XI. iii. 171.</p>
+<p>modi verborum, I. v. 41; = tropes, VIII. v. 35; (<hi rend="italics">musical</hi>) I. x. 14 and 31.</p>
+<p>modulatio scaenica, XI. iii. 57.</p>
+<p>molossus, IX. iv. 82, 100, 102.</p>
+<p><foreign lang="greek">monoei/deia,</foreign> XI. iii. 44.</p>
+<p>monosyllaba, IX. iv. 42.</p>
+<p><foreign lang="greek">monotoni/a,</foreign> XI. iii. 45.</p>
+<p><hi rend="italics">morae</hi> = <hi rend="italics">pauses,</hi> XI. iii. 39.</p>
+<p>moralis philosophia, XII. i. 15.</p>
+<p>motus = tropes, IX. i. 2.</p>
+<p><hi rend="italics">mucro</hi> for <hi rend="italics">gladius,</hi> VIII. vi. 20; X. i 11 and 14.</p>
+<p><hi rend="italics">mugitus,</hi> VIII. vi. 31.</p>
+<p><hi rend="italics">mulsa,</hi> I. v. 16.</p>
+<p>multiplicatio = <foreign lang="greek">sunaqroismo/s,</foreign> VIII. iv 27.</p>
+<p><hi rend="italics">munerarius,</hi> VIII. iii. 34.</p>
+<p><hi rend="italics">murmur,</hi> VIII. vi. 31.</p>
+<p><hi rend="italics">mus,</hi> VIII. iii. 20.</p>
+<p><hi rend="italics">musica</hi> ratio numerorum, IX. iv. 139.</p>
+<p>musice, I. x. 9 <hi rend="italics">sqq.,</hi> 17, 22, 31; I. iv. 4</p>
+<p>mutatio, IX. iii. 27 and 92.</p>
+<p><foreign lang="greek">mukthrismo/s,</foreign> VIII. vi. 59.</p>
+<p>N, I. v. 60; XII. x. 31.</p>
+<p><hi rend="italics">nam enim,</hi> I. v. 38.</p>
+<p>narratio, II. iv. 2 <hi rend="italics">sqq.,</hi> 15; III. vi. 92; III. ix. 1; IV. ii. <hi rend="italics">passim</hi>; VIII. Pr. 1; IX. iv. 134 and 138; XI. iii. 162.</p>
+<p><hi rend="italics">Naso,</hi> XI. ii. 31.</p>
+<p>naturalis philosophia, XII. ii. 10 and 20 <hi rend="italics">sqq.</hi>.</p>
+<p><hi rend="italics">navigare aequor,</hi> IX. iii. 17.</p>
+<p><hi rend="italics">ne</hi> and <hi rend="italics">non,</hi> I. v. 50; <hi rend="italics">ne hoc fecit,</hi> I. v. 38.</p>
+<p>negotialis, II. xxi. 3; III. vi. 57; III. vii. 1.</p>
+
+<pb id="p.543"/>
+
+<p>negotium, III. v. 17.</p>
+<p><hi rend="italics">Nerei,</hi> I. v. 24.</p>
+<p>neutralis (positio), I. iv. 24; (nomen) I. v. 54.</p>
+<p><hi rend="italics">noctivagus,</hi> I. v. 68.</p>
+<p><foreign lang="greek">no/hma,</foreign> II. xi. 1; VIII. v. 12.</p>
+<p><foreign lang="greek">nomiko\n</foreign> genus quaestionum, III. v. 4.</p>
+<p>nomina, I. iv. 18, 23&ndash;6; I. iv. 24 <hi rend="italics">sqq.</hi>; I. v. 60, 61; III. vi. 36; VIII. vi. 31.</p>
+<p>nota <hi rend="italics">aspirationis,</hi> I. iv. 9.</p>
+<p>notatio = etymologia, I. vi. 28.</p>
+<p>numerus (category), III. vi. 26; (rhythm) IX. iv. 17, 22, 27, 45 <hi rend="italics">sqq.,</hi> 54, 57, 61, 62, 66; (number) I. v. 45; IX. iii. 8.</p>
+<p><hi rend="italics">nuncupare</hi>, VIII. iii. 27.</p>
+<p>O, I. iv. 16; I. vi. 8; I. vii. 11.</p>
+<p><hi rend="italics">ob,</hi> I. vii. 7.</p>
+<p>obiurgatio (figure), IX. i. 32; IX. ii. 3.</p>
+<p>obliqui casus, I. vi. 10, 22; adlocutiones, IX. ii. 37; sententiae, IX. ii. 79, 94.</p>
+<p><hi rend="italics">obsequium,</hi> VIII. iii. 35.</p>
+<p>obticentia (figure), IX. ii. 54.</p>
+<p>occultatio (figure), IX. iii. 98.</p>
+<p>octonarius versus, IX. iv. 72 <hi rend="italics">sq.</hi></p>
+<p><foreign lang="greek">*)odusseu/s,</foreign> I. iv. 16.</p>
+<p>oeconomia, I. viii. 9 and 17; III. iii. 9; <hi rend="italics">cp.</hi> VII. x. 11.</p>
+<p><foreign lang="greek">oi)/mh,</foreign> IV. i. 2.</p>
+<p><foreign lang="greek">oi)=mos,</foreign> IV. i. 3.</p>
+<p><hi rend="italics">olli,</hi> VIII. iii. 25.</p>
+<p><hi rend="italics">Olympus,</hi> I. v. 62.</p>
+<p><foreign lang="greek">o)nomatopoii/a,</foreign> I. v. 72; VIII. vi. 31; IX. i. 3 and 5.</p>
+<p>operositas = <foreign lang="greek">periergi/a,</foreign> VIII. iii. 55.</p>
+<p><hi rend="italics">Opiter,</hi> I. iv. 25.</p>
+<p><hi rend="italics">oppido,</hi> VIII. iii. 25.</p>
+<p>optatio (figure), IX. viii. 32; IX. ii. 3.</p>
+<p><hi rend="italics">optimus</hi> and <hi rend="italics">optumus,</hi> I. iv. 8; I. vii. 21.</p>
+<p>oratores Graeci, X. i. 76; Latini, X. i. 105 <hi rend="italics">sqq.</hi></p>
+<p>oratoria, oratrix, II. xiv. 1.</p>
+<p>ordo, III. iii. 8; IX. iii. 91.</p>
+<p>originatio = <foreign lang="greek">e)tumologi/a</foreign> I. vi. 28.</p>
+<p>ornatus, VIII. iii. 1 <hi rend="italics">sqq.</hi>; XI. i. 2 and 7.</p>
+<p><foreign lang="greek">o)rqoe/peia,</foreign> I. v. 33; I. vi. 20.</p>
+<p><foreign lang="greek">o)/rqografi/a,</foreign> I, vii. 1.</p>
+<p><hi rend="italics">paco,</hi> I. vi. 11.</p>
+<p>paean, IX. iv. 47 <hi rend="italics">sq.,</hi> 79 <hi rend="italics">sqq.,</hi> 96, 106, 110, 136.</p>
+<p>paedagogi, I. i. 8.</p>
+<p>paenitentia dicti, IX. ii. 60.</p>
+<p><hi rend="italics">paeniturus,</hi> IX. iii. 12.</p>
+<p><foreign lang="greek">paidomaqh/s,</foreign> I. xii. 9.</p>
+<p>palaestrica, II. xxi. 11.</p>
+<p>palaestrici, I. xi. 15; I. xii. 9; II. viii. 7; XII. ii. 12.</p>
+<p>palestritae, IX. iv. 56.</p>
+<p>palimbacchius, IX. iv. 82, 102.</p>
+<p><hi rend="italics">palus,</hi> I. vii. 3.</p>
+<p>panegyrici, II. x. 11; III. iv. 14; III. viii. 7.</p>
+<p><hi rend="italics">Pansae,</hi> I. iv. 25.</p>
+<p><foreign lang="greek">*pantale/wn,</foreign> VII. ix. 6.</p>
+<p><foreign lang="greek">parabolh/,</foreign> V. xi. 1 and 23; VI. iii. 59; VIII. iii. 77.</p>
+<p><foreign lang="greek">para/deigma,</foreign> V. xi. 1; XII. x. 51.</p>
+<p><foreign lang="greek">paradiastolh/,</foreign> IX. iii. 65.</p>
+<p><foreign lang="greek">paradihgh/seis,</foreign> IX. ii. 107.</p>
+<p><foreign lang="greek">para/docon,</foreign> IV. i. 40; (figure) IX. ii. 23.</p>
+<p><foreign lang="greek">parainetiko/n</foreign> (figure), IX. ii. 103.</p>
+<p><foreign lang="greek">para/frasis,</foreign> I. ix. 2; X. v. 5.</p>
+<p><foreign lang="greek">parasiw/phsis,</foreign> IX. iii. 99.</p>
+<p><foreign lang="greek">parau/chsis</foreign> (figure), IX. ii. 106.</p>
+<p><foreign lang="greek">pare/kbasis,</foreign> IV. iii. 12 and 14.</p>
+<p><foreign lang="greek">pare/mptwsis,</foreign> IX. iii. 23.</p>
+<p><foreign lang="greek">pare/nqesis,</foreign> IX. iii. 23 and 26.</p>
+<p><foreign lang="greek">parepo/mena,</foreign> V. x. 75.</p>
+<p>pariambus, IX. iv. 80.</p>
+<p><foreign lang="greek">pa/rison</foreign> (figure), IX. iii. 76.</p>
+<p><foreign lang="greek">parwdh/,</foreign> IX. ii. 35.</p>
+<p><foreign lang="greek">parwdi/a,</foreign> VI. iii. 97.</p>
+<p><foreign lang="greek">paroimi/a,</foreign> V. xi. 21; VIII. vi. 57.</p>
+<p><foreign lang="greek">paromologi/a</foreign> (figure), IX. iii. 99.</p>
+<p><foreign lang="greek">paronomasi/a,</foreign> IX. iii. 66 <hi rend="italics">sq.</hi> and 80.</p>
+<p><foreign lang="greek">parormhtikh\ sta/sis,</foreign> III. vi. 47.</p>
+<p><foreign lang="greek">parrhsi/a,</foreign> IX. ii. 27; IX. iii. 99.</p>
+<p><hi rend="italics">parricida,</hi> VIII. vi. 35.</p>
+<p><hi rend="italics">parricidatus,</hi> I. vi. 42.</p>
+<p>participia, I. iv. 19 and 27; I. v. 47; I. vi. 26.</p>
+<p>participialia verba, I. iv. 29.</p>
+<p>partitio, I. ii. 13; III. ix. 1; IV. v. 1 <hi rend="italics">sqq.,</hi> 24, 26; IV. ii. 49; IV. v. 1 and 24; VII. i. 1; IX. iv. 92 and 131.</p>
+<p><hi rend="italics">pastor populi,</hi> VIII. vi. 8.</p>
+<p><foreign lang="greek">paqhtikai/,</foreign> probationes, v. xii. 9.</p>
+<p><foreign lang="greek">pa/qos</foreign> and <foreign lang="greek">pa/qh,</foreign> VI. ii. 7 <hi rend="italics">sq.</hi> and 20 <hi rend="italics">sqq.</hi></p>
+<p>pati (category), III. vi. 24; (passive) I. vi. 26; IX. iii. 7.</p>
+<p>patrare bella, VIII. iii. 44.</p>
+<p><hi rend="italics">peculiolum magnum,</hi> I. v. 46.</p>
+<p><hi rend="italics">pecuniosus,</hi> V. x. 5.</p>
+<p><hi rend="italics">pedem conferre,</hi> VIII. vi. 51.</p>
+<p>pedestris oratio, X. i. 81.</p>
+<p><hi rend="italics">Pelia,</hi> I. v. 61.</p>
+
+<pb id="p.544"/>
+
+<p><foreign lang="greek">phliko/ths,</foreign> VII. iv. 16.</p>
+<p><hi rend="italics">pellexit,</hi> not <hi rend="italics">perlexit,</hi> XI. iii. 35.</p>
+<p>pentameter, IX. iv. 98 and 109.</p>
+<p><foreign lang="greek">penta/shmoi</foreign> percussiones, IX. iv. 51.</p>
+<p><foreign lang="greek">penqhmimere/s,</foreign> IX. iv. 78.</p>
+<p><hi rend="italics">penus,</hi> VII. iii. 13.</p>
+<p><hi rend="italics">pepigi,</hi> I. vi. 10.</p>
+<p><foreign lang="greek">pepoihme/na,</foreign> VIII. vi. 32.</p>
+<p>percontatio, IX. i. 29; IX. ii. 6 <hi rend="italics">sqq.</hi></p>
+<p>percursio, IX. i. 27.</p>
+<p>percussiones, IX. iv. 51 and 75; XI. iii. 108.</p>
+<p><foreign lang="greek">peri\ e)nnoi/as,</foreign> VIII. iii. 35.</p>
+<p><foreign lang="greek">periergi/a,</foreign> VIII. iii. 55.</p>
+<p><foreign lang="greek">peri/ergon</foreign> = otiosum, I. vi. 19.</p>
+<p>periodus, IX. iv. 22, 124, 125, 128; XI. i. 49.</p>
+<p><foreign lang="greek">peri/frasis,</foreign> VIII. iii. 53; VIII. vi. 59 <hi rend="italics">sqq.</hi>; IX. i. 3 and 6; IX. iii. 97.</p>
+<p><foreign lang="greek">perissologi/a,</foreign> IV. ii. 43; VIII. vi. 61.</p>
+<p><foreign lang="greek">peri/stasis,</foreign> III. v. 18; V. x. 104.</p>
+<p>permissio (figure), IX. i. 35; IX. ii. 25; IX. iii. 90.</p>
+<p>peroratio, VI. i. 1 <hi rend="italics">sqq.,</hi> 12 <hi rend="italics">sqq.,</hi> 21. 55; VI. ii. 7; VII. x. 12; VIII. Pr. 11.</p>
+<p>perpetualia praecepta = <foreign lang="greek">kaqolika/,</foreign> II. xiii. 14.</p>
+<p>perpetua oratio, II. xx. 7; actio, VI. iv. 2.</p>
+<p><hi rend="italics">perpotare in balneis,</hi> I. vi. 44.</p>
+<p>persona (gramm.), I. iv. 29; (category) III. vi. 25; IV. ii. 129; V. x. 23 <hi rend="italics">sqq.</hi>; VI. i. 25; VII. ii. 27 <hi rend="italics">sqq.</hi>; IX. i. 31; IX. ii. 29, 68, 76; IX. iii. 89.</p>
+<p>pes, IX. iv. 45 <hi rend="italics">sqq.,</hi> 52 <hi rend="italics">sqq.,</hi> 60 <hi rend="italics">sqq.,</hi> 79 <hi rend="italics">sqq.</hi></p>
+<p><hi rend="italics">petorritum,</hi> I. v. 57.</p>
+<p><hi rend="italics">Phaethon,</hi> I. v. 17.</p>
+<p><foreign lang="greek">fantasi/a,</foreign> VIII. iii. 88; <foreign lang="greek">fantasi/ai,</foreign> VI. ii. 29; X. vii. 15; XII. x. 6.</p>
+<p>philosophi, I. Pr. 10; v. vi. 3; V. vii. 35; VII. iii. 16; VII. ix. 1; X. i. 35, 81 <hi rend="italics">sqq.,</hi> 123 <hi rend="italics">sqq.</hi>; XI. i. 35; XII ii. 5 <hi rend="italics">sqq.</hi>; XII. xi. 17.</p>
+<p>philosophia, I. iv. 4; XII. ii. 20 and 23; XII. iii. 2.</p>
+<p>phonasci, II. viii. 15; XI. iii. 19 and 22.</p>
+<p><foreign lang="greek">fra/sis</foreign> = elocutio, VIII. i. 1; X. i. 42 and 87.</p>
+<p>Phrygium canere, I. x. 33.</p>
+<p><hi rend="italics">pictai vestis,</hi> I. vii. 18.</p>
+<p>pinguetudo, I. xi. 4.</p>
+<p><hi rend="italics">pinnum,</hi> I. iv. 12.</p>
+<p><hi rend="italics">piratica,</hi> VIII. iii. 34.</p>
+<p><foreign lang="greek">pi/steis,</foreign> V. x. 8.</p>
+<p><hi rend="italics">pituita,</hi> I. vi. 36.</p>
+<p><hi rend="italics">Pius,</hi> V. x. 30.</p>
+<p>plasma, I. viii. 2.</p>
+<p><foreign lang="greek">plateiasmo/s,</foreign> I. v. 32.</p>
+<p><hi rend="italics">Plato,</hi> I. v. 60.</p>
+<p><hi rend="italics">Plauti,</hi> I. iv. 25.</p>
+<p><hi rend="italics">plenus vino</hi> and <hi rend="italics">vini,</hi> IX. iii. 1.</p>
+<p><foreign lang="greek">pleonasmo/s,</foreign> I. v. 40; VIII. iii. 53; IX. iii. 46 <hi rend="italics">sq.</hi></p>
+<p><foreign lang="greek">plokh/</foreign> = repetitio, IX. iii. 41 and 49.</p>
+<p><hi rend="italics">ploxenum,</hi> I. v. 8.</p>
+<p>pluralia, pluraliter, I. v. 16; IX. iii. 20.</p>
+<p><hi rend="italics">poculum epotum,</hi> VIII. vi. 24.</p>
+<p>poenariae actiones, IV. iii. 9; VII. iv. 20.</p>
+<p>poetae, I. iv. 2; I. viii. 14; I. x. 29; V. xi. 39; X. i. 27, 41&ndash;72, 85&ndash;100.</p>
+<p>poeticae narrationes, II. iv. 2.</p>
+<p><foreign lang="greek">poihtikh/,</foreign> II. xviii. 2.</p>
+<p><foreign lang="greek">politiko/s,</foreign> I. X. 15.</p>
+<p><foreign lang="greek">polu/ptwton,</foreign> IX. i. 34; IX. iii. 37.</p>
+<p><foreign lang="greek">polusu/ndeton,</foreign> IX. iii. 51.</p>
+<p><hi rend="italics">pomeridies,</hi> IX. iv. 39.</p>
+<p><hi rend="italics">pondo,</hi> I. v. 15.</p>
+<p>pontificum commentarii, VIII. ii. 12; annales, X. ii. 7.</p>
+<p><hi rend="italics">porca for porcus,</hi> VIII. iii. 19.</p>
+<p><hi rend="italics">positio prima,</hi> I. v. 60 and 65; I. iv. 24; I. vi. 10 and 22; = <foreign lang="greek">qe/sis,</foreign> IX. iv. 48 and 55; nominis, VIII. vi. 23; = materia declamandi, II. x.15.</p>
+<p><foreign lang="greek">poso/ths,</foreign> VII. iv. 16.</p>
+<p>possessivum nomen, I. v. 45.</p>
+<p>possibile, III. viii. 25.</p>
+<p><hi rend="italics">Postumus,</hi> I. iv. 25.</p>
+<p><hi rend="italics">potus,</hi> I. iv. 29.</p>
+<p><foreign lang="greek">praktikh/,</foreign> ars, II. xviii. 1.</p>
+<p><hi rend="italics">praeceps ira,</hi> VIII. vi. 27.</p>
+<p><hi rend="italics">praechones,</hi> I. v. 20.</p>
+<p>praedictio, IX. ii. 17.</p>
+<p>praeiudicia, V. i. 2; V. ii.</p>
+<p>praelectio, I. ii. 15; I. v. 11; I. viii. 8 and 13; II. v. 4.</p>
+<p>praemunitio, IX. i. 30; IX. ii. 2 and 17.</p>
+<p>Praenestina verba, I. v. 56.</p>
+<p>praeparatio (figure), IX. ii. 17; probationis, IV. ii. 55 <hi rend="italics">sqq.</hi></p>
+<p>praepositio, I. iv. 13 and 19; IX. iii. 71.</p>
+<p>prescriptio, III. vi. 72; VII. v. 2 <hi rend="italics">sqq.</hi></p>
+
+<pb id="p.545"/>
+
+<p>praesumptio = <foreign lang="greek">pro/lhyis,</foreign> IX. ii. 16 and 18.</p>
+<p>praesumptum = <foreign lang="greek">prolhptiko/n,</foreign> III. vi. 35.</p>
+<p>praeteritum, I. iv. 29; I. vi. 26.</p>
+<p>praevaricatio, VII. i. 32.</p>
+<p><foreign lang="greek">pra/gmata,</foreign> III. vi. 28.</p>
+<p><foreign lang="greek">pragmatikh/,</foreign> III. vi. 57; III. vii. 1;</p>
+<p><foreign lang="greek">pragmatiko/s,</foreign> II. xxi. 3; <foreign lang="greek">pragmatiko/n,</foreign> III. vi. 35.</p>
+<p>pragmatici, III. vi. 59; XII. iii. 4. <hi rend="italics">pransus,</hi> I. iv. 29.</p>
+<p><foreign lang="greek">pra=cis,</foreign> III. vi. 26.</p>
+<p><hi rend="italics">precula</hi> for <hi rend="italics">pergula,</hi> I. v. 12.</p>
+<p>principalis quaestio, IV. iv. 1.</p>
+<p>principium = exordium, IV. i. 1 <hi rend="italics">sqq.</hi>; IV. i. 42.</p>
+<p>Privernas ager, VI. iii. 44.</p>
+<p>probabile, VIII. iii. 42.</p>
+<p>probatio, V. i. 1; inartificialis, V. ii.&ndash;vii; V. xi. 43; artificialis, V. viii.&ndash;xiv.; (other reff.) VI. iv. 4; VII. ii. 35 <hi rend="italics">sqq.</hi>; VII. iii. 28; XI. iii. 163; lineares, I. x. 49.</p>
+<p><hi rend="italics">probaveront,</hi> I. iv. 16.</p>
+<p>procuratio, VII. iv. 35.</p>
+<p>procursio, IV. iii. 9; XI. iii. 126.</p>
+<p>productio (syllabarum), VII. ix. 13; IX. iii. 69; (liberorum, etc.), VI. i. 30.</p>
+<p><foreign lang="greek">proe/kqesis</foreign> (figure), IX. ii. 106.</p>
+<p><foreign lang="greek">proepiplh/ssein th=| u(perbolh=|,</foreign> VIII. iii. 37.</p>
+<p><hi rend="italics">progenies,</hi> I. vi. 26.</p>
+<p>prognostica, V. ix. 15.</p>
+<p>progressio (figure), IX. i. 33.</p>
+<p><foreign lang="greek">pro/lhyis,</foreign> IV. i. 49; IX. ii. 16; IX. iii. 99.</p>
+<p><foreign lang="greek">prolhptiko/n,</foreign> III. vi. 35.</p>
+<p><hi rend="italics">proles,</hi> VIII. iii. 26.</p>
+<p>promiscua = <foreign lang="greek">e)pi/koina,</foreign> I. iv. 24.</p>
+<p>promissio (figure), IX. i. 32; IX. ii. 2</p>
+<p>pronomen, I. iv. 19; I. v. 26 and 47.</p>
+<p><hi rend="italics">pronuntiatio,</hi> I. xi. 4 <hi rend="italics">sqq.</hi>; x. 13; II. xii. 9; XI. iii. <hi rend="italics">passim.</hi></p>
+<p>prooemium, III. ix. 8; IV. i. 2 <hi rend="italics">sq.,</hi> 53, 73; IX. iv. 132 and 134; <hi rend="italics">cp.</hi> exor dium.</p>
+<p>proportio = <foreign lang="greek">a)nalogi/a,</foreign> I. vi. 3.</p>
+<p>proposita = themata, VII. i. 4; = <foreign lang="greek">qe/sis,</foreign> III. v. 5.</p>
+<p>propositio, III. ix. 1 <hi rend="italics">sq.</hi>; IV ii. 30; IV. iv. 1 <hi rend="italics">sqq.</hi>; IV. v. 26; VII. i. 46; opp. refutatio, XII. ix. 19; (logic) V. xiv. 5; (figure) IX. ii. 105.</p>
+<p>proprietas verborum, VIII. ii. 1 <hi rend="italics">sqq.</hi>; status, III. vi. 53 and 56.</p>
+<p>proprius, I. v. 3 and 71; V. x. 55 <hi rend="italics">sqq.</hi>; VII. iii. 24; VIII. ii. 1 and 7 <hi rend="italics">sqq.</hi>; XII. x. 42.</p>
+<p><hi rend="italics">prosapia,</hi> I. vi. 40; VIII. iii. 26.</p>
+<p><foreign lang="greek">prosapo/dosis</foreign> (figure), IX. iii. 94.</p>
+<p><hi rend="italics">proscripturit,</hi> VIII. vi. 32.</p>
+<p><foreign lang="greek">proshgori/a,</foreign> I. iv. 21.</p>
+<p><foreign lang="greek">prosw|di/ai</foreign> = accentus, I. v. 22.</p>
+<p><foreign lang="greek">prosomilhtikh/,</foreign> III. iv. 10.</p>
+<p><foreign lang="greek">proswpopoii+/a,</foreign> I. viii. 3; III. viii. 49 and 52; VI. i. 25; IX. ii. 29 and 37; XI. i. 41.</p>
+<p><foreign lang="greek">protreptikh\ sta/sis,</foreign> III. vi. 47.</p>
+<p>psaltae, I. x. 18; <hi rend="italics">cp.</hi> I. x. 31.</p>
+<p><foreign lang="greek">yeudografi/ai,</foreign> I. x. 39.</p>
+<p>psi, I. iv. 9.</p>
+<p><hi rend="italics">Publicola,</hi> III. vii. 18; <hi rend="italics">Publicolae.</hi> I. vi. 31.</p>
+<p><hi rend="italics">Publipores,</hi> I. iv. 26.</p>
+<p><hi rend="italics">puerei,</hi> I. vii. 15.</p>
+<p><hi rend="italics">Pulixena,</hi> I. iv. 16.</p>
+<p><hi rend="italics">pultare,</hi> I. iv. 14.</p>
+<p><hi rend="italics">punior,</hi> IX. iii. 6.</p>
+<p><hi rend="italics">puppis</hi> for <hi rend="italics">navis,</hi> VIII. vi. 20.</p>
+<p>purgatio (figure), IX. i. 32; IX. ii. 2.</p>
+<p>pyrrhichius, IX. iv. 80, 106, 140</p>
+<p><hi rend="italics">Pythici,</hi> I. iv. 31.</p>
+<p><hi rend="italics">pyxis,</hi> VIII. vi. 35.</p>
+<p>Q, I. iv. 9; XII. x. 30.</p>
+<p><hi rend="italics">quadripes</hi> for <hi rend="italics">equus,</hi> VIII. vi. 20.</p>
+<p><hi rend="italics">quaeso,</hi> VIII. iii. 25.</p>
+<p>quaestio, III. v. 4, 5, 16; III. vi. 2, 35, 46, 55&ndash;61, 65 <hi rend="italics">sqq.,</hi> 83; III. xi 1 <hi rend="italics">sqq.,</hi> 4; IV. ii. 8; V. x. 36, 44; VI. iv. 4; VII. i. 6, 7 <hi rend="italics">sqq.,</hi> 13, 18. 23, 45, 49; VII. ii. 1, 15, 42; VII. iii. 13; VII. iv. 9, 25; VII. v. 1; VII. x. 15; VIII. Pr. 8, 10; X. v. 11; XII. ii. 18, 19; naturales, I. iv. 4; VII. ii. 7; servorum, V. iv. 1 <hi rend="italics">sqq.</hi></p>
+<p>quale, III. vi. 36, 38, 44, 56, 80; V. x. 53; <hi rend="italics">quale,</hi> I. v. 26.</p>
+<p>qualitas, III. v. 10; III. vi. 10, 23, 36 <hi rend="italics">sq.</hi>; V. x. 40; V. xiii. 19; VI iv. 4; VII. ii. 40; VII. iii. 6; VII. iv. 1 <hi rend="italics">sqq.</hi>; XII. ii. 15; verborum. I. iv. 27; I. v. 41.</p>
+<p>quam multum, III. vi. 90.</p>
+<p>quando (category), III. vi. 24.</p>
+<p>quantitas, III. vi. 23; VII. iv. 15, 41 <hi rend="italics">sqq.</hi></p>
+<p>quantum sit, III. vi. 36 and 90.</p>
+
+<pb id="p.546"/>
+
+<p><hi rend="italics">quase</hi> for <hi rend="italics">quasi,</hi> I. vii. 24.</p>
+<p><hi rend="italics">queens,</hi> VIII. iii. 33.</p>
+<p><hi rend="italics">queentia,</hi> II. xiv. 2.</p>
+<p><hi rend="italics">quianam,</hi> VIII. iii. 25.</p>
+<p>quid sit, III. vi. 36, 44, 56, 80; V. x. 53.</p>
+<p><hi rend="italics">Quirinalis,</hi> I. vi. 31.</p>
+<p><hi rend="italics">quidquid,</hi> not <hi rend="italics">quicquid,</hi>. I. vii. 6.</p>
+<p><hi rend="italics">quire,</hi> I. vi. 26.</p>
+<p><hi rend="italics">quoi,</hi> I. vii. 27.</p>
+<p><hi rend="italics">quoque ego,</hi> I. v. 39.</p>
+<p><hi rend="italics">quotidie</hi> for <hi rend="italics">cotidie,</hi> I. vii. 6.</p>
+<p><hi rend="italics">quum,</hi> I. vii. 5.</p>
+<p>R and S, I. iv. 13; rho, I. xi. 5.</p>
+<p><hi rend="italics">raeda,</hi> I. v. 57 and 68.</p>
+<p>ratio = <foreign lang="greek">ai)/tion,</foreign> III. xi. 4 <hi rend="italics">sqq.</hi>; = <foreign lang="greek">e)pixei/rhma,</foreign> V. x. 6.</p>
+<p>ratiocinatio, V. xi. 1; V. xiv. 5; = <foreign lang="greek">e)pixei/rhma</foreign> V. x. 6; (figure) IX. iii. 98.</p>
+<p>ratiocinativus status, III. vi. 43, 46, 61 <hi rend="italics">sq.</hi>; V. x. 6; VII. viii. 3.</p>
+<p>rationalis pars philosophiae = dialectica, XII. ii. 10.</p>
+<p><hi rend="italics">reatus,</hi> VIII. iii. 34.</p>
+<p><hi rend="italics">rebus agentibus,</hi> IX. iii. 13.</p>
+<p>rectus casus, I. iv. 13; I. v. 61; <hi rend="italics">sermo,</hi> II. v. 11; <hi rend="italics">oratio,</hi> X. v. 8.</p>
+<p>recusans = <foreign lang="greek">o( feu/gwn,</foreign> III. x. 1.</p>
+<p>redditio contraria = <foreign lang="greek">a)ntapo/dosis,</foreign> VIII. iii. 77 <hi rend="italics">and</hi> 79 <hi rend="italics">sq.</hi></p>
+<p>refutatio, V. xiii. 1 <hi rend="italics">sqq.</hi>; VI. iii. 72.</p>
+<p>regressio (figure), IX. iii. 35.</p>
+<p>reipublicac laesae actio, VII. iii. 2; VII. iv. 37.</p>
+<p>reiectio in alium, IX. i. 30.</p>
+<p>relatio (figure), IX. i. 25; IX. ii. 59; IX. iii. 97; causarum, VI. iii. 77.</p>
+<p><hi rend="italics">remigare pennis,</hi> VIII. vi. 18.</p>
+<p>remotio, V. x. 66.</p>
+<p>repercutiendi genera, VI. iii. 45 and 78.</p>
+<p>repetitio (figure), IX. i. 33; IX. ii. 4; IX. iii. 29 <hi rend="italics">sqq.,</hi> 47; = <foreign lang="greek">plokh/,</foreign> IX. iii. 41; = <foreign lang="greek">a)nakefalai/wsis,</foreign> VI. i. 1.</p>
+<p>repetundarum causae, IV. ii. 14 <hi rend="italics">sq.</hi> and 85; v. vii. 5.</p>
+<p>repraesentatio = <foreign lang="greek">e)na/rgeia,</foreign> VIII. iii. 61.</p>
+<p>reprehensio (figure), IX. i. 34; IX. ii. 18.</p>
+<p>repudii iniusti actio, VII. iv. 38.</p>
+<p>respiratio, XI. iii. 39 and 49.</p>
+<p>responsio sibi ipsi, IX. i. 35; IX. ii. 14; IX. iii. 90.</p>
+<p>resultans, IX. iv. 66 and 83; XI. iii. 183.</p>
+<p>reticentia (figure), IX. ii. 54 and 57; IX. i. 31.</p>
+<p>reversio = <foreign lang="greek">a)nastrofh/,</foreign> VIII. Vi. 65.</p>
+<p>revocatio verbi, IX. i. 33.</p>
+<p><foreign lang="greek">r(hto\n kai\ dia/noia,</foreign> III. vi. 46; <foreign lang="greek">kata\ r(hto\n kai\ u(pecai/resin</foreign> III. vi. 61.</p>
+<p>rhetor, II. i. 1 <hi rend="italics">sqq.</hi>; II. ii. 1 <hi rend="italics">sqq.</hi>; II. iii. 1 <hi rend="italics">sqq.</hi>; II. iv. 1 <hi rend="italics">sqq.</hi></p>
+<p>rhetorice, II. xiv. 5; II. xiii. 1 <hi rend="italics">sqq.,</hi> 15, 38; II. xiv. 5; II. xv. 1 <hi rend="italics">sqq.,</hi> 15, 38; II. xvi. 1, 11; II. xvii. 1 <hi rend="italics">sqq.,</hi> 23, 25, 26; II. xviii. 2; II. xx. 1 <hi rend="italics">sqq.</hi>; II. xxi. 24; III. i. 8; III. ii. 1; III. iii. 1 <hi rend="italics">sqq.,</hi> 13, 15; V. x. 54; VII. iii. 6 and 12; VIII. Pr. 6; XII. x. 1.</p>
+<p>Rhodium genus dicendi, XII. x. 17.</p>
+<p><foreign lang="greek">r(uqmo/s</foreign> and <foreign lang="greek">me/los,</foreign> I. x. 22; IX. iv. 45; = numeri, IX. iv. 54; IX. iv. 46 <hi rend="italics">sqq.</hi></p>
+<p>ridiculum, VI. iii. 22 <hi rend="italics">sqq.,</hi> 110 <hi rend="italics">sqq.</hi></p>
+<p>risus, VI. iii. 1 <hi rend="italics">sqq.,</hi> 7, 37 <hi rend="italics">sq.,</hi> 105.</p>
+<p><hi rend="italics">robur,</hi> I. vi. 22.</p>
+<p>rogatio (figure), IX. i. 29; IX. ii. 6.</p>
+<p><hi rend="italics">Romanus</hi> for <hi rend="italics">Romani,</hi> VIII. vi. 20.</p>
+<p>rubricae, XII. iii. 11.</p>
+<p><hi rend="italics">ruere,</hi> I. vi. 26.</p>
+<p><hi rend="italics">Rufi,</hi> I. iv. 25.</p>
+<p>S, I. iv. 13, 14; I. vii. 20, 21; I. xi. 6; IX. iv. 37; XII. x. 32.</p>
+<p>Sabina verba, I. v. 56.</p>
+<p><hi rend="italics">saccaria,</hi> VIII. ii. 13.</p>
+<p><hi rend="italics">saeculum felix,</hi> VIII. vi. 24.</p>
+<p>salsum, VI. iii. 18 <hi rend="italics">sq.</hi></p>
+<p><hi rend="italics">Sapiens,</hi> V. x. 30; sapientes septem, V. xi. 39.</p>
+<p><foreign lang="greek">sardismo/s,</foreign> VIII. vi. 59.</p>
+<p><hi rend="italics">satagere,</hi> VI. iii. 54; XI. iii. 128.</p>
+<p>satura, X. i. 93.</p>
+<p><hi rend="italics">saucius pectus,</hi> IX. iii. 17.</p>
+<p><hi rend="italics">scabillum</hi> from <hi rend="italics">scamnum,</hi> I. iv. 12.</p>
+<p><hi rend="italics">scala,</hi> I. v. 16.</p>
+<p><hi rend="italics">Scauri,</hi> I. iv. 25.</p>
+<p>schema, I. v. 52 <hi rend="italics">sqq.</hi>; I. viii. 14 and 16; II. xi. 1; VI. iii. 70; VIII. iii. 50; IX. i. 11 <hi rend="italics">sqq.</hi> and 25; IX. ii. 65 and 92; IX. iii. 2; <hi rend="italics">cp.</hi> figura.</p>
+<p><foreign lang="greek">sxhmatismo/s,</foreign> I. viii. 14.</p>
+<p>scholae publicae, I. ii. 1 <hi rend="italics">sqq.</hi> and 16.</p>
+<p>scholasticae materiae, IV. ii. 30; VII. i. 14; XI. i. 82.</p>
+<p><hi rend="italics">Scipiones,</hi> I. iv. 25.</p>
+<p><hi rend="italics">scopa,</hi> I. v. 16.</p>
+
+<pb id="p.547"/>
+
+<p>scribendi ars, I. i. 27, 28, 34 <hi rend="italics">sq.</hi>; I. vii. 1, 28, 30; X. iii. 1 <hi rend="italics">sqq.,</hi> 10, 30; X. v. 1 <hi rend="italics">sqq.</hi>; XII. ix. 16; XII. x. 49 <hi rend="italics">sqq.</hi></p>
+<p><hi rend="italics">scripsere</hi> and <hi rend="italics">scripserunt,</hi> I. v. 44.</p>
+<p>scriptum et voluntas, III. vi. 88; VII. i. 49 <hi rend="italics">sqq.</hi>; VII. v. 5 <hi rend="italics">sq.</hi>; VII. vi. 1 <hi rend="italics">sqq.</hi>; VII. vii. 1; VII. viii. 1; VII. x. 1 <hi rend="italics">sqq.</hi>; <hi rend="italics">cp.</hi> also III. vi. 37; VII. i. 13; VII. v. 5.</p>
+<p>sedes argumentorum, V. x. 20 and 100; V. xii. 17.</p>
+<p>seiunctio, IX. i. 28; IX. ii. 2.</p>
+<p><foreign lang="greek">shmei=on,</foreign> V. ix. 9; <foreign lang="greek">a)/luton,</foreign> V. ix. 3; (in rhythm), IX. iv. 51.</p>
+<p>semivocales, I. iv. 6; I. vii. 14.</p>
+<p>senarius, IX. iv. 72 <hi rend="italics">sq.,</hi> 75, 125, 140.</p>
+<p><hi rend="italics">senatus,</hi> I. vi. 27; (derivation), I. vi. 33.</p>
+<p>sensa, VIII. v. 1.</p>
+<p>sensus, VIII. v. 1 <hi rend="italics">sq.</hi> = sententiae XII. x. 46.</p>
+<p>sententiae, I. viii. 9; I. ix. 3; II. xi. 3; II. xii. 7; III. viii. 65; VI. iii. 36; VII. i. 44; VIII. iv. 29; VIII. v. <hi rend="italics">passim</hi>; IX. ii. 107; IX. iii. 76 and 98; X. i. 60; XII. ix. 3; XII. x. 48.</p>
+<p>sententiolae, XII. x. 73.</p>
+<p>sequens = <foreign lang="greek">e)pi/qeton,</foreign> VIII. vi. 40.</p>
+<p><hi rend="italics">Serani,</hi> I. iv. 25.</p>
+<p>sermocinatrix, III. iv. 10.</p>
+<p><hi rend="italics">servom,</hi> I. vii. 26.</p>
+<p><hi rend="italics">servus,</hi> I. iv. 8 and 11.</p>
+<p>sescuplex pes, IX. iv. 47.</p>
+<p><hi rend="italics">sibe</hi> for <hi rend="italics">sibi,</hi> I. vii. 24.</p>
+<p>signa, V. viii. 1; V. ix. 3 <hi rend="italics">sqq.</hi>; V. x. 74.</p>
+<p>significatio = <foreign lang="greek">e)/mfasis,</foreign> IX. i. 27; IX. ii. 3.</p>
+<p>silva, X. iii. 17.</p>
+<p>similia, V. x. 73; V. xi. 1 <hi rend="italics">sqq.</hi>; IX. iii. 75 <hi rend="italics">sqq.</hi></p>
+<p>similitudo, V. x. 1; V. xi. 22 <hi rend="italics">sqq.</hi>; VIII. iii. 72 <hi rend="italics">sqq.</hi>; VIII. vi. 8 and 49; IX. i. 31; IX. ii. 2.</p>
+<p>simulatio (figure), IX. ii. 26.</p>
+<p>singularia, I. v. 16; IX. iii. 20.</p>
+<p><hi rend="italics">sitiunt segetes,</hi> VIII. vi. 6.</p>
+<p><hi rend="italics">soleae,</hi> VIII. ii. 8.</p>
+<p><hi rend="italics">solitaurilia,</hi> I. v. 67.</p>
+<p>soloecismus, I. v. 4, 34 <hi rend="italics">sqq.,</hi> 51.</p>
+<p>sotadei, I. viii. 6; IX. iv. 6 and 90.</p>
+<p><hi rend="italics">spartum,</hi> VIII. i. 2.</p>
+<p>species, V. x. 25 <hi rend="italics">sqq.</hi>; VII. i. 23 <hi rend="italics">sq.</hi></p>
+<p><hi rend="italics">spes,</hi> I. vi. 26.</p>
+<p><hi rend="italics">Spinther,</hi> VI. iii. 67.</p>
+<p>spondeus, IX. iv. 48 <hi rend="italics">sq.,</hi> 80, 88, 97, 101.</p>
+<p>sponsiones, VII. v. 3.</p>
+<p><foreign lang="greek">sta/sis</foreign> = status, III. vi. 3.</p>
+<p>status = <foreign lang="greek">sta/sis,</foreign> III. vi. <hi rend="italics">passim</hi>; VII. iv. 15; VII. v. 2 and 5; VII. vi. 1 <hi rend="italics">sqq.</hi>; VII. vii. 1 <hi rend="italics">sqq.</hi>; VII. viii. 1 <hi rend="italics">sqq.</hi>; VII. x. 1; IX. i. 8; XII. ii. 19.</p>
+<p><hi rend="italics">stella,</hi> I. vi. 35.</p>
+<p><hi rend="italics">stercus curiae,</hi> VIII. vi. 15.</p>
+<p><hi rend="italics">stlites</hi> and <hi rend="italics">stlocus,</hi> I. iv. 16.</p>
+<p><foreign lang="greek">stoixei=a,</foreign> III. iii. 13.</p>
+<p>suasoria, II. i. 8; II. iv. 5; III. viii. 1 <hi rend="italics">sqq.</hi>; VII. iv. 2; VIII. Pr. 9.</p>
+<p>subiectio (figure), IX. iii. 98.</p>
+<p>sublatio, IX. iv. 48 and 55.</p>
+<p>substantia, III. vi. 39; IX. i. 8.</p>
+<p><hi rend="italics">Subura,</hi> I. vii. 29.</p>
+<p><hi rend="italics">Sufenas,</hi> I. v. 62.</p>
+<p>suggestio, IX. ii. 15.</p>
+<p><hi rend="italics">Sullae,</hi> I. iv. 25.</p>
+<p><hi rend="italics">sullaturit,</hi> VIII. iii. 32; VIII. vi. 32.</p>
+<p><hi rend="italics">sulpur,</hi> I. vi. 22.</p>
+<p><hi rend="italics">suovetaurilia,</hi> I. v. 67.</p>
+<p>superiectio = hyperbole, VIII. vi. 67.</p>
+<p>superlatio, IX. i. 29; IX. ii. 3; XII. x. 62.</p>
+<p>sustentatio, IX. ii. 23.</p>
+<p>syllaba, I. i. 26, 30 <hi rend="italics">sqq.,</hi> 37; IX. iv. 84, 85, 92, 93; XII. x. 32, 33.</p>
+<p>syllogismus, III. vi. 15 <hi rend="italics">sqq.,</hi> 43, 88; V. x. 3 and 6; V. x. 36; V. xiv. 14, 20, 24 <hi rend="italics">sqq.</hi>; VII. iii. 11; VII. viii. 1 <hi rend="italics">sqq.</hi>; VII. x. 1 <hi rend="italics">sqq.</hi>; IX. iv. 57.</p>
+<p>syllogisticus status, V. x. 6.</p>
+<p><foreign lang="greek">sumbebhko/ta,</foreign> III. vi. 36; <foreign lang="greek">kata\ sumbebhko/s,</foreign> III. vi. 56.</p>
+<p><foreign lang="greek">su/mbolon,</foreign> I. vi. 28.</p>
+<p><foreign lang="greek">sunai/resis,</foreign> I. v. 17.</p>
+<p><foreign lang="greek">sunaloifh/,</foreign> I. v. 17; IX. iv. 36 and 109.</p>
+<p><foreign lang="greek">sunaqroismo/s,</foreign> VIII. iv. 27.</p>
+<p><foreign lang="greek">su/ndesmos,</foreign> I. iv. 18.</p>
+<p><foreign lang="greek">sune/xon,</foreign> III. xi. 1 and 9.</p>
+<p>synecdoche, VIII. vi. 19 <hi rend="italics">sqq.</hi>; IX. i. 5; IX. iii. 58 <hi rend="italics">sqq.</hi></p>
+<p><foreign lang="greek">sunoikei/wsis,</foreign> IX. iii. 64.</p>
+<p><foreign lang="greek">sunwnumi/a,</foreign> VIII. iii. 16; IX. iii. 45.</p>
+<p><foreign lang="greek">suntelikh\ sta/sis,</foreign> IX. vi. 47.</p>
+<p><foreign lang="greek">su/ntomos,</foreign> IV. ii. 42.</p>
+<p>syntonorum modi, IX. iv. 142.</p>
+<p><hi rend="italics">talpae oculis capti,</hi> IX. iii. 6.</p>
+<p><foreign lang="greek">tapei/nwsis,</foreign> VIII. iii. 48.</p>
+<p><hi rend="italics">taurus,</hi> VIII. ii. 13.</p>
+
+<pb id="p.548"/>
+
+<p><foreign lang="greek">tautologi/a,</foreign> IV. ii. 43; VIII. iii. 50.</p>
+<p>technici, II. xiii. 15.</p>
+<p><foreign lang="greek">tekmh/ria,</foreign> V. ix. 3.</p>
+<p><hi rend="italics">Telamo,</hi> I. v. 60.</p>
+<p><foreign lang="greek">te/los,</foreign> II. xv. 38.</p>
+<p>tempus, III. vi. 25 <hi rend="italics">sq.</hi>; V. x. 42 <hi rend="italics">sqq.</hi>; secundum, V. x. 46; VII. ii. 46; iunctum, adhaerens, insequens, V. x. 46; VII. ii. 46; (rhythm) IX. iv. 47, 51, 81, 84 <hi rend="italics">sqq.,</hi> 98.</p>
+<p><hi rend="italics">Terei,</hi> I. v. 24.</p>
+<p>testatio, V. vii. 32.</p>
+<p>testes, V. i. 2; V. vii. 9 <hi rend="italics">sqq.,</hi> 25, 32 <hi rend="italics">sqq.</hi>; see interrogatio.</p>
+<p>testimonia, V. vii. 1 <hi rend="italics">sqq.</hi>; divina, V. vii. 35; V. xi. 42; (historical) X. i. 34.</p>
+<p><foreign lang="greek">tetra/shmoi,</foreign> percussioncs, IX. iv. 51.</p>
+<p>tetrastichon, VI. iii. 96.</p>
+<p>thema, II. x. 5; IV. ii. 28 and 68; V. x. 9; VII. i. 4; VII. ii. 54; XII. VIII. 6.</p>
+<p><foreign lang="greek">qewrhtikh/,</foreign> II. xviii. 1.</p>
+<p><foreign lang="greek">qe/sis,</foreign> II. i. 9; II. iv. 24; III. v. 5 and 11; XII. ii. 25.</p>
+<p>toga, XI. iii. 131, 139 <hi rend="italics">sqq.</hi></p>
+<p>togatae fab??lae, X. i. 100.</p>
+<p><foreign lang="greek">tona/rion,</foreign> I. x. 27.</p>
+<p><hi rend="italics">tondemur,</hi> I. vi. 44.</p>
+<p><foreign lang="greek">to/noi,</foreign> I. v. 22.</p>
+<p>tonores = tenores, I. v. 22.</p>
+<p><foreign lang="greek">topikh/,</foreign> V. xiv. 28.</p>
+<p><foreign lang="greek">topografi/a,</foreign> IX. ii. 44.</p>
+<p><hi rend="italics">topper,</hi> I. vi. 40.</p>
+<p>tractio, I. iv. 20.</p>
+<p>tractus, VIII. iii. 32.</p>
+<p>traductio (figure), IX. iii. 71.</p>
+<p>tragici, I. viii. 8.</p>
+<p>tragoedia, I. v. 52; X. i. 66 and 97.</p>
+<p>traiectio = hyperbaton, VIII. ii. 14; IX. i. 29; IX. ii. 3.</p>
+<p>transgressio = hyperbaton, VIII. vi. 62 <hi rend="italics">sq.</hi>; IX. i. 34; IX. iii. 91; IX. iv. 28.</p>
+<p>transitio (figure), IX. iii. 98.</p>
+<p>translatio, III. vi. 38, 60, 66; V. xiv. 34; VII. iv. 13; VIII. ii. 6; VIII. vi. 4 <hi rend="italics">sqq.,</hi> 14 <hi rend="italics">sqq.,</hi> IX. ii. 41.</p>
+<p>translativa = <foreign lang="greek">meta/lhyis,</foreign> III. vi. 46; t. quaestiones, III. vi. 52; t. status, III. vi. 46, 48, 53, 56, 60, 68 <hi rend="italics">sqq.,</hi> 83.</p>
+<p>translatus, I. v. 71; IV. i. 71.</p>
+<p>transpositiva = <foreign lang="greek">meta/lhyis,</foreign> III. vi. 46.</p>
+<p>transumptio (figure), VIII. vi. 37.</p>
+<p>transumptiva = <foreign lang="greek">meta/lhyis,</foreign> III. vi. 46.</p>
+<p><hi rend="italics">Trasumennus,</hi> I. v. 13.</p>
+<p><hi rend="italics">trepond??,</hi> I. v. 15.</p>
+<p><foreign lang="greek">tribh/,</foreign> II. xv. 23; X. vii. 11.</p>
+<p>tribrachys, IX. iv. 82.</p>
+<p><hi rend="italics">tribunale,</hi> I. vi. 17.</p>
+<p><foreign lang="greek">tri/kwla,</foreign> II. xv. 23; X. vii. 11.</p>
+<p>trimeter, IX. iv. 71, 74 <hi rend="italics">sq.,</hi> 90.</p>
+<p><hi rend="italics">triquedra, triquetra,</hi> I. v. 30.</p>
+<p><hi rend="italics">triumpi,</hi> I. v. 20.</p>
+<p>trochaeus, IX. iv. 80, 82, 88, 105 <hi rend="italics">sq.,</hi> 135, 140.</p>
+<p><foreign lang="greek">tro/pos,</foreign> III. vi. 27; V. x. 72.</p>
+<p>tropus, I. viii. 16; VI. iii. 67; VIII. vi. <hi rend="italics">passim</hi>; IX. i. 1 and 4 <hi rend="italics">sq.</hi></p>
+<p><hi rend="italics">tuburchinabundus,</hi> I. vi. 42.</p>
+<p><hi rend="italics">tumullus,</hi> VII. iii. 25.</p>
+<p>tunica, XI. iii. 138 <hi rend="italics">sqq.</hi></p>
+<p><hi rend="italics">Tusca verba,</hi> I. v. 56.</p>
+<p>tutclae actio, VII. iv. 35.</p>
+<p><hi rend="italics">tyrannus,</hi> I. v. 62.</p>
+<p>V, I. iv. 8, 11, 16.</p>
+<p><hi rend="italics">Valerius, Valesius,</hi> I. iv. 13.</p>
+<p><hi rend="italics">vapos,</hi> I. iv. 13.</p>
+<p><hi rend="italics">vapulo,</hi> IX. iii. 7.</p>
+<p>ubi (category), III. vi. 24.</p>
+<p><hi rend="italics">vehementer, vementer,</hi> I. v. 21.</p>
+<p><hi rend="italics">velli,</hi> I. vi. 44.</p>
+<p><hi rend="italics">venales,</hi> VIII. ii. 8.</p>
+<p>venustum, VI. iii. 18.</p>
+<p>verba (grammat.), I. iv. 18 and 27 <hi rend="italics">sqq.</hi></p>
+<p><hi rend="italics">Vergilius,</hi> VIII. vi. 28.</p>
+<p>versus, IX. iv. 72 <hi rend="italics">sqq.</hi></p>
+<p><hi rend="italics">vertex,</hi> VIII. ii. 7.</p>
+<p><hi rend="italics">vesperug,</hi> I. vii. 12.</p>
+<p>vestigium = <foreign lang="greek">shmei=on,</foreign> V. ix. 9.</p>
+<p><hi rend="italics">video</hi> and <hi rend="italics">intellego,</hi> X. i. 13 <hi rend="italics">sq.</hi></p>
+<p>visio = <foreign lang="greek">fantasi/a,</foreign> VI. ii. 29 and 32; VIII. iii. 88; XII. x. 6.</p>
+<p><hi rend="italics">visurus,</hi> IX. iii. 12.</p>
+<p><hi rend="italics">vitavisse</hi> and <hi rend="italics">vitasse,</hi> IX. iv. 59.</p>
+<p>vituperatio, III. vii. 1 and 19 <hi rend="italics">sqq.</hi></p>
+<p><hi rend="italics">Vlixi,</hi> I. v. 63.</p>
+<p>vocabulum, I. iv. 20, 21; IX. iv. 24.</p>
+<p>vocales, I. iv. 6, 10 <hi rend="italics">sqq.</hi>; VIII. iii. 16; IX. iv. 33; XI. iii. 34.</p>
+<p>vocalitas = <foreign lang="greek">eu)fwni/a,</foreign> I. v. 4.</p>
+<p><hi rend="italics">volucres,</hi> I. v. 28.</p>
+<p><hi rend="italics">Vopiscus,</hi> I. iv. 25.</p>
+<p><hi rend="italics">vorsus, vortices,</hi> I. vii. 25.</p>
+<p>urbanitas, VI. iii. 8, 17, 45, 103 <hi rend="italics">sq.,</hi> 107; VI. iv. 10.</p>
+<p>urbanum, VI. iii. 105 <hi rend="italics">sq.,</hi> 110; VIII. iii. ??4 <hi rend="italics">sq.</hi></p>
+
+<pb id="p.549"/>
+
+<p><hi rend="italics">urbes bene moratae,</hi> VIII. vi. 24.</p>
+<p><hi rend="italics">Vrsi,</hi> XI. ii. 31.</p>
+<p><foreign lang="greek">ou)si/a,</foreign> III. vi. 23; <foreign lang="greek">peri\ ou)si/as kai\ sumbebhko/twn,</foreign> III. vi. 36.</p>
+<p><hi rend="italics">Vulcanus,</hi> VIII. vi. 23.</p>
+<p><hi rend="italics">vulgus,</hi> I. iv. 8 and 10.</p>
+<p><hi rend="italics">vulpes,</hi> I. vi. 33.</p>
+<p>vultus, XI. iii. 72 <hi rend="italics">sqq.</hi>; <hi rend="italics">vultus,</hi> VIII. vi. 28.</p>
+<p>X, I. iv. 9.</p>
+<p><foreign lang="greek">*)ulusseu/s,</foreign> I. v. 16.</p>
+<p><hi rend="italics">zephyri,</hi> XII. x. 28.</p>
+<p><foreign lang="greek">zh/thma,</foreign> III. xi. 4.</p>
+<p><hi rend="italics">zophori,</hi> XII. x. 28.</p>
+</div1>
+</body>
+
+
+</text>
+</TEI.2>

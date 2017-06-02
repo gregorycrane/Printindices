@@ -1,0 +1,168 @@
+<?xml version="1.0"?> 
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [ 
+<!ENTITY % TEI.XML "INCLUDE"> 
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" > 
+%PersProse; 
+]>
+<TEI.2>
+<teiHeader type="text" status="new">
+<fileDesc>
+<titleStmt>
+<title type="work" n="Inst.">Institutio Oratoria, books 7-9: index</title>
+<title type="sub">Machine readable text</title>
+<author n="Quint.">Quintilian</author>
+ <editor role="editor" n="Butler">Harold Edgeworth Butler</editor>
+&responsibility;
+&fund.AnnCPB;
+</titleStmt>
+<extent>About 100Kb</extent>
+&Perseus.publish;
+<sourceDesc>
+<biblStruct>
+<monogr>
+<author>Quintilian</author>
+<title>With An English Translation</title>
+ <editor role="editor" n="Butler">Harold Edgeworth Butler</editor>
+<imprint>
+<pubPlace>Cambridge</pubPlace>
+<publisher>Cambridge, Mass., Harvard University Press; London, William Heinemann, Ltd.</publisher>
+<date>1922</date>
+</imprint>
+</monogr>
+</biblStruct>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<refsDecl doctype="TEI.2">
+<state unit="entry"/>
+</refsDecl>
+</encodingDesc>
+
+<profileDesc>
+<langUsage>
+<language id="en">English</language>
+<language id="la">Latin</language>
+<language id="greek">Greek</language>
+</langUsage>
+</profileDesc>
+<revisionDesc>
+<change><date>2006</date>
+<respStmt><name>GRC</name><resp>tagging</resp></respStmt>
+<item></item>
+</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body><div1 type="chapter"><head>Index</head>
+
+<p>(<hi rend="italics">Only those names</hi> are<hi rend="italics">included which seem to require some explanation; a
+complete index will be contained in Vol. IV.</hi>)</p>
+
+<p>Aeacida, VII. ix. 6. Pyrrhus, King of Epirus, who claimed descent from Aeacus.</p>
+<p>Aeschines, VII. i, 2. Athenian orator, famous as opponent of Demosthenes.</p>
+<p>Africanus, Julius, VIII. v. 16. Orator of the reign of Nero.</p>
+<p>Antomus, M. (i), VIII. iii. 16. Great orator, earlier contemporary of Cicero.</p>
+<p>Antonius, M. (ii), VII. iii. 18. The triumvir.</p>
+<p>Antonius, Gaius, IX. iii. 94. Cicero's colleague in the consulship.</p>
+<p>Apollodorus, IX. i. 12. Distinguished rhetorician from Pergamus of the Augustan age.</p>
+<p>Appius Pulcher, VIII. iii. 35. Cicero's predecessor as governor of Cilicia: the whole of Bk. III of the <hi rend="italics">Epistolae ad Familiares</hi> is addressed to
+him.</p>
+<p>Asinius, see Pollio.</p>
+
+<p>Bostar, VIII. ii. 10. A man of Punic origin alleged to have been murdered by Scaurus in Sardinia.</p>
+<p>Brutus, M., IX. iii. 95; IX. iv. 75. sq. Orator of the Attic school: murderer of Julius Caesar.</p>
+
+<p>Caecilius, VIII. iii. 35; IX. i. 12; IX. iii. 38, 46, 89, 91, 98. Sicilian rhetorician who taught at Rome in the reign of Augustus.</p>
+<p>Caecilius, Q. . VII. ii. 2. Sought to accuse Verres, whose quaestor he had been, with a view to securing his acquittal by collusion.</p>
+<p>Caelius, IX. ii. 59. Younger contemporary of Cicero, distinguished as an orator.</p>
+<p>Calvus, IX. ii. 26; IX. iii. 56. Younger contemporary of Cicero, poet and orator of the Attic school.</p>
+<p>Cassius Severus, VIII. ii. 2: VIII. iii. 89. Orator of the reign of Augustus.</p>
+<p>Cato the censor, VIII. iii. 29; VIII. v. 33; VIII. vi. 9; IX. ii. 21; IX. iv. 39. The famous opponent of Carthaeo; one of the most distinguished writers and orators of his day (234&ndash;149 B.C.).</p>
+<p>Cato Uticensis, VIII. ii. 9; IX. iv. 75. Contemporary of Cicero and among
+the most ardent opponents of Caesar.</p>
+<p>Celsus, Cornelius, VII. i. 10; VII. ii. 19; VIII. iii. 35, 47; IX. i. 18; IX.
+ii. 22, 40, 102, 104. 101; IX. iv. 137. Encyclopedic writer of the reign of Tiberius. His works on rhetoric are lost; a treatise on medicine survives.</p>
+<p>Cornelius, VIII. iii. 3. Defended by Cicero on a charge of <hi rend="italics">Iese-majeste.</hi></p>
+<p>Cornifieius IX. ii. 27; IX. iii. 71, 89, 98. Rhetorician, contemporary of Cicero, probably author of rhetorical treatise <hi rend="italics">ad Herennium.</hi></p>
+<p>Crassus, L., VII. vi. 9; VIII. Pr. 14. Great orator: earlier contemporary
+of Cicero.</p>
+<p>Ctesiphon, VII. i. 2. Accused by Aeschines and defended by Demosthenes (<hi rend="italics">de Corona</hi>).</p>
+<p>Curius. VIII. ii. 38. Famous general, victorious over Pyrrhus: surnamed Dentatus.</p>
+
+<pb id="p.594"/>
+
+<p>Dionysius of Halicarnassus, IX. iii. 89; IX. iv. 88. Famous rhetorician and historian of the Augustan age.</p>
+<p>Dolabella, VII. ii. 4. Son-in-law of Cicero.</p>
+<p>Domitius Afer, VIII. v. 4 and 16; IX. ii. 20; IX. iii. 66, 79; IX. iv. 31. Famous orator of the reign of Tiberius.</p>
+
+<p>Ephorus, IX. iv. 87. Famous Greek historian (fourth century B.C.): wrote a history of Greece from the earliest times to 341 B.C.</p>
+
+<p>Fabricius, V.ii.38. Famous general, victorious over Samnites and Lucanians, 282 B.C.</p>
+<p>Fannius, VII. ix. 12. Consul 122 B.C.</p>
+<p>Flavus, see Verginius.</p>
+
+<p>Gallio, IX. ii. 91. Orator and friend of Ovid.</p>
+<p>Gorgias (i), IX. iii. 74. Sophist and rhetorician of Leontini, latter half of fifth century B.C.</p>
+<p>Gorgias (ii), IX. ii. 102, 106. Athenian rhetorician, teacher of Cicero's son.</p>
+
+<p>Hermagoras, VII. iv. 4; IX. i. 106. Famous rhetorician of the Rhodian school, contemporary with Cicero.</p>
+<p>Hirtius, VIII. iii. 54. Supporter of Caesar. Consul 43 B.C. Killed at Mutina while fighting Mark Antony.</p>
+<p>Horatius, VII. iv. 8. Survivor of the three Horatii who fought the three Curiatli: slew his sister for bewailing the death of one of the Curiatii to whom she was betrothed.</p>
+<p>Hortensius VIII. iii. 35. Cicero's chief rival at the bar.</p>
+
+<p>Isocrates, IX. iii. 74; IX. iv. 35. Famous Athenian orator, founder of the science and technique of Greek rhetoric (436&ndash;338 B.C.).</p>
+
+<p>Labienus, IX. iii. 13. Orator and historian under Augustus.</p>
+
+<p>Mancinus, VII. iv. 12. Consul 137 B.C. Defeated by the armies of the town of Numantia, with whom he concluded a shameful peace, which Rome refused to acknowledge.</p>
+<p>Manlius, VII. ii. 2. Saved Rome from the Gauls, but later, suspected of aiming at supreme power, was hurled from the Tarpeian rock, 384 B.C.</p>
+<p>Marrucini, VIII. ii. 26. A people on the Adriatic slopes of the Abruzzi.</p>
+<p>Messala. VI. iii. 34; IX. iv. 38. Distinguished orator and philologist of
+the Augustan age.</p>
+<p>Mithridates, VIII. iii. 82. King of Pontus, finally conquered by Pompey.</p>
+
+<p>Pisaurum, VII. ii. 26. The modern Pesaro.</p>
+<p>Piso, IX. ii, 61. Praetor in Spain, 113 B.C.</p>
+<p>Pollio, Asinius, VII. ii. 26; VIII. i. 3; IX. ii. 9 and 34; IX. iii. 13; IX. iv. 132. Famous orator, poet and historian of the Augustan age.</p>
+<p>Pomponius Secundus, VIII. iii. 31. A writer of tragedy under the Empire.</p>
+<p>Proculeius, IX. iii. 68. Friend of Augustus.</p>
+<p>Proculus, C. Artorius, IX. i 2. A. grammarian of unknown date.</p>
+<p>Prodicus, IX. ii. 16. Sophist of the <hi rend="italics">fifth</hi> century B.C.</p>
+<p>Pyrrhus, VIII. ii. 6. King of Epirus; invaded Italy in the opening years of the third century B.C.</p>
+
+<p>Rabirius, VII. i. 9 and 16. Killed Saturninus, and was indicted for the murder many years afterwards by Caesar.</p>
+<p>Roscius, VIII. ii. 2. Accused of parricide and defended by Cicero.</p>
+<p>Rullus, VIII. iv. 28. As tribune, proposed an agrarian law in 63 B.C.</p>
+<p>Rutilius, IX. ii. 102 and 106; IX. iii. 84, 89 <hi rend="italics">sqq.</hi> 99. Rhetorician of the reign of Augustus, translated the works of Gorgias of Athens (<hi rend="italics">q.v.</hi>).</p>
+
+<p>Scaevola, Q. (i), VII. ix. 12. Consul 117 B.C.</p>
+<p>Saevola (ii), VII. vi. 9. Famous jurist. Consul 95 B.C.</p>
+<p>Scaulus, VII. ii. 10. Praetor 56, Propraetor in Sardinia 55 B.C. Accused
+
+<pb id="p.595"/>
+
+of extortion in his province, he was defended by Cicero and acquitted.</p>
+<p>Sisenna, VIII. iii. 35. Historian and man of letters with a passion for rare words: elder contemporary of Cicero.</p>
+<p>Sulpicius, Servius, VIII. iii. 18. Distinguished orator, contemporary with Cicero, died on embassy to Mark Antony.</p>
+
+<p>Theo, IX. iii.7. Stoic and rhetorician of the reign of Augustus.</p>
+<p>Theodectes, IX. iv. 88. Rhetorician of first half of fourth century B.C.</p>
+<p>Theophrastus, VII. i. 2; IX. iv. 88.</p>
+<p>Theopompus, IX. iv. 35. Famous Greek historian of the latter half of fourth century B.C.</p>
+<p>Thrasybulus, VII, iv. 44. Overthrew the thirty tyrants of Athens 404 B.C.</p>
+<p>Thrasymachus, IX. v. 87. i. 8 Rhetorician contemporary with Plato.</p>
+<p>Trachalus, VIII. v. 19. A distinguished orator, consul 68 A.D. See X. i. 119.</p>
+
+<p>Vatinius, IX. ii. 26. Turbulent politician of the worst character: opponent of Cicero: accused of bribery by Oalvus, 54 B.C.</p>
+<p>Verginius Flavus, VII. iv. 24 and 40; VIII. iii. 33. Famous rhetorician, flourished under Nero.</p>
+<p>Vibius Crispus, VIII. v. 15 and 17. Orator contemporary with Quintilian: notorious as an informer.</p>
+
+<p>Zoilus, IX. i. 14. Grammarian and rhetorician: fourth or third century B.C., date uncertain.</p></div1>
+
+</body>
+</text>
+</TEI.2>

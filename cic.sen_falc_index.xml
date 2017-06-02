@@ -1,0 +1,228 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
+<!ENTITY % TEI.XML "INCLUDE">
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
+%PersProse;
+]>
+<TEI.2>
+<teiHeader type="text" status="new">
+<fileDesc>
+<titleStmt>
+<title>De Senectute index</title>
+<title type="sub">Machine readable text</title>
+	<author n="Cic.">M. Tullius Cicero</author>
+<editor role="editor" n="Falconer">William Armistead Falconer</editor>
+&responsibility;
+&fund.AnnCPB;
+</titleStmt>
+<extent>About 100Kb</extent>
+&Perseus.publish;
+<sourceDesc>
+<biblStruct>
+<monogr>
+<author>Cicero: De Senectute De Amicitia De Divinatione</author>
+<title>With An English Translation</title>
+    <editor role="editor" n="Falconer">William Armistead Falconer</editor>
+<imprint>
+<pubPlace>Cambridge</pubPlace>
+<publisher>Harvard University Press; Cambridge, Mass., London, England</publisher>
+<date>1923</date>
+</imprint>
+</monogr>
+</biblStruct>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<refsDecl doctype="TEI.2">
+<state unit="entry"/>
+</refsDecl>
+</encodingDesc>
+
+<profileDesc>
+<langUsage>
+<language id="en">English</language>
+<language id="greek">Greek</language>
+<language id="la">Latin</language>
+</langUsage>
+</profileDesc>
+<revisionDesc>
+<change><date>2006</date>
+<respStmt><name>GRC</name><resp>tagging</resp></respStmt>
+<item></item>
+</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+	<body>
+		<head>Index to the <title>De Senectute</title></head>
+
+<p>(<hi rend="italics">Note.</hi>&mdash;The references are to the sections. The dates
+given are all B.C.)</p>
+
+<p>Acilius; Manius Acilius Balbus (consul with Titus Flamininus in 150 B.C., the year of the dialogue), 14.</p>
+<p>Acilius; Manius Acilius Glabrio (consul 191; defeated Antiochus, king of Syria at Thermopylae), 32.</p>
+<p>Aelius; Sextus Aelius Paetus (consul 198, censor 195 B.C.; one of the earliest and most famous writers on Roman law), 27.</p>
+<p>Aemilius Paulus, see Paulus.</p>
+<p>Aetna (a volcanic mountain in Sicily), 4.</p>
+<p>Africanus, see Scipio.</p>
+<p>Agriculture, praise of, 51&ndash;60.</p>
+<p>Ahala, C. Servilius (master of the horse under Cincinnatus 439 B.C., when he killed Spurius Maelius for aiming at kingly power), 56.</p>
+<p>Ajax (Greek hero in the Trojan war), 31.</p>
+<p>Albinus, Spurius Postumius (censor 332; consul 334, again in 321, when he was defeated at the Caudine Forks by the Samnites), 41.</p>
+<p>Albinus, Spurius Postumius (consul 186, when he suppressed the Bacchanalian orgies; died 180, at about fifty years of age), 7.</p>
+<p>Ambivius; Lucius Ambivius Turpio (a celebrated actor
+of the time of Terence), 48.</p>
+<p>Andronicus, see Livius.</p>
+<p>Appius Claudius Caecus (consul 307, 296; censor 312; builder of the Appian way and of the Appian aqueduct; eminent as a lawyer, orator, and writer of prose and verse), 15, 16, 37.</p>
+<p>Appius Claudius Crassinus (consul 349), 41.</p>
+<p>Arganthonius (king of the Phoenician city of Tartessus in Spain, near Cadiz; lived in sixth century B.C.), 69.</p>
+
+<pb id="p.542"/>
+
+<p>Aristides (the Just; lived about 540&ndash;67 B.C.; Athenianstatesman, distinguished in the Persian wars; banished by Themistocles, but returned before the battle of Salamis), 21.</p>
+<p>Aristo (a Peripatetic philosopher of Ceos; flourished about 225 B.C.; author of a work on old age), 3.</p>
+<p>Atilius Calatinus (consul 258, 254; dictator 249; censor 247; one of the heroes of the First Punic war), 61.</p>
+<p>Atilius; Marcus Atilius Regulus (consul 267 and 256; defeated and captured by the Carthaginians in 255 and by them tortured and put to death), 75.</p>
+<p>Atticus, Titus Pomponius (b. 109, d. 32 B.C.; the wealthy, cultured, lifelong friend of Cicero, whose letters to him in sixteen books and over four hundred in number, are extant. Atticus wrote a history of Rome, a genealogical table of the leading Roman families, and a history in Greek of Cicero's consulship), 1.</p>
+<p>Brutus, L. Junius (freed Rome from the kings; fell in battle
+with the Tarquins, about 510 B.C.), 75.</p>
+<p>Caecilius Metellus, see Metellus.</p>
+<p>Caecilius Statius (a Roman comic poet, born in Isubrian Gaul; d. 168), 24, 25, 36.</p>
+<p>Caepio, Gnaeus Servilius (consul 169), 14.</p>
+<p>Calatinus, see Atilius.</p>
+<p>Camillus, L. Furius (dictator 350, consul 349; son of the great Camillus), 41.</p>
+<p>Carthage, 18.</p>
+<p>Carvilius, Spurius (as consul in 234 conquered the Sardinians and Corsicans; consul again in 228 and died 212; colleague of Fabius Maximus in 228), 11.</p>
+<p>Cato, M. Porcius, the censor, see Introduction.</p>
+<p>Cato, M. Porcius (son of the censor; fought bravely in the battle of Pydna, in 168 B.C., against Perses, the last king of Macedonia; he married the daughter of Aemilius Paulus, the victor at Pydna and thus became the brother-in-law of Scipio Africanus the Younger, conqueror of Hannibal, and interlocutor in this dialogue), 15, 68, 84.</p>
+<p>Cento, C. Claudius (consul 240), 50.</p>
+<p>Cethegus, M. Cornelius (consul 204; defeated Mago, brother of Hannibal, 203; a distinguished orator), 10, 50.
+Cincian law, 10.</p>
+
+<pb id="p.543"/>
+
+<p>Cincinnatus, Quinctius Lucius (dictator in 458, when he saved the Roman army, then surrounded by the Aequians; dictator again in 439 when Maelius was killed by Ahala), 56.</p>
+<p>Cineas (Thessalian orator; minister of Pyrrhus in 280 B.C., when he tried to persuade the Romans to accept peace, but was thwarted by the appeal of Appius Claudius, mentioned in section 16), 43.</p>
+<p>Claudius, Appius, see Appius.</p>
+<p>Cleanthes (Stoic philosopher of Assos, b. about <hi rend="italics">.280;</hi>author of a hymn quoted by St. Paul; lived, some say 80,
+and others 99, years), 23.</p>
+<p>Coruncanius, Titus (consul 280, dictator 246, the first
+plebeian <hi rend="italics">pontifex maximus), 15,</hi> 27, 43.</p>
+<p>Crassus, P. Licinius (consul 205, <hi rend="italics">pontifex maximus</hi> 212&ndash;183; censor 210; a celebrated lawyer; fought as consulagainst Hannibal), 27, 50, 61.</p>
+<p>Critobulus (a speaker in Xenophon's <hi rend="italics">Oeconomicus), 59.</hi></p>
+<p>Curius Dentatus, Manius (consul 290, 275, and 274; censor 272; defeated Pyrrhus and Samnites at Beneventum; a type of the old-time Roman), 15, 43, 55, 56.</p>
+<p>Cybele, or Rhea (her worship brought to Rome 204 B.C.), 45.</p>
+<p>Cyrus the Elder (founder of the Persian empire; died 529; idealized by Xenophon in his <hi rend="italics">Cyropaedia),</hi> 30, 32, 79.</p>
+<p>Cyrus the Younger (brother of Artaxerxes II., king of Persia, by whom he was defeated and slain at Cunaxa 401 B.C.; described in Xenophon's <hi rend="italics">Anabasis</hi>), 59.
+</p>
+<p>Death, not to be feared by the old, 66&ndash;77.</p>
+<p>Decius; Publius Decius Mus (consul 340 when he sacrificed himself in battle with the Latins and Campanians and thus secured victory for the Romans), 75.</p>
+<p>Decius; Publius Decius Mus (son of the preceding; consul four times; censor 304; devoted himself to death at Sentinum, 295, to secure the Roman victory over the Gauls, Samnites, and Etruscans), 43, 75.</p>
+<p>Democritus (of Abdera in Thrace, called <quote>the laughing philosopher</quote>; b. about 460; founder of the atomic philosophy), 23.</p>
+<p>Diogenes (the Babylonian, born at Seleucia near Babylon;
+head of the Stoic School; came to Rome 155 B.C.as an
+ambassador with Carneades; sent away at the instance
+of Cato), 23.</p>
+
+<pb id="p.544"/>
+
+<p>Duellius, Gaius (as consul 260 defeated the Carthaginian fleet near Messina), 44.</p>
+<p>Ennius, Quintus (b. 239 in Calabria, d. 169; brought to Rome by Cato; one of the greatest of the early Roman poets; wrote <hi rend="italics">Annales,</hi> a poetical history of Rome, also tragedies), 1, 10, 14, 16, 50, 73.</p>
+<p>Epicurus (Greek philosopher, lived 341&ndash;270 B.C.; founder of the Epicurean school of philosophy), 43.</p>
+<p>Fabius, Quintus Maximus (called <quote>Cunctator</quote>; consul 233, 228, 215, 214, 209; censor 230; dictator 217; he wore out Hannibal by refusing battle: died 203), 10&ndash;13, 15, 39, 61.</p>
+<p>Fabius; Quintus Fabius Maximus (son of the Cunctator; consul 213, died before his father), 12.</p>
+<p>Fabricius, Gaius Luscinus (consul 282, 278; censor 275; distinguished in the war against Pyrrhus, but best known for his virtue and integrity), 15, 43.</p>
+<p>Flaccus, Marcus Valerius (friend and colleague of Cato as consul and censor, see Introduction), 42.</p>
+<p>Flaminian law, 11.</p>
+<p>Flamininus, Lucius Quinctius (brother of Titus Flamininus; legate in Greece under his brother; consul 192; expelled from the Senate by Cato as Censor, 184), 42.</p>
+<p>Flamininus, Titus Quinctius (consul 198; censor 189; conquered Philip V. of Macedon in 197 at Cynoscephalae in Thessaly; he was distinguished for his learning), 1, 42.</p>
+<p>Flamininus, Titus Quinctius (son of the victor over Philip; consul 150 B.C.), 14.</p>
+<p>Flaminius, Gaius (tribune of the plebs and author of the Flaminian law, 232; consul 223 and 217; censor 220; builder of the Flaminian Way; entrapped and killed in battle with Hannibal at Lake Trasimene, 217), 11.</p>
+<p>Gallus, Sulpicius (consul 166; orator, writer, astronomer; predicted the eclipse which occurred the day before the battle of Pydna, in 168, where Paulus defeated Perseus), 49.</p>
+<p>Glabrio, see Acilius.</p>
+<p>Gorgias (a famous sophist and rhetorician of Leontini in Sicily, b. about 485; his death is variously given as 380, 378, 377), 13, 23.</p>
+
+<pb id="p.545"/>
+
+<p>Hannibal (invaded Italy, 218; defeated the Romans at Trebia 218, Trasimene 217, Cannae 216; remained in Italy until 203; defeated at Zama in Africa in 202 by Scipio Minor; died in exile about 183), 10, 75.</p>
+<p>Hesiod (Boeotian poet, author of <hi rend="italics">Works and Days;</hi> flourished in eighth century B.C.), 23, 54.</p>
+<p>Homer, 23, 31, 54.</p>
+<p>Idaean rites (worship of Cybele), 45</p>
+<p>Immortality of the soul, discussed, 77&ndash;85.</p>
+<p>Isocrates (one of the ten Attic orators and the greatest teacher of rhetoric of his time, born 436; died in 338 by voluntary starvation owing to his grief at the loss of Greek freedom in the battle of Chaeronea), 13, 23.</p>
+<p>Laelius, Gaius (father of Gaius Laelius Sapiens of this dialogue), 77.</p>
+<p>Laelius; Gaius Laelius Sapiens (interlocutor here, see Introduction), 3, 4, 6, 7, 8.</p>
+<p>Laertes (the father of Ulysses), 54.</p>
+<p>Lepidus, Marcus Aemilius (consul 187, 175; <hi rend="italics">pontifex maximus;</hi> censor 179 with his enemy Fulvius; chief of the senate twenty-seven years), 61.</p>
+<p>Livius Andronicus (of Tarentum, lived about 284&ndash;204; the earliest Roman poet and the first to bring out a play in Rome; he wrote a translation of the <hi rend="italics">Odyssey</hi> and composed tragedies and comedies), 50.</p>
+<p>Lysander (Spartan general and admiral in the Peloponnesian War; defeated the Athenian fleet at Aegospotami 405; captured Athens 404; died 395), 59, 63.</p>
+<p>Lysimachus (father of Aristides of Athens), 21.</p>
+<p>Maelius, Spurius (during a famine at Rome in 439 gave corn to the plebs, was accused of trying to raise a revolution and make himself king and was killed by Ahala), 56.</p>
+<p><hi rend="italics">Magna Mater</hi> (image of Cybele brought to Rome from Phrygia 204), 45.</p>
+<p>Marcellus, Marcus Claudius (consul five times between 222 and 208; triumphed over the Gauls; captured Syracuse 212; killed in 208 in battle with Hannibal, who buried him with military honours), 75.</p>
+<p>Masinissa (king of Numidia; in the Second Punic war
+
+<pb id="p.546"/>
+
+fought at first on the side of Carthage against the Scipios in Spain 212 B.C., and later was won over by Scipio Africanus the Elder, to whom he rendered important aid. He remained faithful to the Romans. He was born in 238 and died in 148 or 149), 34.</p>
+<p>Maximus, see Fabius.</p>
+<p>Metellus, L. Caecilius (consul 251, 247; defeated the Carthaginians under Hasdrubal at Panormus 251; at the burning of the temple of Vesta, 241, he rescued the Palladium, but lost his eyesight; <hi rend="italics">pontifex maximus</hi> for twenty-two years), 30, 61.</p>
+<p>Milo (a celebrated Greek athlete of Crotona, in South Italy; a disciple of Pythagoras; commanded an army against the Sybarites and defeated them, 511 B.C.), 27, 33.</p>
+<p>Naevius, Gnaeus (Roman poet, b. about 269, d. about 194; his great work was a history of the First Punic war in Saturnian verse; he also wrote comedies and tragedies), 20, 50.</p>
+<p>Nearchus (a Pythagorean philosopher of Tarentum, who entertained Cato there after its recapture 207 B.C.), 41.</p>
+<p>Nestor (of Pylos; the oldest of the Greek heroes in the Trojan war), 31.</p>
+<p>Old Age, its usefulness and employments, 15&ndash;27; useful despite the loss of physical vigour, 28&ndash;38; its pleasures, 39&ndash;65; its nearness to death no disadvantage, 66&ndash;85.</p>
+<p>Paulus, L. Aemilius (consul 219 and 216; killed at Cannae in battle with Hannibal), 29, 61, 75, 82.</p>
+<p>Paulus; L. Aemilius Paulus Macedonicus (son of L. Aemilius Paulus, father of Scipio Africanus the Younger; consul 182, 168; censor 164; conquered King Perseus at Pydna in 168; lost his two younger sons soon after his victory), 15, 82.</p>
+<p>Pelias (king of Iolcus; seized the throne of his brother Aeson; Jason, son of Aeson, revenged himself on Pelias by the aid of Medea, the sorceress, who renewed the youth of Aeson, then persuaded the daughters of Pelias to cut him to pieces and boil the parts in a cauldron under promise of restoring his youth), 83.</p>
+<p>Philippus, Q. Marcius (consul 186, 169; censor 164), 14.</p>
+<p>Pisistratus (tyrant of Athens, d. 527), 72.</p>
+
+<pb id="p.547"/>
+
+<p>Plato (founder of the Academy, lived 427&ndash;347), 13, 23, 41, 44, 78.</p>
+<p>Plautus, T. Maccius (lived about 254&ndash;184; the greatest of the Roman comic poets), 50.</p>
+<p>Pontius, Gaius (a Samnite, father of Pontius Telesinus often mentioned by Livy), 41.</p>
+<p>Pontius; Gaius Pontius Telesinus (Samnite general who defeated the Romans under Albinus at the Caudine Forks 321; taken prisoner 291, by Fabius Gurges, Roman consul, and put to death), 41.</p>
+<p>Pontius, Titus (an unknown centurion, probably referred to by Cicero in <hi rend="italics">De fin.</hi> i. 9), 33.</p>
+<p><hi rend="italics">Pseudolus,</hi> a play by Plautus, 50.</p>
+<p>Pyrrhus (king of Epirus; went to Italy to aid Tarentum against the Romans, whom he defeated at Heraclea 280, and Asculum 279; was defeated at Beneventum 275, and returned to Epirus; was killed at Argos 272, in a battle against the Macedonians), 16, 43, 55.</p>
+<p>Pythagoras (a celebrated philosopher of Crotona, Italy, and founder of a school in the sixth century B.C.), 23, 33, 73, 78.</p>
+<p>Salinator, Gaius Livius (consul 188; gained a naval victory over the fleet of Antiochus 191), 7.</p>
+<p>Salinator, Marcus Livius (erroneously mentioned by Cicero for Livius Macatus, the latter being the defender of Tarentum 214&ndash;212, and later, 212&ndash;209, of the citadel), 11.</p>
+<p>Scipio; Cn. Cornelius Scipio Calvus (consul 222; fell in battle against Hasdrubal in the Second Punic war), 29, 75.</p>
+<p>Scipio, P. Cornelius (brother of Cn. Calvus; consul 218; defeated by Hannibal at the Ticinus in 218, joined his brother in Spain and both were killed in 212), 29, 75.</p>
+<p>Scipio; P. Cornelius Scipio Africanus Maior (son of Publius; consul 205 and 194; defeated Hannibal at Zama 202; died 183, about fifty years old), 19, 29, 35, 61, 82.</p>
+<p>Scipio; P. C. Scipio Africanus Minor (interlocutor in this dialogue; see Introduction), 3, 4, 19, 28, 35, 68, 77, 85.</p>
+<p>Scipio; P. C. Scipio Nasica Corculum (consul 162, 155; censor 159; grandson of Calvus and son-in-law of Africanus Maior), 50.</p>
+<p>Seriphus (a small island of the Cyclades group, in the Aegean sea, and a byword for insignificance), 8.</p>
+
+<pb id="p.548"/>
+
+<p>Simonides (of Ceos, a lyric poet, the inventor of mnemonics; lived 556&ndash;468), 23.</p>
+<p>Socrates, 26, 59, 78.</p>
+<p>Solon (Athenian lawgiver, statesman, and poet, b. about 639, d. 559), 26, 50, 72, 73.</p>
+<p>Sophocles, 22, 47.</p>
+<p>Statius, see Caecilius.</p>
+<p>Stesichorus (Greek lyric poet of Himera, Sicily, lived about 632&ndash;552), 23.</p>
+<p>Sulpicius, Gallus, see Gallus.</p>
+<p>Tartessus (in Spain, near Gades), 69.</p>
+<p>Terentius; P. Terentius Afer (Roman comic poet, b. about 194 at Carthage, probably of African blood; came to Rome as a slave; died in 159), 65 <hi rend="italics">n.</hi> 2.</p>
+<p>Themistocles (Athenian commander and statesman, rival of Aristides; defeated the Persians at Salamis, 480; exiled 471; died 449, aged 65), 8, 21.</p>
+<p>Tithonus (brother of Priam, king of Troy; loved by Aurora who gained immortality for him, but not eternal youth; he was finally turned into a katydid), 3.</p>
+<p><hi rend="italics">Truculentus,</hi> a play by Plautus, 50.</p>
+<p>Tuditanus, Marcus Sempronius (consul 240 B.C.), 50.</p>
+<p>Tuditanus, Publius Sempronius (consul 204; censor 209; defeated Hannibal at Crotona 204), 10.</p>
+<p>Turpio, Ambivius, see Ambivius.</p>
+<p>Valerius Corvinus, M. (consul six times between 348 and 299; aided by a raven (corvus) in a fight with a Gaul), 60.</p>
+<p>Varro, Gaius Terentius (consul 216; defeated by Hannibal at Cannae), 75.</p>
+<p>Veturius; Titus Veturius Calvinus (consul 321 and defeated together with his colleague, Albinus, at the Caudine Forks), 41.</p>
+<p>Xenocrates (of Chalcedon, 396&ndash;314, pupil of Plato, and head of the Academy twenty-five years, 339&ndash;314), 23.</p>
+<p>Xenophon (lived about 444&ndash;354; Greek historian), 30, 46, 59, 79.</p>
+<p>Zeno (of Cyprus, founder of the Stoic School; lived about 362&ndash;264 B.C.; died at 98 years of age), 23.</p>
+	</body>
+</text>
+</TEI.2>

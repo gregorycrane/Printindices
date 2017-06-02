@@ -1,0 +1,168 @@
+<?xml version="1.0"?> 
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [ 
+<!ENTITY % TEI.XML "INCLUDE"> 
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" > 
+%PersProse; 
+]>
+<TEI.2>
+<teiHeader type="text" status="new">
+<fileDesc>
+<titleStmt>
+	<title type="work" n="Inst.">Institutio Oratoria, books 4-6: index</title>
+<title type="sub">Machine readable text</title>
+<author n="Quint.">Quintilian</author>
+<editor role="editor" n="Butler">Harold Edgeworth Butler</editor>
+&responsibility;
+&fund.AnnCPB;
+</titleStmt>
+<extent>About 100Kb</extent>
+&Perseus.publish;
+<sourceDesc>
+<biblStruct>
+<monogr>
+<author>Quintilian</author>
+<title>With An English Translation</title>
+ <editor role="editor" n="Butler">Harold Edgeworth Butler</editor>
+<imprint>
+<pubPlace>Cambridge</pubPlace>
+<publisher>Cambridge, Mass., Harvard University Press; London, William Heinemann, Ltd.</publisher>
+<date>1921</date>
+</imprint>
+</monogr>
+</biblStruct>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<refsDecl doctype="TEI.2">
+<state unit="entry"/>
+</refsDecl>
+</encodingDesc>
+
+<profileDesc>
+<langUsage>
+<language id="en">English</language>
+<language id="la">Latin</language>
+<language id="greek">Greek</language>
+</langUsage>
+</profileDesc>
+<revisionDesc>
+<change><date>2006</date>
+<respStmt><name>GRC</name><resp>tagging</resp></respStmt>
+<item></item>
+</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+		<body>
+		<div1 type="chapter"><head>Index</head>
+
+<p>(<hi rend="italics">Only those names are included which seem to require some explanation; a
+complete index will be contained in Vol. IV.</hi>)</p>
+
+<p>Accius, V. xiil. 43. Famous tragic poet, <hi rend="italics">ft.</hi> 140 B. C.</p>
+<p>Aeschines, IV. i. 66; IV. lv. 6.</p>
+<p>Attic orator, contemporary and opponent of Demosthenes.
+Ahala, Servilius, V. xi. 16; xiii. 24. Put to death Sp. Maelins, <hi rend="italics">q.v.</hi></p>
+<p>Antonius, C., IV. ii. 123. Colleague</p>
+<p>of Cicero in the consulship, 63 B.C., and a man of the lowest character</p>
+<p>Apollodorus of Pergamus, IV. i. 50; IV. ii. 31; V. xiii. 59. A distinguished rhetorician of the Augustan age,</p>
+<p>Appius Claudius, V. xiii. 34. The decemvir, whose conduct in relation to Verginia caused the overthrow of the decemvirate, 440 B.C.</p>
+<p>Asinius, see Pollio.</p>
+<p>Aspasia, V. xi. 27. An Athenian <hi rend="italics">hetaira,</hi> mistress of Pericles.</p>
+<p>Atellani, VI. iii. 47. Actors in the Atellan farce, an indigenous form of comedy, deriving its name from Atella In Campania.</p>
+
+<p>Berentce, IV. l. 19. Daughter of Herod Agrippa, mistress of the Emperor Titus.</p>
+<p>Bovillae, VI. iii. 49. A town on the Appian Way, not far from Rome.</p>
+<p>Brutus (l), V. xi. 6. The expeller of the kings; executed his sons for an attempt against the newly established republic.</p>
+<p>Brutus (ii), VI. iii. 44. An orator notorious as an accuser and as a man of scandalous extravagance, accused a certain Cn. Plancius in 91 B.C.</p>
+<p>Brutus (iii), V. x. 9. The murderer of Caesar, famous as an orator of the Attic school.</p>
+
+<p>Caecilius, V, x. 7. Sicilian rhetorician, who taught at tome in the</p>
+<p>reign of Augustus.</p>
+<p>Caelius Rufus, M., IV. l. 31 and 39; IV. il. 27 and 123; VI. iii. 39 and 41. A younger contemporary of Cicero famous as an</p>
+<p>orator. Defended by Cicero on a charge of attempted murder brought by Clodia. The speech cited in IV. ii. 123 is against C. Antonius.</p>
+<p>Calvus, VI. i. 13; VI, lil. 60. Younger contemporary of Cicero, poet and orator, with Brutus chief representative of the Attic school.</p>
+<p>Cassander, v. x. 111 and 118. A Macedonian, claimant to the throne of Macedon, exercised a powerful influence in Greek politics during the years following the death of Alexander.</p>
+<p>Cassius Severus, VI. i. 43; VI. iii. 27, 78 and 90. A distinguished orator of the reigns of Augustus and Tiberius.</p>
+<p>Cato, M., the Censor, v. xl. 39; VI. iii. 105. The famous opponent of Carthage. one of the most distinguished writers and orators of his day. 234&ndash;149 B.C.</p>
+<p>Cato Uticensis, v. xi. 10; VI, iii. 112. Contemporary of Cicero, a Stoic and one of the most ardent opponents of Caesar. Catulus, Q. Iutatius, VI. iii. 81.</p>
+
+<pb id="p.530"/>
+
+<p>Lablenus (I), IV. l. 11. Orator and historian under Augustus.</p>
+<p>Lablenus (ii), v. xlii. 20. Accuser of Rabirius on a charge of treason, afterwards served under Caesar In Gaul and Pompey in the Civil War.</p>
+<p>Lucretia, V. xi. 11. Wife of Brutus (i), whose rape by Sextus Tarquinius, and subsequent suicide, was the immediate cause of the fall of the monarchy.</p>
+
+<p>Macer, Aemilius, VI. iii. 96. Augustan didactic poet.</p>
+<p>Maelius, Spurius, V. ix. 13; v. xiii. 24. Bought up corn in time of dearth and sold it cheap to the people in 440 B.C. Was suspected of wishing to seize the supreme power and killed in tile following year.</p>
+<p>Manlius Curlus, vi. iii. 72. Possibly the same that betrayed the Catilinarian conspiracy.</p>
+<p>Manlius Capitollnus, v. ix. 13 xi. 7. Saved Rome from the Gauls, but was subsequently suspected of aiming at supreme power and hurled from the Tarpeian rock in 384 B.C.</p>
+<p>Marcellus, V. xi. 7. Great general of the second Punic war, who conquered Sicily for Rome.</p>
+<p>Marsus, Domitius, VI. iii. 102 <hi rend="italics">sqq.</hi> and 111. Distinguished man of</p>
+<p>letters of the Augustan age.</p>
+<p>Messala, IV. l. 8; VI. i. 20. Distinguished orator and man of letters, 64 B.C.&ndash;8 A.D.</p>
+<p>Midias, VI. i. 17. Prosecuted by Demosthenes (348 B.C.) for</p>
+<p>striking him In the face on the festival of Dionysus. Demosthenes demanded the extreme penalty of the law (death or confiscation) on the ground that the act was of the nature of sacrilege.</p>
+
+<p>Nasica, Scipio, v. xi. 16; xiii. 24. The slayer of Tiberius Gracchus.</p>
+
+<p>Opimius, v. xi. 16. The slayer of G. Gracchus.</p>
+
+<p>Passienus Crispus, VI l. 50; VI. ili. 74. Stepfather of the emperor Nero and a famous orator.</p>
+<p>Pedianus, Asconius, V. x. 9. Distinguished historian and critic, contemporary with Quintilian.</p>
+<p>Philippus, L. Marcius, VI. iii. 81. Consul 91 B.C. and a distinguished orator.</p>
+<p>Philodamus, IV. ii. 114; VI. l. 54. A citizen of Lampsacus, plundered by Verres when the latter was legatus of Dolabella in Asia. On his offering resistance he was tried, condemned and executed.</p>
+<p>Pisistratus, v. xl. 8. Tyrant of Athens, 6th cent. B.C.</p>
+<p>Piso, V. xiii. 38. Consul In 58 and proconsul of Macedonia in 57, 56 B.C. On his return he was prosecuted by Cicero on the charge of extortion in a most violent speech.</p>
+<p>Plancius, Cn. Munatius, VI. ii. 44. See Brutus (ii).</p>
+<p>Pollio, Asinius, IV. l. 11; VI. l. 21; iii. 110. Famous orator, poet and historian of the Augustan age.</p>
+<p>Polynices, v. x. 31. Son of Oedipus, who contended with his brother Eteocles for the throne of Thebes.</p>
+<p>Polyxena, VI. ii. 22. Daughter of Priam, sacrificed on the tomb of Achilles.</p>
+<p>Proculeius, VI. iii. 79. A close friend of Augustus.</p>
+<p>Prodicus of Cos, IV. i. 73. Sophist of the 1st cent. B.C.</p>
+<p>Pyrrhus, v. xi. 10; VI. iii. 10. King of Epirus, who waged war on Rome at the beginning of the 3rd cent. B.C.</p>
+
+<p>Rabidus, C., V. xiii. 20; VI. l. 49. Accused by Caesar in 63 for the</p>
+<p>murder of the tribune Saturninus in 100 B.C.</p>
+<p>Rabirius Postumus, IV. i. 69; IV. ii. 10. A Roman knight defended by Cicero in 54 B.C. when accused of extortion in Egypt while acting as treasurer to King Ptolemy Auletes.</p>
+
+<pb/>
+
+<p>Rullus, V. xiil. 38. Tribune of the plebs in 63 B.C. proposed a law for the distribution of public lands, which was attacked by Cicero in his three speeches <hi rend="italics">de Lese Agraria.</hi></p>
+
+<p>Satuminus, V. xi. 6; VI. l. 49. Tribune of the plebs and demagogue, killed 100 B.C.</p>
+<p>Scaurus, M. Aemilius (i), V. xii. 10; V. xiii. 55. Consul 115 and 107 B.C. A pillar of the senatorial party, famous for his integrity. In 90 B.C. he was accused of Inciting the Italian allies to revolt by Q. Various, <hi rend="italics">q.v.</hi></p>
+<p>Scaurus, M. Aemilius (ii), IV. l. 69; V. xiii. 28 and 40; VI. l. 21. Son of (i), defended by Cicero on two occasions, when accused of (<hi rend="italics">a</hi>) extortion in Sardinia, (<hi rend="italics">b</hi>) bribery as candidate for the consulate in 54 B.C.</p>
+<p>Servius Sulpiciis, IV. ii. 106 vi. i. 20. Distinguished orator and lawyer, fiend and contemporary of Cicero.</p>
+<p>Snelius Rufus, P., VI. iii. 78. Notorious informer in the reign of Claudius.</p>
+
+<p>Teucer, IV. ii. 13. Brother of Ajax.</p>
+<p>Theodectes. IV. ii. 63. Rhetorician of first half of 4th cent. B.C.</p>
+<p>Theodorus of Gadara, IV. l. 23; IV. ii. 32; V. xiii. 59. Famous rhetorician of the Augustan age.</p>
+<p>Theophrastus, IV. i. 32. Famous Greek philosopher, pupil of Aristotle.</p>
+<p>Tiro, VI. iii. 5. Freedman and friend of Cicero, and an accomplished man of letters. He colected and edited Cicero's works.</p>
+<p>Torquatus, T. Manlius, V. xl. 10. Consul 347, 344, 340 B.C. Won the title of Torquatus by engaging a gigantic Gaul in single combat in 361 and taking from his dead body a necklet (<hi rend="italics">torquis</hi>).</p>
+<p>Trachalus, V. iii. 78. Famous orator, consul 68 A.D.</p>
+<p>Trebatius, V. x. 64. Distinguished lawyer, junior contemporary of Cicero.</p>
+<p>Triarius, v. xlli. 40. Accuser of Scaurus (ii) on both charges.</p>
+<p>Tubero, IV. i. 66; v. x. 93; xiii. 5. Accused Ligarius before Caesar 46 B.C..</p>
+<p>Tullius, IV. ii. 131; V. xiil. 21; A landowner at Thurii. Defended by Cicero about 71 B.C. Only fragments of the speech remain.</p>
+
+<p>Varenue, IV. i. 74; V. x. 69; xlii. 28; VI. i. 40. Accused of murder and defended by Cicero <hi rend="italics">circ.</hi> 80 B.C. The speech is lost.</p>
+<p>Varies Sucronensis, V. xii. 10. Tribune of the plebs 90 B.C., a native of Sucro in Spain. Accuser of Scaurus (i).</p>
+<p>Vatinlls, V. vii. 6; VI. i. 13; VI. iii. 77 and 84. An unscruplous politician, and a bitter enemy of Cicero.</p>
+<p>Verinius Flavus, IV. l. 23. Famous rhetorician, flourished under Nero.</p>
+<p>Vestinus, VI. iii. 64. Perhaps Vestinus Atticus, consul under Nero, by whom he was put to death.</p>
+<p>Vibius Crispus, V. xiii. 48. An eminent orator, contemporary with Quintilian.</p>
+
+<p>Zeno of Citlm, IV. ii. 117. Famous Stole philosopher of first half of third cent. B.C.</p>
+
+<p><hi rend="italics">Printed in Great Britain by Ricihard Clay (The Chaucer Press), Ltd.,
+Bungay, Suffolk</hi></p>
+		</div1>
+		</body>
+</text>
+</TEI.2>

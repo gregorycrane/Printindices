@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
+<!ENTITY % TEI.XML "INCLUDE">
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
+%PersProse;
+]>
+<TEI.2>
+<teiHeader type="text" status="new">
+<fileDesc>
+<titleStmt>
+	<title>De Amicitia index</title>
+<title type="sub">Machine readable text</title>
+	<author n="Cic.">M. Tullius Cicero</author>
+<editor role="editor" n="Falconer">William Armistead Falconer</editor>
+&responsibility;
+&fund.AnnCPB;
+</titleStmt>
+<extent>About 100Kb</extent>
+&Perseus.publish;
+<sourceDesc>
+<biblStruct>
+<monogr>
+<author>Cicero: De Senectute De Amicitia De Divinatione</author>
+<title>With An English Translation</title>
+    <editor role="editor" n="Falconer">William Armistead Falconer</editor>
+<imprint>
+<pubPlace>Cambridge</pubPlace>
+<publisher>Harvard University Press; Cambridge, Mass., London, England</publisher>
+<date>1923</date>
+</imprint>
+</monogr>
+</biblStruct>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<refsDecl doctype="TEI.2">
+<state unit="entry"/>
+</refsDecl>
+</encodingDesc>
+
+<profileDesc>
+<langUsage>
+<language id="en">English</language>
+<language id="greek">Greek</language>
+<language id="la">Latin</language>
+</langUsage>
+</profileDesc>
+<revisionDesc>
+<change><date>2006</date>
+<respStmt><name>GRC</name><resp>tagging</resp></respStmt>
+<item></item>
+</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<pb id="p.549"/>
+
+<head>Index to the <title>De Amicitia</title></head>
+
+<p>(<hi rend="italics">Note.</hi>&mdash;References are to sections. The dates given
+are all B.C.)</p>
+
+<p>Acilius, Lucius (contemporary of Cato; wrote a treatise on the twelve Tables), 6.</p>
+<p>Aemilius Papus, Q. (consul 282 and 278; censor 275), 39.</p>
+<p>Africanus; Scipio Africanus Minor (see Introduction), 3, 4, 8, 10, <hi rend="italics">et passim.</hi></p>
+<p>Agrigentum (<quote>a certain man of,</quote> was Empedocles; flourished about 450; he wrote a philosophic treatise on the <hi rend="italics">Origin of the Universe</hi> in verse), 24.</p>
+<p><hi rend="italics">Andria (The Andrian Girl,</hi> a play by Terence), 89.</p>
+<p>Apollo, oracle of, 7, 10, 13.</p>
+<p>Archytas (a Pythagorean general, statesman, philosopher and mathematician of Tarentum, lived about 400; wrote <hi rend="italics">The Good and Happy Man</hi>), 88.</p>
+<p>Athens, 7, 87.</p>
+<p>Atilius or Acilius, see Acilius.</p>
+<p>Atticus (Titus Pomponius, surnamed Atticus from his long residence in Greece and from his knowledge of Greek literature and language; b. 109, d. 32; the life-long and dearest friend of Cicero; wrote in Greek a history of Cicero's consulship; also wrote Roman chronicles; he was very wealthy, avoided politics and devoted himself to business, literature and to his friends; this essay and the <hi rend="italics">De senectute</hi> are dedicated to him), 2.</p>
+<p>Bias (one of the Seven Wise Men of Greece; lived in sixth century B.C.), 59.</p>
+<p>Blossius, Gaius (a disciple of Antipater and one of the most ardent supporters of Tib. Gracchus, after whose death he fled to Aristonicus of Pergamus; on the latter's death he killed himself, 130), 37.</p>
+
+<pb id="p.550"/>
+
+<p>Brutus, Decimus Iunius (consul with Scipio Nasica Serapio 138; conquered Lusitania 137 and the Gallaeci in 136), 7.</p>
+<p>Capitolium (comprises the citadel; site of the temple of Jupiter in Rome), 37.</p>
+<p>Carbo, Gaius Papirius (a noted orator, b. about 164, d. 119; a partisan of Tib. Gracchus; tribune 131; consul 120; was suspected of the murder of Scipio), 39, 41, 96.</p>
+<p>Cassian law, 41 <hi rend="italics">n.</hi></p>
+<p>Cassius; Lucius Cassius Longinus Ravilla (tribune in 137), 41.</p>
+<p>Cassius; Spurius Cassius Vecellinus (consul 502, 493, and 486; author of an agrarian law; accused of aiming at despotic power and killed in 486), 28.</p>
+<p>Cato, C. Porcius (grandson of the Censor; consul 114; condemned for extortion), 39.</p>
+<p>Cato, Marcus Porcius (the Censor, b. at Tusculum 234, d. 149; consul 195; censor 184), 4, 5, 9, 10, 76, 90.</p>
+<p>Coriolanus, Gaius Marcius (defeated the Corioli in 493; a patrician, hated the plebs; was exiled and went to the Volsci whom he led to attack Rome, but abandoned at the entreaty of his mother), 36, 42.</p>
+<p>Crassus, Gaius Licinius (author of the Licinian law regulating the election of augurs; tribune, 145), 96.</p>
+<p>Cumae (an ancient Greek colony in Campania, Italy), 37.</p>
+<p>Curius; Manius Curius Dentanus (consul 290, 275, 274; defeated the Samnites and Sabines 290, Pyrrhus 274; a type of old-fashioned Roman honour and simplicity), 18, 28, 39.</p>
+<p>Empedocles, see Agrigentum.</p>
+<p>Ennius, Quintus (b. in Calabria 239, d. 169; wrote <hi rend="italics">Annales,</hi> a history of Rome in verse and tragedies and other poetical works), 22, 64.</p>
+<p><hi rend="italics">Epiclerus</hi> (or <hi rend="italics">The Heiress,</hi> a play of Caecilius Statius), 99 <hi rend="italics">n.</hi></p>
+<p>Fabricius; Gaius Fabricius Luscinus (consul 282, 278; envoy in 280 to Pyrrhus, who tried in vain to bribe and frighten him; he was a typical old-fashioned Roman), 18, 28.</p>
+
+<pb id="p.551"/>
+
+<p>Fannius, Gaius (see Introduction), 3, 5, 6, 8, 9, 16, 17, 25, 32, 100.</p>
+<p>Furius (see Philus), 14, 21, 69, 101.</p>
+<p>Gabinian law (introduced voting by ballot, 139), 41.</p>
+<p>Gabinius, Aulus (tribune 139, author of Gabinian law), 41.</p>
+<p>Gallus, Gaius Sulpicius (consul 166; devoted to Greek literature; orator, writer, and astronomer), 9, 21, 101.</p>
+<p>Gnatho, a (character in <hi rend="italics">The Eunuch,</hi> by Terence), 93, 94</p>
+<p>Gracchus, Gaius (brother of Tiberius; tribune 123, 122; author of agrarian laws and many reforms; condemned by the reactionaries for treason, 122), 39, 41.</p>
+<p>Gracchus, Tiberius (son of Cornelia, grandson of Scipio Africanus Maior, b. about 164; tribune of plebs, 133: author of Sempronian law for dividing the public lands; killed by aristocratic party, 133), 37, 39, 41, 101.</p>
+<p>Greece, mentioned, 7, 42, 45.</p>
+<p>Greece, Great (Greek colonies in Italy), 13.</p>
+<p>Hannibal (son of Hamilcar Barca; b. at Carthage about 247; led an army into Italy 218 and remained there fifteen years; defeated at Zama, Africa, by Scipio in 202; d. about 183), 28.</p>
+<p>Laelius, Gaius (see Introduction), 3, 4, 5 <hi rend="italics">et passim.</hi></p>
+<p>Laenas, Publius Popilius (consul 132, colleague of Rupilius), 37.</p>
+<p>Licinian law (regulated the election of augurs), 96.</p>
+<p>Licinius, see Crassus.</p>
+<p>Lucius, see Rupilius.</p>
+<p>Lycomedes (king of the Dolopians; by his daughter Deidameia Achilles had a son Neoptolemus, or Pyrrhus), 75</p>
+<p>Maelius, Spurius (gave largesses of corn to the poor in Rome in famine of 440&ndash;439; accused of aiming at regal power; killed by Ahala), 28, 36.</p>
+<p>Mancinus, L. Hostilius (consul 137), 96.</p>
+<p>Manilius; Manius Manilius Nepos (consul 149; great lawyer; in Third Punic War), 14.</p>
+<p>Maximus; Q. Fabius Maximus Aemilianus (consul 145; elder brother of Scipio Africanus Minor), 69, 96.</p>
+<p>Metellus, Q. Caecilius (consul 143; censor and augur;
+
+<pb id="p.552"/>
+
+lived to see three sons consuls; a colleague of Laelius as augur), 77.</p>
+<p>Minerva (goddess of learning), 19.</p>
+<p>Mucius, see Scaevola.</p>
+<p>Mummius, Lucius (consul 146, when he captured Corinth; defeated the Achean League), 69.</p>
+<p>Mummius, Spurius (an intimate friend of Scipio Africanus Minor; legate to his brother Lucius, who as consul in 146 B.C. captured and destroyed Corinth), 69, 101.</p>
+<p>Nasica; P. Cornelius Scipio Nasica Serapio (consul 138; led in the murder of Tib. Gracchus), 101.</p>
+<p>Neoptolemus (or Pyrrhus, son of Achilles and Deidameia, daughter of Lycomedes; instrumental in taking Troy; with the arrows of Hercules he killed King Priam and took Hector's wife as his prize), 75.</p>
+<p>Orestes (son of Agamemnon; friend of Pylades), 24.</p>
+<p>Pacuvius, Marcus (Roman poet, b. 220, d. 132), 24.</p>
+<p>Papirius (see Carbo), 39, 41, 96.</p>
+<p>Papus (see Aemilius), 39.</p>
+<p>Paulus; L. Aemilius Paulus Macedonicus (consul 182, 168; defeated Perseus, king of Macedonia, 168; father of Scipio Africanus Minor, friend of Laelius), 9, 101.</p>
+<p>Persian War (480&ndash;470, when Xerxes invaded Greece and the battles of Thermopylae and Salamis were fought), 42.</p>
+<p>Philus, Lucius Furius (consul 136; devoted to learning, a speaker in Cicero's <hi rend="italics">Republic</hi>), 14, 21, 69, 101.</p>
+<p>Pompeius, Q. (consul 141), 77.</p>
+<p>Pompeius, Q. (grandson of Q. above; consul 88), 2.</p>
+<p>Pylades, friend of Orestes, 24.</p>
+<p>Rupilius, Lucius (brother of Publius and friend of Scipio), 73.</p>
+<p>Rupilius, Publius (consul with Laenas 132 and tried the partisans of Tib. Gracchus; won the Servile War in Sicily), 37, 69, 73, 101.</p>
+<p>Rutilius; Publius Rutilius Rufus (military tribune under Scipio at Numantia: consul 105; later unjustly condemned, he went into exile; noted for his integrity), 101.</p>
+<p>Scaevola, Q. Mucius, the augur (son-in-law of Laelius;
+
+<pb id="p.553"/>
+
+praetor in Asia 121; consul, 117; a noted lawyer; see Introduction), 1, 5, 8, 16, 25.</p>
+<p>Scaevola, Q. Mucius, the <hi rend="italics">pontifex maximus</hi> (tribune 106, consul 96; killed in 82 in a proscription; a great lawyer, nephew of the preceding), 1.</p>
+<p>Scipio; Publius Cornelius Scipio Africanus Minor (see Introduction), 3, 4, 10 <hi rend="italics">et passim.</hi></p>
+<p>Spurius, see Maelius.</p>
+<p>Sulpicius, Publius (great orator, tribune of the plebs in 88 when he was killed in civil war between himself and Marius on one side and Sulla on the other), 2.</p>
+<p>Tarquinius Superbus (fifth king of Rome, 534&ndash;510), 28.</p>
+<p>Terence (b. about 194, d. 159), 89, 93, 98.</p>
+<p>Thais (a character in <hi rend="italics">The Eunuch</hi> of Terence), 98.</p>
+<p>Themistocles (b. about 514; Athenian general and statesman; won battle of Salamis over the Persians 480; exiled in 471 unjustly; d. about 449), 42.</p>
+<p>Timon (lived during the Peloponnesian War; hated all human society except that of Alcibiades), 87.</p>
+<p>Tubero, Q. (nephew of Scipio; tribune of plebs, 133), 37.</p>
+<p>Vecellinus, see Cassius.</p>
+<p>Verginius, Aulus (a lawyer of note). 101.</p>
+</body>
+</text>
+</TEI.2>

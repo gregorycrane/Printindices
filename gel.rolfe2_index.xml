@@ -1,0 +1,1173 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
+<!ENTITY % TEI.XML "INCLUDE">
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
+%PersProse;
+]>
+<TEI.2>
+	<teiHeader type="text" status="new">
+		<fileDesc>
+			<titleStmt>
+				<title type="work">Attic Nights, volume 2 index</title>
+				<title type="sub">Machine readable text</title>
+				<author n="Gell.">Aulus Gellius</author>
+				<editor role="editor" n="Rolfe">John C. Rolfe</editor>
+				&responsibility;
+				&fund.AnnCPB;
+			</titleStmt>
+			<extent>About 100Kb</extent>
+			&Perseus.publish;
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<author>The Attic Nights of Aulus Gellius</author>
+						<title>With An English Translation</title>
+						<editor role="editor" n="Rolfe">John C. Rolfe</editor>
+						<imprint>
+							<pubPlace>Cambridge</pubPlace>
+							<publisher>Cambridge, Mass., Harvard University Press; London, William Heinemann, Ltd.</publisher>
+							<date>1927</date>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		
+		<encodingDesc>
+			<refsDecl doctype="TEI.2">
+				<state unit="entry"/>
+			</refsDecl>
+		</encodingDesc>
+		
+		<profileDesc>
+			<langUsage>
+				<language id="la">Latin</language>
+				<language id="greek">Greek</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc>
+			<change><date>2009</date>
+				<respStmt><name>GRC</name><resp>tagging</resp></respStmt>
+				<item></item>
+			</change>
+			
+		</revisionDesc>
+	</teiHeader>
+
+<text>
+	  <pb id="v2.p.519"/>  
+	<body>
+
+<div1 type="index"><head>Index
+
+<note>See note 1, p. 449 of volume i. Words included in the Index of volume I are not repeated. The numbers below 40 refer to the works cited in vol. i, index.</note>
+</head>
+
+<p>ACADEMICI PHILOSOPHI, the followers of Plato, so called from the Academia, the grove near Athens in which Plato taught. As subst., Academici, <hi rend="italics">sc.</hi> philosophi.</p>
+
+<p>Acca, <hi rend="italics">see</hi> Larentia.</p>
+
+<p>Achaicum bellum, the war which resulted in the destruction of Corinth by the Romans in 146 B.C.</p>
+
+<p>Achivi, the Greeks.</p>
+
+<p>Acilius, C., a Roman senator.</p>
+
+<p>Aeacides, descendant of Aeacus, a term applied to Pyrrhus, king of Epirus, who claimed descent from Achilles, the grandson of Aeacus.</p>
+
+<p><hi rend="italics">Aedilibus vitio creatis, De,</hi> an oration of M. Porcius Cato the censor.</p>
+
+<p><hi rend="italics">Aedilicia,</hi> a play of Quinctius Atta.</p>
+
+<p><hi rend="italics">Aeditumus,</hi> a play of Pomponius.</p>
+
+<p>Aelii, members of the Aelian clan; <hi rend="italics">see</hi> note 1, p. 132.</p>
+
+<p>Aemilius Lepidus, M., censor with M. Fulvius Flaccus in 179 B.C.</p>
+
+<p>Aeschylus, the famous Greek writer of tragedies (525&ndash;456 B.C.); <hi rend="italics">see</hi> note 7, p. 460.</p>
+
+<p>Afranius, a writer of <hi rend="italics">fabulae togatae</hi> at Rome, who lived in the latter part of the second century B.C.</p>
+
+<p>Afri homines, the people of Africa.</p>
+
+<p>Africanus, <hi rend="italics">see</hi> Cornelius Scipio.</p>
+
+<p>Africum mare, a term applied by Sallust to the sea about Sardinia.</p>
+
+<p>Agamemnoniae Mycenae, the famous city of Argolis, ruled by Agamemnon at the time of the Trojan war.</p>
+
+<p>Ajax, son of Telamon, one of the Greek heroes at Troy.</p>
+
+<p>Albania, an unknown and remote land.</p>
+
+<p>Albinus, <hi rend="italics">see</hi> Postumius.</p>
+
+<p>Alcides, descendant of Alceus, a term applied to his grandson Hercules.</p>
+
+<p><hi rend="italics">Alexander,</hi> the name of a tragedy of Ennius.</p>
+
+<p>Alexandrinum bellum, the war carried on by Julius Caesar against Alexandria and the Egyptians, 48&ndash;47 B.C.</p>
+
+<p>Alfenus Varus,<hi rend="sup">4</hi> a Roman jurist of uncertain date.</p>
+
+<p>Ambracia, a city of Acarnania in the western part of Greece, later included in Epirus.</p>
+
+<p>Amyntas, father of Philip II of Macedon and grandfather of Alexander the Great.</p>
+
+<p><hi rend="italics">Animalibus, De,</hi> works of Aristotle and of Nigidius Figulus.</p>
+
+<p>Anio, a river flowing into the Tiber a short distance north of Rome.</p>
+
+<p>Anna (ac) Peranna, or Anna Perenna, an early Roman deity of whom many legends were current. She somehow represented the circle or ring of the year (Fowler, <hi rend="italics">Rom. Fest.</hi> p. 52).</p>
+
+<p>Annaeus Seneca (L.), the well-known Roman philosopher and writer, who lived from about 3 B.C. to A.D. 65.</p>
+
+<p>Annianus, a Roman poet of the early part of the second century A.D.; <hi rend="italics">see</hi> note 1, p. 38.</p>
+
+<p>Annius, C., the father of Cn. Flavius, a Roman aedile.</p>
+
+<p><hi rend="italics">Antiquae lectiones,</hi> a work of Caesellius Vindex.</p>  <pb id="v2.p.520"/>
+
+<p><hi rend="italics">Antoninianae orationes,</hi> Cicero's orations against Mark Antony, also called <hi rend="italics">Philippics.</hi></p>
+
+<p>Apollonius (Rhodius), an epic poet of Alexandria, born about 260 B.C., author of the epic poem called <hi rend="italics">Argonautica,</hi> and one of the librarians of the great library at Alexandria.</p>
+
+<p>Archytas, a celebrated philosopher of Tarentum, noted for his inventions; he died about 394 B.C.</p>
+
+<p>Argei, <hi rend="italics">see</hi> note 2, p. 252.</p>
+
+<p>Argivum bellum, another name for the Achaicum bellum.</p>
+
+<p>Argos, also Argi, the famous city of Argolis.</p>
+
+<p>Arimaspi, a mythical people of Scythia; <hi rend="italics">see</hi> note 3, p. 162.</p>
+
+<p>Aristeas, an early epic poet of Proconnesus on the Propontis, put by Hdt. (iv. 15,) 340 years before his time.</p>
+
+<p>Aristo, T.,<hi rend="sup">4</hi> a Roman jurist of the time of Trajan.</p>
+
+<p>Aristodemus, an actor; a contemporary of Demosthenes.</p>
+
+<p>Aristogiton, one of the tyrannicides; <hi rend="italics">see</hi> note 1, p. 168.</p>
+
+<p>Artemisia, a queen of Caria, wife of Mausolus.</p>
+
+<p>Arvales fratres, a very ancient priesthood, connected with agriculture and the fertility of the fields. The order was revived and given prominence by Augustus.</p>
+
+<p>Asellio, <hi rend="italics">see</hi> Sempronius.</p>
+
+<p><hi rend="italics">Asinaria,</hi> a play of Plautus.</p>
+
+<p><hi rend="italics">Astraba,</hi> a play of Plautus.</p>
+
+<p>Atellania (<hi rend="italics">sc.</hi> fabula), a farce, probably of Oscan origin, with stock characters; it derived its name, which is more commonly <hi rend="italics">Atellana,</hi> from the town of Atella in Campania.</p>
+
+<p>Aternia lex, the <hi rend="italics">lex Aeternia Tarpeia,</hi> passed in 455 B.C. It standardized the value of cattle and sheep; <hi rend="italics">see</hi> Festus, p. 270, 3, Lindsay.</p>
+
+<p>Atilius Regulus, M., consul in 267 and 256 B.C.
+
+<note>The M. Atilius Regulus named in the Index to vol. i was the son of this Regulus, and was consul in 227 B.C.</note>
+</p>
+
+<p><hi rend="italics">Atreus,</hi> the name of a tragedy of Accius.</p>
+
+<p>Atta, <hi rend="italics">see</hi> Quinctius.</p>
+
+<p>Attalus, Attalus I, king of Pergamum in north-western Asia Minor. He reigned from 241 to 197 B.C.</p>
+
+<p>Aufeia lex, a law proposed in 123 B.C. and advocated by C. Gracchus, but apparently not passed.</p>
+
+<p><hi rend="italics">Augurii Privati libri,</hi> a work of Nigidius Figulus.</p>
+
+<p>Augurinus, <hi rend="italics">see</hi> Minucius.</p>
+
+<p><hi rend="italics">Aulularia,</hi> a play of Plautus.</p>
+
+<p>Aulus, referring to A. Postumius Albinus.</p>
+
+<p>Aventinus, <hi rend="italics">sc.</hi> mons, the southern-most of the hills of Rome.</p>
+
+<p>Avernus, <hi rend="italics">see</hi> Lacus Avernus.</p>
+
+<p>Axius, Q., a friend of Cicero, to whom Tullius Tiro addressed a letter criticizing Cato's speech in defence of the Rhodians.</p>
+
+<p><hi rend="italics">Bacchae,</hi> the name of a tragedy of Euripides.</p>
+
+<p>Bagradas, a river of northern Africa.</p>
+
+<p><hi rend="italics">Bello Carthaginiensi, De,</hi> a speech of M. Porcius Cato Censorinus.</p>
+
+<p>Boeotia, a district of central Greece, north-west of Attica.</p>
+
+<p>Borysthenes, a river of Sarmatia, the modern Dnieper.</p>
+
+<p>Brundisium, a seaport in south-eastern Italy, the regular port of departure for Greece and the Orient.</p>
+
+<p>Bruttiani, the inhabitants of the south-western part of the Italian peninsula; <hi rend="italics">see</hi> note 2, p. 226.</p>
+
+<p>Bruttii, the same as Bruttiani.</p>
+
+<p><hi rend="italics">Bucolica,</hi> the name of works of Theocritus and of Vergilius.</p>
+
+<p>CAECILIUS METELLUS PIUS, Q., son of Metellus Numidicus and consul with Sulla in 80 B.C.</p>
+
+<p><hi rend="italics">Caecina, A., Pro,</hi> an oration of M. Tullius Cicero.</p>
+
+<p>C&aelig;neus, originally a girl named Caenis, but afterwards changed into a boy  <pb id="v2.p.521"/>  by Neptune. According to Virgil, he again became female.</p>
+
+<p>Caenis, <hi rend="italics">see </hi>Caeneus.</p>
+
+<p><hi rend="italics">Caeselli Erroribus, De,</hi> a work of Terentius Scaurus.</p>
+
+<p>Caleni, the people of Cales, a town of Campania.</p>
+
+<p>Callicles, a speaker in Plato's <hi rend="italics">Gorgias.</hi> (Calpurnius) Piso Frugi, L., 7 a Roman writer of annals, consul in 133 B.C. and an opponent of the Gracchi.</p>
+
+<p>Calvus, <hi rend="italics">see</hi> Licinius.</p>
+
+<p>Capua, the principal town of ancient Campana.</p>
+
+<p>Caria, a country in the south-western part of Asia Minor.</p>
+
+<p><hi rend="italics">Carmen de Moribus,</hi> a work of M. Porcius Cato Censorinus.</p>
+
+<p>Carneades, a philosopher of Cyrene in northern Africa, founder of the New Academy; sent as an envoy to Rome in 155 B.C.</p>
+
+<p>Carthago, the famous city of northern Africa. Also applied (vii. 8. 3) to Carthago Nova, or New Carthage, on the south-eastern coast of Spain; modern Cartagena.</p>
+
+<p>Casinum, a town of south-western Latium, near the border of Samnium.</p>
+
+<p>Cassius Longinus, C., consul in 171 B.C.</p>
+
+<p>Castor, one of the Dioscuri, or sons of Zeus, and brother of Pollux. <hi rend="italics">Aedes Castoris,</hi> the temple of Castor and Pollux in the Roman Forum.</p>
+
+<p><hi rend="italics">Catilina,</hi> a work of Sallustius Crispus on the conspiracy of Catiline, usually called <hi rend="italics">Bellum Catilinae.</hi></p>
+
+<p>Cato, <hi rend="italics">see</hi> Porcius.</p>
+
+<p><hi rend="italics">Catularius,</hi> the name of a mime of D. Laberius.</p>
+
+<p>Catullus, <hi rend="italics">see</hi> Valerius.</p>
+
+<p>Cela, <hi rend="italics">see</hi> Panda.</p>
+
+<p>Cetegus, <hi rend="italics">see</hi> Cornelius.</p>
+
+<p>Chalcedonius, -a, -um, adj. From Chalcedon, a city on the Bosphorus, opposite Byzantium (Constantinople).</p>
+
+<p>Chalcidica arx, a name applied to Cumae, a town of Campania, a colony of Chalcis in Euboea.</p>
+
+<p>Chalcidicensis, another form of Chalcidicus; <hi rend="italics">see </hi> Chalcidica arx.</p>
+
+<p><hi rend="italics">Chrysium,</hi> the name of a comedy by Caecilius Statius.</p>
+
+<p>Cilices, adj. from Cilicia, a country in south-eastern Asia Minor.</p>
+
+<p>Cincii, a Roman family; <hi rend="italics">see</hi> note 1, p. 132.</p>
+
+<p>Cinna, <hi rend="italics">see</hi> Helvius.</p>
+
+<p><hi rend="italics">Cistellaria,</hi> the name of a comedy by Plautus.</p>
+
+<p>Clarus, <hi rend="italics">see</hi> Erucius.</p>
+
+<p>Claudii, the name of a prominent Roman family.</p>
+
+<p>Claudius, Divus, emperor of Rome from A.D. 41 to 54.</p>
+
+<p>Claudius, Servius,13 also Clodius, son-in-law of L. Aelius Stilo; he was a grammatical writer and a keen critic of Plautine language (Cic. <hi rend="italics">ad Fam. ix.</hi> 16. 4).</p>
+
+<p>Claudius Caecus, Ap., censor in 312 B.C.; with his colleague he built the first Roman aqueduct and the via Appia.</p>
+
+<p>Claudius (Crassus), Ap., consul in 349 B.C.</p>
+
+<p>Claudius Pulcher, C., a colleague of C. Gracchus in the tribuneship of the commons.</p>
+
+<p>Claudius Pulcher, P., son of Claudius Caecus, and consul in 241 B.C.</p>
+
+<p>Coelius Antipater,<hi rend="sup">7</hi> a Roman historian of the time of the Gracchi; is <hi rend="italics">Annals</hi> in seven books gave an account of the second Punic war.</p>
+
+<p><hi rend="italics">Colorator,</hi> the name of a mime of D. Laberius.</p>
+
+<p>Compitalia, <hi rend="italics">sc.</hi> sacra; <hi rend="italics">see</hi> note 3, p. 280.</p>
+
+<p><hi rend="italics">Conciliatrix,</hi> the name of a comedy by Quinctius Atta.</p>
+
+<p><hi rend="italics">Coniectanea,</hi> a work of Alfenus Varus.</p>
+
+<p>Cornelius Cetegus, M., a famous Roman orator, consul in 204 B.C.</p>
+
+<p>Cornelius Nepos,<hi rend="sup">7</hi> a Roman writer of history and biography, who lived from about 99 to 24 B.C. Author of <hi rend="italics">Exempla, De Viris Illustribus,</hi> and other works.</p>
+
+<p>Corvinus, <hi rend="italics">see</hi> Valerius Maximus (M).</p>
+
+<p>Cossitius, L., a citizen of Thysdrus in Africa.</p>
+
+<p>Crassus, <hi rend="italics">see</hi> Licinius and Otacilius.</p>
+
+<p><hi rend="italics">Cresphontes,</hi> the name of a tragedy of Ennius; <hi rend="italics">cf.</hi> Polyphontes.</p>
+
+<p>Critolaus, a peripatetic philosopher, a contemporary of Crates and a member of the embassy sent to Rome in 155 B.C.</p>  <pb id="v2.p.522"/>
+
+<p>Ctesias, a Greek historian born in Cnidos in Caria, a contemporary of Xenophon, author of a History of Persia and a History of India.</p>
+
+<p>Cynthus, a mountain on the island of Delos in the Cyclades, the birth-place of Apollo.</p>
+
+<p>Cyrus, Cyrus the Great, founder of the Persian monarchy, which he ruled from 559 to 529 B.C.</p>
+
+<p>DAEDALUS, a mythical Greek craftsman, famed for his inventions and his advances in the technique of sculpture.</p>
+
+<p>Darius (Codomannus), the last of the Persian kings (336 to 330 B.C.), overthrown by Alexander the Great.</p>
+
+<p><hi rend="italics">Decem Hominibus, De,</hi> a speech delivered by M. Porcius Cato Censorinus.</p>
+
+<p>Delphi, the famous city of Phocis at the foot of Mt. Parnassus; the seat of the Delphic oracle.</p>
+
+<p>Demades, an Athenian orator, a contemporary and opponent of Demosthenes.</p>
+
+<p>Diodorus (Cronus, also Chronus), a logician of Caria, who owed his surname to the fact that he once asked for time (<foreign lang="greek">xro/nos</foreign>), in order to reply to a question put to him in the presence of Ptolemy Soter (323- 285).</p>
+
+<p>Dionysia, <hi rend="italics">sc.</hi> sacra, the six-day festival of Dionysus at Athens, at which three days were devoted to dramatic performances.</p>
+
+<p><hi rend="italics">Disciplinae,</hi> a work of M. Terentius Varro.</p>
+
+<p><hi rend="italics">Dote, De,</hi> a speech of M. Porcius Cato Censorinus.</p>
+
+<p>Draco, the celebrated Athenian law-giver, who brought out his code of laws during his archonship, in 624 B.C.</p>
+
+<p><hi rend="italics">Duodecim Tabulae,</hi> the Twelve Tables, a code of laws made by the decemvirs at Rome in 451&ndash;449 B.C.</p>
+
+<p><hi rend="italics">Duodecim Tabulas, Ad,</hi> a work of Antistius Labeo.</p>
+
+<p>ELECTRA, the daughter of Agamemnon and sister of Orestes.</p>
+
+<p>Eleusinus, -a, -um, adj. from Eleusis, an ancient city of Attica, about twelve miles north-west of Athens, the seat of the Eleusinian Mysteries.</p>
+
+<p>Elissa, another name for Dido, queen of Carthage in the time of Aeneas.</p>
+
+<p>Elydis (?), a grammarian; <hi rend="italics">see</hi> note 1, p. 450.</p>
+
+<p>Ennianus, -a, -um, adj. from Ennius, the <quote>Father of Roman poetry</quote> (239&ndash;169 B.C.).</p>
+
+<p>Epirus, a country north of western Greece and west of Thessaly and Macedonia.</p>
+
+<p><hi rend="italics">Epistolicae Quaestiones,</hi> a work of M. Porcius Cato Censorinus.</p>
+
+<p><hi rend="italics">Epistulae Morales,</hi> a work of L. Annaeus Seneca.</p>
+
+<p><hi rend="italics">Erechtheus,</hi> the name of a tragedy by Ennius.</p>
+
+<p>Erucius Clarus, prefect of the city of Roma about A.D. 146, twice consul, perhaps in 117 and 146.</p>
+
+<p>Euclides, a Socratic philosopher, a native of Megara, where he established a school of philosophy after the death of Socrates.</p>
+
+<p>Eudemus, a Rhodian philosopher, a contemporary of Aristotle, some of whose works he edited and wrote commentaries upon them.</p>
+
+<p>Eurotas, the principal river of Laconia, on which Sparta was situated.</p>
+
+<p><hi rend="italics">Exempla,</hi> a work of Cornelius Nepos in at least five books, apparently of an encyclopaedic character.</p>
+
+<p>FABIUS LICINUS (M.), consul in 246 B.C.</p>
+
+<p><hi rend="italics">Facta et Dicta Memorabilia,</hi> a work of Valerius Maximus.</p>
+
+<p>Falernum vinum, a wine of fine quality and considerable strength, produced in the ager Falernus in northern Campania.</p>
+
+<p><hi rend="italics">Fato, De,</hi> a work of M. Tullius Cicero.</p>
+
+<p>Ferentinum, a town of Latium on the via Latina in the country of the Hernici, modern Ferentino.</p>
+
+<p><hi rend="italics">Figuris Sententiarum, De,</hi> a work of Annaeus Cornutus.</p>
+
+<p>Flavius, Cn., <hi rend="italics">see</hi> note 2, p. 116.</p>
+
+<p><hi rend="italics">Floria, De Re,</hi> a speech of Cato the Censor.</p>  <pb id="v2.p.523"/>
+
+<p>Fortuna, Fortune, personified as a goddess.</p>
+
+<p>Frugi, <hi rend="italics">see</hi> Calpurnius.</p>
+
+<p>Fufetia, another name of Gaia Taracia.</p>
+
+<p>Fundanius, C., plebeian aedile in 246 B.C.</p>
+
+<p><hi rend="italics">Furium, Contra,</hi> a speech of Cato the Censor.</p>
+
+<p>Furious (Camillus), L., consul in 349 B.C.</p>
+
+<p><hi rend="italics">Furtis, De,</hi> a work of Masurius Sabinus.</p>
+
+<p>GAIA TARACIA, <hi rend="italics">see</hi> Taracia.</p>
+
+<p>Galatea, a character in Virgil's <hi rend="italics">Bucolics.</hi></p>
+
+<p><hi rend="italics">Galli,</hi> the name of a mime by D. Laberius.</p>
+
+<p>Gallus, <hi rend="italics">see</hi> Sulpicius.</p>
+
+<p>Gellius, Cn.,<hi rend="sup">7</hi> <hi rend="italics">see</hi> Introd. p. xii.</p>
+
+<p>Geminus, <hi rend="italics">see</hi> Servilius.</p>
+
+<p><hi rend="italics">Georgica,</hi> the <hi rend="italics">Georgics</hi> of Vergil.</p>
+
+<p>Glaucus, a sea-god.</p>
+
+<p><hi rend="italics">Gorgian, Commentarii in Platonis,</hi> a work of Calvisius Taurus.</p>
+
+<p><hi rend="italics">Gorgias,</hi> the name of one of Plato's Dialogues.</p>
+
+<p>Gracchus, <hi rend="italics">see</hi> Sempronius.</p>
+
+<p>Grai, a name for the Greeks.</p>
+
+<p><hi rend="italics">Grammatici Commentarii,</hi> a work of Nigidius Figulus.</p>
+
+<p>Gratiae, the Graces, three in number.</p>
+
+<p>HAMMON, <hi rend="italics">see</hi> Iuppiter.</p>
+
+<p>Harmodius, one of the tyrannicides at Athens; <hi rend="italics">see</hi> note 1, p. 158.</p>
+
+<p>Harpalus, one of the generals of Cyrus the Great.</p>
+
+<p>Hector, the Trojan hero, slain by Achilles.</p>
+
+<p><hi rend="italics">Hecuba,</hi> the name of tragedies of Euripides and of Ennius.</p>
+
+<p>Hecuba, wife of Priam, king of Troy.</p>
+
+<p>Hegesias, perhaps the Greek orator of the early part of the third century B.C. who founded the Asianic style of oratory; <hi rend="italics">see</hi> Cicero, <hi rend="italics">Orat.</hi> 226.</p>
+
+<p>Helvius Cinna, a Roman poet, a friend of Caesar's. After Caesar's assassination he was mistaken for Cinna the conspirator and torn to pieces by the mob.</p>
+
+<p>Heraclides Ponticus, a philosopher from Heracleia in Pontus, a pupil of Plato and of Aristotle.</p>
+
+<p>Herculaneus, -a, um, adj. from Hercules.</p>
+
+<p>Here, <hi rend="italics">see</hi> note 4, p. 485.</p>
+
+<p>Herennius, C., tribune of the commons in 80 B.C.</p>
+
+<p>Herie, an attribute of Juno.</p>
+
+<p>Hersilia, the wife of Romulus.</p>
+
+<p><hi rend="italics">Hesiona,</hi> the name of a tragedy of Naevius; <hi rend="italics">see</hi> note 1, p. 284.</p>
+
+<p>Hibericus, -a, -um, adj. from Hiberia (Spain).</p>
+
+<p>Hiempsal, a king of Numidia, deposed by the Marian party, but restored to his throne by Pompey in 81 B.C.</p>
+
+<p>Hierocles, a Stoic philosopher.</p>
+
+<p>Hippias, son and successor of Pisis tratus; <hi rend="italics">see</hi> note 1, p. 158.</p>
+
+<p>Hispanicus, -a, -um, adj. from Hispania.</p>
+
+<p>Hister or Histros, the Danube, also called Danuvius.</p>
+
+<p>Homericus, -a, -um, adj. from Homerus.</p>
+
+<p>Hora Quirini, <hi rend="italics">see</hi> note 1, p. 480.</p>
+
+<p>Horatia lex, a privilegium of unknown date.</p>
+
+<p>(Hostilius) Mancinus, C., consul in 137 B.C.; tribune of the commons with Ti. Sempronius Gracchus, the father of Gaius and Tiberius Gracchus.</p>
+
+<p>Hyrcanus, -a, -um, adj. to Hyrcania, a Persian province on the south-eastern shore of the Caspian Sea.</p>
+
+<p>IDAEUS, a Trojan herald.</p>
+
+<p>Idas, son of Aphareus of Messenia; with his brother Lynceus he was slain in a combat with Castor and Pollux.</p>
+
+<p><hi rend="italics">Illustribus, De Viris,</hi> a work of Cornelius Nepos.</p>
+
+<p>Illyrii, the people of Illyria or Illyricum, a country on the eastern shore of the Adriatic Sea, north of Epirus.</p>
+
+<p>Imbrex, <hi rend="italics">see</hi> Licinius.</p>
+
+<p>Inous, son of Ino, Melicertes.</p>
+
+<p><hi rend="italics">Insania, De,</hi> a work of M. Terentius Varro.</p>
+
+<p>Isigonus, a native of Nicaea, composer of a book of marvels (<hi rend="italics">Paradoxa</hi>).</p>
+
+<p>Ismarus, -a, -um. adj. to Ismarus, a town of the Cicones in northern Thrace, according to Homer.</p>  <pb id="v2.p.524"/>
+
+<p>Isocrates, a famous Athenian orator, who lived from 436 to 338 B.C. He is said to have died on hearing of the overthrow of the Athenians at Chaeronea by Philip of Macedon.</p>
+
+<p>(Iunius) Brutus (M.),<hi rend="sup">4</hi> a juristic writer.</p>
+
+<p><hi rend="italics">lure Civili, De,</hi> a work of Q. Mucius Scaevola.</p>
+
+<p><hi rend="italics">Iuris Disciplinis, De,</hi> a work of M. Porcius Cato Licinianus.</p>
+
+<p><hi rend="italics">Ius</hi> <hi rend="italics">Civile,</hi> a work of Masurius Sabinus.</p>
+
+<p><hi rend="italics">Lacus Avernus,</hi> the name of a mime by D. Laberius.</p>
+
+<p>Laevinus, <hi rend="italics">see</hi> Valerius.</p>
+
+<p>Larentia, Acca, wife of the shepherd Faustulus and foster-mother of Romulus and Remus.</p>
+
+<p>Latona, the Latin name for Leto, the mother of Apollo and Artemis (Diana).</p>
+
+<p><hi rend="italics">Laudationes Funebres,</hi> eulogies spoken at the funerals of eminent men.</p>
+
+<p>Laurens, adj. to Laurentum, an ancient town of Latium near the sea, the capital of the mythical Latinus.</p>
+
+<p>Laurentinus, -a, -um, adj. to Laurentum; <hi rend="italics">see</hi> Laurens.</p>
+
+<p><hi rend="italics">Laus Catonis,</hi> a work of M. Tullius Cicero.</p>
+
+<p>Lavinium, an ancient town of Latium near Laurentium, said to have been founded by Aeneas, and named from his wife Lavinia, the daughter of Latinus.</p>
+
+<p>Lavinus, -a, -um, also Lavinius, adj. to Lavinium.</p>
+
+<p>Lebadia, a town of north-western Boeotia, near Chaeronea.</p>
+
+<p><hi rend="italics">Lege Agraria, De,</hi> a speech of M. Tullius Cicero.</p>
+
+<p><hi rend="italics">Legibus Promulgatis, De,</hi> a speech of C. Sempronius Gracchus.</p>
+
+<p>Lepidus, <hi rend="italics">see</hi> Aemilius.</p>
+
+<p>Lesbia, the name given by Catullus to his love, who was really Clodia, the sister of P. Clodius Pulcher.</p>
+
+<p>Lesbius, -a, -um, adj. from Lesbos; as subst. (sc. vinum), Lesbian wine.</p>
+
+<p>Lesbos, an island off the western coast of Asia Minor, west of Pergamum.</p>
+
+<p>Liber, the Italic wine-god, identified by the Romans with Dionysus or Bacchus.</p>
+
+<p>Libra, the constellation of the Balance, one of the signs of the Zodiac.</p>
+
+<p><hi rend="italics">Librum Commentarium de Familia Porcia,</hi> the family record of the Porcian family; <hi rend="italics">cf.</hi> Suet. <hi rend="italics">Aug.</hi> lxiv. 2.</p>
+
+<p>Licinius, a tribune of the commons.</p>
+
+<p>(Licinius) Calvus, C.,<hi rend="sup">3</hi> a celebrated lyric poet and orator, contemporary with Catullus.</p>
+
+<p>Licinius (Calvus) Stolo (C), tribune of the commons from 376 to 367 B.C. He brought the contest between the patricians and plebeians to an end, and was elected consul in 364 and 361.</p>
+
+<p>Licinius Crassus, L., the celebrated orator, consul in 95, censor in 92 B.C.</p>
+
+<p>Licinius Imbrex, a writer of <hi rend="italics">palliatae,</hi> or comedies based on Greek originals, contemporary with Caecilius Statius and Terence; perhaps the same as P. Licinius Tegula who wrote a hymn in the year 200 B.C. (Livy, xxxi. 12. 9).</p>
+
+<p>Licinius Lucullus, L., consul in 151 B.C.</p>
+
+<p>Licinius Mucianus, consul in A.D. 52, 70, and 75, author of a geographical work which is cited several times by Pliny in his <hi rend="italics">Natural History.</hi></p>
+
+<p>Longinus, <hi rend="italics">see</hi> Cassius.</p>
+
+<p>Lua Saturni, <hi rend="italics">see</hi> note 1, p. 480.</p>
+
+<p>Lucanus, -a, -um, adj. to Lucania, a district of Italy south-east or Campania.</p>
+
+<p>Lucilius, the friend to whom Seneca addressed his <hi rend="italics">Epistulae Morales.</hi></p>
+
+<p>Lucullus, <hi rend="italics">see</hi> Licinius.</p>
+
+<p>Lusitani, the inhabitants of Lusitania in western Spain, modern Portugal.</p>
+
+<p>Lycium, the Lyceum, a sacred precinct at Athens, in which Aristotle walked with is pupils as he gave them instruction.</p>
+
+<p>MACEDO, a philosopher.</p>
+
+<p>Macedones, the Macedonians.</p>
+
+<p>Macedonia, a country north of Thessaly and east of Epirus and Illyricum.</p>
+
+<p>Macetae, another name for the Macedonians.</p>
+
+<p>Maia Volcani, perhaps originally equivalent to <hi rend="italics">maiestas;</hi> later <pb id="v2.p.525"/> regarded as the wife of Vulcan; <hi rend="italics">cf.</hi> Macrobius, <hi rend="italics">Saturn.</hi> i. 12. 18, Cingius mensem (Maiam) nominatum putat a Maia, quam Vulcani dicit uxorem.</p>
+
+<p>Manlius Torquatus, T., twice dictator and three times consul (in 347, 344 and 340 B.C.).</p>
+
+<p>Marcius, M., a praetor of uncertain date.</p>
+
+<p>Marcius Rex, Q., consul in 118 B.C.</p>
+
+<p>Marcus, fore-name of M. Antonius, the triumvir.</p>
+
+<p>Marius, C., the famous conqueror of Jugurtha and of the Cimbri and Teutones, seven times consul (for the last time in 86 B.C.).</p>
+
+<p>Marius, M., quaestor at Teanum Sidicinum in northern Campania.</p>
+
+<p>Martius, campus, the part of Rome enclosed by the great bend of the Tiber towards the west.</p>
+
+<p>Massilia, a Greek city in southern Gaul, modern Marseilles.</p>
+
+<p>Matius, Cn., a writer of <hi rend="italics">Mimiambi</hi> and translator into Latin of the <hi rend="italics">Iliad;</hi> he lived in the first century B.C.</p>
+
+<p>Mauretania, a country in the north-eastern part of Africa, modern Morocco.</p>
+
+<p><hi rend="italics">Mausolus,</hi> a tragedy by Theodectas;<hi rend="italics">see</hi> note 5, p. 263.</p>
+
+<p>Mausolus, king of Caria and husband of Artemisia.</p>
+
+<p>Mayors, another name for Mars.</p>
+
+<p>Maximus, <hi rend="italics">see</hi> Valerius.</p>
+
+<p>Megara (-orum), the chief city of Megaris, the district between Attica and the territory of Corinth.</p>
+
+<p>Megarenses, the people of Megara.</p>
+
+<p>Melicertes, in mythology, son of Athamas and Ino, who after his death by drowning became a sea-god, Palaemon; really a Phoenician deity.</p>
+
+<p>Melicus, a dialectic form of <hi rend="italics">Medicus,</hi> Median or Medic.</p>
+
+<p><hi rend="italics">Memoralia,</hi> a work of Masurius Sabinus.</p>
+
+<p>Memoria, Memory, personified.</p>
+
+<p>Menelaus, king of Sparta at the time of the Trojan war, brother of Agamemnon and husband of Helen.</p>
+
+<p>Meropa, wife of Chresphontes and daughter of Cypselus, an Arcadian king.</p>
+
+<p>Messala, <hi rend="italics">see</hi> Valerius.</p>
+
+<p>Messana, a city in the north-eastern part of Sicily, modern Messina.</p>
+
+<p><hi rend="italics">Mevia,</hi> the name of an Atellan farce of Pomponius.</p>
+
+<p>Milesius, -a, -um, adj. to Miletus.</p>
+
+<p>Miletus, a city in the north-western part of Caria in Asia Minor.</p>
+
+<p><hi rend="italics">Mimiambi,</hi> realistic scenes from daily life, described in iambic verse; <hi rend="italics">see</hi> Matius.</p>
+
+<p>Minolus, -a, -um, adj. from Minos, a mythical king of Crete; probably a word meaning <quote>king,</quote> like Ptolemy.</p>
+
+<p>Minucius Augurinus, C., tribune of the commons in 187 B.C.</p>
+
+<p>Minucius Thermus, Q., tribune of the commons in 201 B.C., consul in 193.</p>
+
+<p>Mitridates (also Mithridates and Mithradates), Mithridates VI, or the Great, king of Pontus.</p>
+
+<p>Mnesitheus, a celebrated Athenian physician of the fourth century B.C.</p>
+
+<p>Moles Martis, probably some characteristic of Mars, the toil of War; later personified as his daughter.</p>
+
+<p>Mummius, L., consul in 146 B.C., surnamed Achaicus because of his victory in the Achaean war; he destroyed Corinth.</p>
+
+<p>Mycenae, <hi rend="italics">see</hi> Agamemnoniae Mycenae.</p>
+
+<p>NARBONENSIS, adj. from Narbo, a town of southern Gaul, whence the district called Gallia Narbonensis.</p>
+
+<p>Naucrates, a Greek rhetorician, a pupil of Isocrates.</p>
+
+<p>Naupactus, a town of the Locri Ozolae on the northern shore of the Corinthian Gulf.</p>
+
+<p>Nausicaa, daughter of Alcinous, king of the Phaeaceans.</p>
+
+<p><hi rend="italics">Neaera,</hi> a comedy of Licinius Imbrex.</p>
+
+<p>Neaera, a name associated with Nerio.</p>
+
+<p>Neapolis, a Greek city in Campania, modern Naples.</p>
+
+<p>Nepos, <hi rend="italics">see</hi> Cornelius.</p>
+
+<p>Neria, Nerio, Neriones Martis, <hi rend="italics">see</hi> note 1, p. 480.</p>
+
+<p>Nero, a name of Sabine origin, meaning strong and valiant.</p>
+
+<p>Nestor, the oldest of the Greeks before Troy.</p>
+
+<p>Nicaeensis, a native of Nicaea, a city  <pb id="v2.p.526"/>  of Bithynia in northern Asia Minor; <hi rend="italics">see</hi> Isigonus.</p>
+
+<p>Nicanor, <hi rend="italics">see</hi> Seleucus.</p>
+
+<p><hi rend="italics">Niptra,</hi> the name of a tragedy of Pacuvius.</p>
+
+<p>Nola, a town of Campania.</p>
+
+<p>Nolani, the people of Nola.</p>
+
+<p>OLYMPIAS, the mother of Alexander the Great.</p>
+
+<p>Onesicritus, a Greek historian who accompanied Alexander the Great on his campaigns and wrote an account of them.</p>
+
+<p><hi rend="italics">Oppium, ad C.,</hi> a work of Aelius Tubero.</p>
+
+<p>Oppius, C., a friend of Julius Caesar.</p>
+
+<p><hi rend="italics">Orestes,</hi> a work of M. Terentius Varro with the sub-title <hi rend="italics">De Insania.</hi></p>
+
+<p>Oriades (also Oreades), mountain nymphs.</p>
+
+<p><hi rend="italics">Origine Vocabulorum, De,</hi> a work of Gavius Bassus.</p>
+
+<p><hi rend="italics">Origines,</hi> a work of M. Porcius Cato.</p>
+
+<p>Otacilius Crassus (M.), consul in 246 B.C.</p>
+
+<p>PALATIUM, a name applied to the Palatine Hill at Rome and also to the Palace of the emperors on that hill.</p>
+
+<p>Pales, an Italic goddess of shepherds and of pastoral life.</p>
+
+<p>Palinurus, the pilot of Aeneas.</p>
+
+<p>Panaetius, a celebrated Greek philosopher of Rhodes, born about 180 B.C.</p>
+
+<p>Panda Cela, a goddess, called by Festus, <hi rend="italics">s.v.</hi> Empanda (p. 70, Linds.) <hi rend="italics">dea paganorum;</hi> her temple at the porta Pandana (Fest. p. 246, L.) was an asylum which was always open (cf. <hi rend="italics">pandere</hi>).</p>
+
+<p>Panopea (also Panope), a sea-nymph, daughter of Nereus.</p>
+
+<p><hi rend="italics">Parmenides,</hi> the name of a dialogue of Plato.</p>
+
+<p>Parthenius, a Greek grammarian and poet of Nicaea in Bithynia, who is said by Strabo to have lived in Rome from the time of the Mithridatic war to that of Tiberius.</p>
+
+<p>Patroclus, one of the Greeks at Troy. He was a friend of Achilles and was slain by Hector,</p>
+
+<p>Peranna, <hi rend="italics">see</hi> Anna.</p>
+
+<p>Peregrinus Proteus, a Cynic philosopher of Parium in the Troad, who flourished during the second century A.D. He burned himself to death publicly at the Olympic Games in A.D. 165.</p>
+
+<p>Persa, <hi rend="italics">see</hi> Perses.</p>
+
+<p>Perses (also Perseus),king of Macedonia from 178 to 168 B.C.</p>
+
+<p>Persicae clades, the capture of Athens by the Persians in 480 B.C.</p>
+
+<p>Pessinuntius, -a, -um, adj. from Pessinus, a town in the western part of Galatia, in Asia Minor.</p>
+
+<p>Philippus, Philip V of Macedon, father of Perses.</p>
+
+<p>Philostephanus, a pupil of Callimachus, who wrote <foreign lang="greek">Peri\ Tw=n Parado/cwn Potamw=n,</foreign> miscalled Polystephanus by Gellius.</p>
+
+<p><hi rend="italics">Phoenix,</hi> the name of a tragedy of Ennius.</p>
+
+<p>Phrygius, -a, -um, adj. to Phrygia, a country of Asia Minor west of Mysia, Lydia, and the northern part of Caria.</p>
+
+<p>Pisistratus, tyrant of Athens from 560 to 527 B.C.</p>
+
+<p>Piso, <hi rend="italics">see</hi> Calpurnius.</p>
+
+<p><hi rend="italics">Pisonem, In,</hi> an oration of M. Tullius Cicero.</p>
+
+<p><hi rend="italics">Plancio, Pro Cn.,</hi> an oration of M. Tullius Cicero.</p>
+
+<p>Platonicus, -a, -um, adj. from Plato, the great Athenian philosopher (428&ndash;347 B.C.).</p>
+
+<p><hi rend="italics">Poenulus,</hi> a comedy of T. Maccius Plautus.</p>
+
+<p>Pollux, one of the Dioscuri, or sons of Zeus; he was immortal, but his brother Castor was mortal.</p>
+
+<p><hi rend="italics">Polumeni,</hi> a comedy of Caecilius Statius; <hi rend="italics">see</hi> note 2, p. 316.</p>
+
+<p>Polus, a Greek tragic actor; <hi rend="italics">see</hi> note 2, p. 34.</p>
+
+<p>Polybius, a Greek historian, born in Megalopolis in Arcadia about 204 B.C. He was sent as a hostage to Rome in 166 and remained there for seventeen years. He wrote a <hi rend="italics">History</hi> in forty books, covering the period from 220 to 146 B.C.</p>
+
+<p>Polyphontes, a descendant of Heracles. He slew Chresphontes, king of  <pb id="v2.p.527"/>  Messenia, and took possession of his kingdom and his wife Meropa.</p>
+
+<p>Polystephanus, <hi rend="italics">see</hi> Philostephanus.</p>
+
+<p>Pomponianus, -a, -um, adj. from Pomponius.</p>
+
+<p>Pomponius, L,.<hi rend="sup">10</hi> a writer of <hi rend="italics">fabulae Atellanae,</hi> who flourished about 90 B.C. He was a native of Bononia (Bologna).</p>
+
+<p>Pomponius, M., praetor in 161 B.C.</p>
+
+<p>Pomptinus ager, the region of the Pomptine, or Pontine, Marshes in Latium.</p>
+
+<p>Porcius, -a, -um, adj. to Porcius, the gentile name of the Cato family.</p>
+
+<p>Porcius, a tribune of the commons.</p>
+
+<p>Porcius Cato (Licinianus), M., a son of Cato the Censor.</p>
+
+<p>Porcius Cato Nepos, M., grandson of Cato the Censor.</p>
+
+<p>Porcius Cato Salonianus, M., a son of Cato the Censor.</p>
+
+<p>Porcius Cato, M., son of Salonianus and father of Cato Uticensis.</p>
+
+<p><hi rend="italics">Posteriores,</hi> the name of a work of Antistius Labeo.</p>
+
+<p>Postumia, <hi rend="italics">see</hi> note 1, p. 84.</p>
+
+<p>Postumius Albinus, A., <hi rend="sup">7</hi> a writer of history, consul in 151 B.C. His <hi rend="italics">History</hi> was dedicated to Ennius and was therefore probably published before 169 B.C.</p>
+
+<p><hi rend="italics">Praeda Militibus Dividenda, De,</hi> a speech of Cato the Censor.</p>
+
+<p>Praenestinus, -a, -um, adj. to Praeneste, a hill town about twenty miles east of Rome, modern Palestrina.</p>
+
+<p>Praxiteles, a famous Greek sculptor, born in Athens about 390 B.C., represented by many beautiful works of art, original and copies.</p>
+
+<p>Priamus, king of Troy at the time of the Trojan war.</p>
+
+<p>Proconnesius, -a, -um, adj. from Proconnesus, an island in the Propontis, or Sea of Marmora. It was celebrated for its marble and is now called Marmora.</p>
+
+<p><hi rend="italics">Protesilaodamia,</hi> a play of Laevius.</p>
+
+<p>Proteus, <hi rend="italics">see</hi> Peregrinus.</p>
+
+<p>Psyllus, <hi rend="italics">see</hi> note 7, p. 190.</p>
+
+<p>Ptolemai, the name applied to a series of kings of Egypt, beginning in 323 B.C.</p>
+
+<p><hi rend="italics">Pugnis Falsis, De,</hi> a speech of Cato the Censor.</p>
+
+<p>Puteolanum mare, the sea about Puteoli, a seaport of Campania, modern Pozzuoli.</p>
+
+<p>Pygmaei, a fabulous people (<hi rend="italics">Iliad,</hi> iii. 5), variously located by different writers in India, Africa, and else-where.</p>
+
+<p>Pyrro, also Pyrrho, a native of Elis in the Peloponnesus, founder of the Pyrronian, or Sceptical, school of Philosophy.</p>
+
+<p>Pyrronius, -a, -um, adj. from Pyrro.</p>
+
+<p>Pythia, <hi rend="italics">sc.</hi> certamina, the Pythian Games, held on the Crissaean plain below Delphi every fourth year.</p>
+
+<p><hi rend="italics">Qua Legem Aufeiam Dissuasit, a</hi> speech of C. Sempronius Gracchus.</p>
+
+<p>Quinctius Atta,<hi rend="sup">10</hi> a Roman writer of <hi rend="italics">fabulae togatae,</hi> who died in 77 B.C.</p>
+
+<p>Quirinus, a Sabine god, identified with Romulus after his death and deification.</p>
+
+<p><hi rend="italics">Re Floria, De,</hi> a speech of Cato the Censor.</p>
+
+<p><hi rend="italics">Re Militari, De,</hi> a speech of Cato the Censor.</p>
+
+<p><hi rend="italics">Re Publica, De,</hi> a work of M. Tullius Cicero.</p>
+
+<p><hi rend="italics">Rebus per Epistulam Quaesitis, De,</hi> a work of Valgius Rufus.</p>
+
+<p><hi rend="italics">Rerum Divinarum libri,</hi> a work of M. Terentius Varro, one division of his <hi rend="italics">Antiquitates</hi> (see Index to vol. i).</p>
+
+<p><hi rend="italics">Rerum Humanarum libri,</hi> a work of M. Terentius Varro, a part of his <hi rend="italics">Antiquitates</hi> (see Index to vol. i).</p>
+
+<p>Rex, <hi rend="italics">see</hi> Marcius.</p>
+
+<p>Rodanus (also Rhodanus), the river Rhone.</p>
+
+<p>Rodienses (also Rhodienses), the people of Rhodes.</p>
+
+<p><hi rend="italics">Rodiensibus</hi> (also Rhodiensibus), <hi rend="italics">Pro,</hi>a speech of Cato the Censor.</p>
+
+<p>Rodiensis (also Rhodiensis), adj. from Rhodus, Rhodes, a large island in the Mediterranean Sea south-west of Asia Minor.</p>
+
+<p>Rodius, -a, -um, adj. from Rodus (Rhodus).</p>
+
+<p>Rodus (also Rhodus), Rhodes.</p>
+
+<p>Romane, adv. from Romanus.</p>  <pb id="v2.p.528"/>
+
+<p>Roscius, Sex., a native of Ameria in southern Etruria, defended by Cicero in one of his early orations.</p>
+
+<p>Rubra, <hi rend="italics">see</hi> Saxa Rubra.</p>
+
+<p><hi rend="italics">Rudens,</hi> the name of a comedy of Plautus.</p>
+
+<p>Rufus, <hi rend="italics">see</hi> Valgius.</p>
+
+<p>Rullus, cognomen of P. Servilius Rullus, tribune of the commons in 63 B.C.</p>
+
+<p>Rutilius (Rufus), P., consul in 105 B.C. and <hi rend="italics">legatus</hi> of Metellus in the war with Jugurtha. He wrote historical works and an autobiography.</p>
+
+<p>SABINI, an Italic people, dwelling in the mountainous district to the north-east of Rome.</p>
+
+<p><hi rend="italics">Sacrificio Commisso, De,</hi> a speech of Cato the censor.</p>
+
+<p>Salacia, <hi rend="italics">see</hi> note 1, p. 480.</p>
+
+<p>Salonianus, <hi rend="italics">see</hi> Porcius Oato.</p>
+
+<p>Salonius, a client of Cato the Censor.</p>
+
+<p>Samos, an island off the western coast of Asia Minor, near Ephesus.</p>
+
+<p>Santra, a Roman grammarian; <hi rend="italics">see</hi> note 1, p. 132.</p>
+
+<p>Sapientia, Wisdom personified as a goddess.</p>
+
+<p>Sardinia, a large island in the Mediterranean Sea, between Italy and Spain.</p>
+
+<p><hi rend="italics">Saturae,</hi> the name of works by Ennius, Lucilius, and Varro.</p>
+
+<p>Saturnus, a mythical Italic king, identified by the Romans with the Greek Cronos.</p>
+
+<p>Sauromatae, also called Saramatae, a people of Asia, living north-east of the Palus Maeotis (Sea of Azov).</p>
+
+<p>Saxa Rubra, a place between Rome and Veii, near the river Oremera, modern Grotta Rossa.</p>
+
+<p>Seaurus, <hi rend="italics">see</hi> Terentius.</p>
+
+<p>Scythae, a barbarian people, living north and north-east of the Euxine (Black) Sea.</p>
+
+<p>Seleucus Nicanor, founder of the Syrian monarchy; he reigned from 312 to 280 B.C.</p>
+
+<p><hi rend="italics">Sella,</hi> the name of a comedy of Afranius.</p>
+
+<p>Sempronius, -a, -um, adj. to Sempronius, the gentile name of the Gracchi. The <hi rend="italics">leges Semproniae</hi> of Gaius Gracchus made it unlawful to put a Roman citizen to death.</p>
+
+<p>Sempronius, Ti., plebeian aedile in 246 B.C.</p>
+
+<p>Sempronius Asellio, a Roman writer of history, military tribune in 134 B.C.</p>
+
+<p>Sempronius Gracchus, Ti., father of Gaius and Tiberius Gracchus.</p>
+
+<p>Sempronius Tuditanus, C., an orator and historian, consul in 129 B.C.</p>
+
+<p>Seneca, <hi rend="italics">see</hi> Annaeus.</p>
+
+<p>Servilius Geminus, a character in the <hi rend="italics">Annals</hi> of Ennius.</p>
+
+<p>Servius, <hi rend="italics">see</hi> Tullius.</p>
+
+<p><hi rend="italics">Sestio, Pro,</hi> an oration of M. Tullius Cicero.</p>
+
+<p>Siculi, early inhabitants of Sicily; the term is also used of the Sicilians of later times.</p>
+
+<p>Sidicinus, -a, -um, adj. to (Teanum) Sidicinum; <hi rend="italics">see</hi> Teanum.</p>
+
+<p>Smyrna, a city on the coast of Lydia in western Asia Minor; see Zmyrna.</p>
+
+<p>Sophia, the Greek word for Sapientia, Wisdom.</p>
+
+<p><hi rend="italics">Sotadica,</hi> the name of a work by Accius, so called from the metre in which it was written.</p>
+
+<p>Sotericus, <hi rend="italics">see</hi> note 3, p. 365.</p>
+
+<p><hi rend="italics">Stichus,</hi> the name of a comedy of Plautus.</p>
+
+<p>Stoa, a colonnade in the market-place at Athens, in which Zeno, the Stoic, taught, and from which the Stoic philosophers derived their name.</p>
+
+<p>Stoica, <hi rend="italics">sc.</hi> disciplina, the Stoic doctrine.</p>
+
+<p>Stolo, <hi rend="italics">see</hi> Licinius.</p>
+
+<p><hi rend="italics">Studiosi,</hi> a work of O. Plinius Secundus.</p>
+
+<p>Suculae, the constellation of the Hyades; <hi rend="italics">see</hi> <foreign lang="greek">(Ua/des.</foreign></p>
+
+<p>Suetonius Tranquillus, O.,
+
+<note>For the fragments see A. Reifferscheid, <hi rend="italics">C. Suetoni . . . Reliquiae,</hi> Leipzig, 1860, and for <hi rend="italics">De Grammaticis et Rhetoribus,</hi> R. Robinson, Paris, 1925.</note>
+the famous biographer and encyclopaedic writer of the time of Hadrian.</p>
+
+<p><hi rend="italics">Sulpicium, Ad Servium,</hi> letters of M. Tullius Cicero.</p>  <pb id="v2.p.529"/>
+
+<p>Sulpicius Gallus, P., a contemporary of P. Scipio Africanus.</p>
+
+<p>TARACIA, Gaia, a Vestal virgin of the early days of Rome.</p>
+
+<p>Tarentum, an important Greek city in south-eastern Italy, on the Gulf of Tarentum, modern Taranto.</p>
+
+<p>Tartesius, -a, -um, adj. to Tartessus, an ancient city of south-western Spain. The name Tartessus was latter applied to the district west of the Straits of Gibraltar.</p>
+
+<p>Tatius, T., a king of the Sabines, who later shared the rule of Rome with Romulus.</p>
+
+<p>Taurus, a mountain range in south-eastern Asia Minor.</p>
+
+<p>Taurus, the constellation of the Bull.</p>
+
+<p>Teanum Sidicinum, a town of Campania.</p>
+
+<p>Terentius, M., used as a typical name.</p>
+
+<p>Terentius Scaurus (Q.), a celebrated grammarian of Hadrian's time, author of an <hi rend="italics">Ars Grammatica,</hi> and of commentaries on Plautus, Vergil, and Horace's <hi rend="italics">Ars Poetica.</hi></p>
+
+<p>Thasius, -a, -um, adj. to Thasos, an island in the northern part of the Aegean Sea, near the coast of Thrace.</p>
+
+<p><hi rend="italics">Theaetetus,</hi> the name of a dialogue of Plato.</p>
+
+<p>Theocritus, the most famous of the Greek bucolic poets, belonging to the early part of the third century B.C.</p>
+
+<p>Theodectes, a Greek rhetorician and tragic poet of Phaselis in Lycia.</p>
+
+<p>Theopompus, a Greek historian born in Chios about 378 B.C. He wrote a work called <hi rend="italics">Hellenica</hi> in twelve books, a continuation of the <hi rend="italics">History of Thucydides,</hi> covering the period from 411 to 394 B.C., and <hi rend="italics">Philippica</hi> in fifty-eight books, dealing with the times of Philip of Macedon.</p>
+
+<p>Thermus, <hi rend="italics">see</hi> Minucius.</p>
+
+<p>Theseus, a mythological character, the national hero of Athens.</p>
+
+<p>Thraecus, -a, -um, adj. to Thracia.</p>
+
+<p>Threicii, another form for Thraces, Thracians.</p>
+
+<p>Thysdritanus, -a, -um, adj. to Thysdrus, a city near the coast of northern Africa, south-east of Carthage.</p>
+
+<p>Tiberianus, -a, -um, adj. from Tiberius, the second emperor of Rome. <hi rend="italics">Tiberiana domus,</hi> the palace of Tiberius on the Palatine hill.</p>
+
+<p>Tiberinus, -a, -um, adj. to Tiberis, the Tiber. <hi rend="italics">Campus Tiberinus,</hi> another name for the Campus Martius.</p>
+
+<p>Tibur, a town of Latium about sixteen miles north-east of Rome, modern Tivoli.</p>
+
+<p>Timaeus, an historian of Tauromenium in eastern Sicily. He lived from about 352 to 256 B.C. and spent fifty years of his life in Athens. His great work was a <hi rend="italics">History of Sicily</hi> from the earliest times to 246 B.C., in sixty-eight books.</p>
+
+<p><hi rend="italics">Titulus,</hi> the name of a play of Afranius.</p>
+
+<p>Torquatus, <hi rend="italics">see</hi> Manlius.</p>
+
+<p>Traianus, Trajan, emperor of Rome from A.D. 98 to 117.</p>
+
+<p><hi rend="italics">Trigenmini,</hi> the name of a comedy of Plautus.</p>
+
+<p><hi rend="italics">Trinummus,</hi> the name of a comedy of Plautus.</p>
+
+<p><hi rend="italics">Triphallus,</hi> the name of a comedy of Cn. Naevius.</p>
+
+<p><hi rend="italics">Triumpho suo, De,</hi> a speech of Q. Caecilius Metellus Numidicus.</p>
+
+<p><hi rend="italics">Triumphus,</hi> the name of a play of Caecilius Statius.</p>
+
+<p>Troia, the famous city in north-western Asia Minor.</p>
+
+<p><hi rend="italics">Truculentus,</hi> the name of a comedy of Plautus.</p>
+
+<p>Tuditanus, <hi rend="italics">see</hi> Sempronius.</p>
+
+<p>Tullianus, -a, um, adj. from Tullius, the gentile name of Cicero.</p>
+
+<p>Tullius, Servius, the sixth king of Rome.</p>
+
+<p>Tyrius, -a, -um, adj. from Tyrus, Tyre; used also of Carthage.</p>
+
+<p>USUS, Experience, personified.</p>
+
+<p>Utica, a Phoenician city in northern Africa on the river Bagradas, about twenty-five miles north-west of Carthage.</p>
+
+<p>VALERIUS, used as an example of a personal name in -ius.</p>  <pb id="v2.p.530"/>
+
+<p>Valerius Catullus, the famous lyric poet, born at Verona about 84 B.C. and died in 54.</p>
+
+<p>(Valerius) Laevinus, R., a curule aedile.</p>
+
+<p>Valerius Maximus, a Roman writer of the time of Tiberius.</p>
+
+<p>Valerius Maximus Corvinus (M.), military tribune in 349 B.C.</p>
+
+<p>Valerius Messala, M., consul in 53 B.C. He was noted for his knowledge of augury and wrote a work called <hi rend="italics">De Auspiciis.</hi></p>
+
+<p>Valgius Rufus, C.,
+
+<note>See no. 6.</note>
+a poet of the Augustan age, consul in 12 B.C., who also wrote some learned works.</p>
+
+<p>Velia, a seacoast town of Lucania.</p>
+
+<p>Velinus, adj. from Velia.</p>
+
+<p>Venusinus, -a, -um, adj. to Venusia, a town on the borders of Lucania and Apulia, the birthplace of Horace.</p>
+
+<p>Verres, C., the notorious propraetor of Sicily, prosecuted by Cicero.</p>
+
+<p>Vesevus, Mount Vesuvius, the well-known volcano near Naples.</p>
+
+<p>(<hi rend="italics">Vi et Natura Chamaeliontis, De</hi>), a work of Democritus, mentioned by Pliny the elder.</p>
+
+<p>Victoria, Victory, personified as a deity.</p>
+
+<p><hi rend="italics">Viris Illustribus, De,</hi> a work of Cornelius Nepos.</p>
+
+<p>Virites, deities, or qualities, associated with Quirinus.</p>
+
+<p><hi rend="italics">Voconiam legem qua suasit,</hi> an oration of Cato the Censor.</p>
+
+<p>Voconius, -a, -um, adj. to Voconius. The <hi rend="italics">lex Voconia,</hi> proposed by Q. Voconius, tribune of the commons, in 169 B.C. and supported by Cato the Censor, regulated bequests, especially to women.</p>
+
+<p>XERXES, king of Persia from 485 to 465 B.C.</p>
+
+<p>ZMYRNA, another form of Smyrna.</p></div1>  <pb id="v2.p.531"/>
+
+<div1 type="index"><head>Greek Index</head>
+
+<p><foreign lang="greek">Ai)/as Lokro/s,</foreign> <hi rend="italics">The Locrian Ajax,</hi> a play of Sophocles.</p>
+
+<p><foreign lang="greek">)/Ai+s,</foreign> archaic form for <foreign lang="greek">Ai/dhs,</foreign> Hades, the god of the Lower World.</p>
+
+<p><foreign lang="greek">)Alfeio/s,</foreign> Alpheus, the river of Elis in the Peloponnesus, and the god of the river.</p>
+
+<p><foreign lang="greek">)/Artemis,</foreign> Artemis, daughter of Zeus and Leto, and sister of Apollo. Identified by he Romans with Diana.</p>
+
+<p><foreign lang="greek">)Arxu/tas,</foreign> <hi rend="italics">see</hi> Archytas.</p>
+
+<p><foreign lang="greek">)Afrodi/th,</foreign> Aphrodite, the Greek goddess of love. Identified by the Romans with Venus.</p>
+
+<p><foreign lang="greek">Glau=kos,</foreign> <hi rend="italics">see</hi> Glaucus.</p>
+
+<p><foreign lang="greek">Dhmh/thr,</foreign> Demeter, the Greek goddess of agriculture. Identified by the Romans with Ceres.</p>
+
+<p><foreign lang="greek">Dikaiarxi/a,</foreign> the Greek name of Puteoli, a seaport of Campania, modern Pozzuoli.</p>
+
+<p><foreign lang="greek">)Edesma/twn, Peri,</foreign> a work of M. Terentius Varro, part of his <hi rend="italics">Saturae Menippeae.</hi></p>
+
+<p><foreign lang="greek">(/Ektwr,</foreign> <hi rend="italics">see</hi> Hector.</p>
+
+<p><foreign lang="greek">)Eru/manqos,</foreign> Erymanthus, a mountain range of north-western Arcadia.</p>
+
+<p><foreign lang="greek">Qe/tis,</foreign> Thetis, a daughter of Nereus; mother of Achilles.</p>
+
+<p><foreign lang="greek">)Inw/,</foreign> a tragedy of Euripides.</p>
+
+<p><foreign lang="greek">)Iris,</foreign> Iris, the personification of the rainbow, and messenger of the gods.</p>
+
+<p><foreign lang="greek">)Itali/a,</foreign> Italia.</p>
+
+<p><foreign lang="greek">Kleari/sta,</foreign> the name of a shepherdess in the <hi rend="italics">Idyls</hi> of Theocritus.</p>
+
+<p><foreign lang="greek">Le/sbios,</foreign> <hi rend="italics">see</hi> Lesbius and Lesbos</p>
+
+<p><foreign lang="greek">Lhtw/,</foreign> Leto, the Greek name of Latona, the mother of Artemis (Diana) and Apollo.</p>
+
+<p><foreign lang="greek">Libuko/s,</foreign> Libyan, of Libya, in northern Africa.</p>
+
+<p><foreign lang="greek">Melike/rths,</foreign> <hi rend="italics">see</hi> Melicertes.</p>
+
+<p><foreign lang="greek">Mnh/mhs, Peri/,</foreign> On Memory; <hi rend="italics">see</hi> note 1, p. 37.</p>
+
+<p><foreign lang="greek">Nhrei/+des,</foreign> the Nereids, sea-nymphs, daughters of Nereus.</p>
+
+<p><foreign lang="greek">Nhreu/s,</foreign> Nereus, an aged sea-god, son of Pontus and Gaia.</p>
+
+<p><foreign lang="greek">)Odu/sseia,</foreign> the <hi rend="italics">Odyssey</hi> of Livius Andronicus.</p>
+
+<p><foreign lang="greek">)/Oneiros,</foreign> a Dream, personified.</p>
+
+<p><foreign lang="greek">Pande/ktai,</foreign> <hi rend="italics">Pandects,</hi> encyclopaedic works.</p>
+
+<p><foreign lang="greek">Phleu/s,</foreign> <hi rend="italics">see</hi> Peleus (Index to vol. i).</p>
+
+<p><foreign lang="greek">Pleia/des,</foreign> the Pleiades, a constellation, called by the Romans Vergiliae.</p>
+
+<p><foreign lang="greek">Polupragmosu/nhs, Peri/,</foreign> a work of Plutarch.</p>
+
+<p><foreign lang="greek">Poseida/wn,</foreign> Poseidon, the Greek god of the sea. Identified by the Romans with Neptune.</p>
+
+<p><foreign lang="greek">Puqagorei=oi,</foreign> the followers of Pythagoras.</p>
+
+<p><foreign lang="greek">Purrwnei=oi Tro/poi,</foreign> a work of Favorinus.</p>
+
+<p><foreign lang="greek">Purfo/ros Promhqeu/s,</foreign> O, <hi rend="italics">The Fire bearing Prometheus,</hi> a work of Aeschylus.</p>
+
+<p><foreign lang="greek">(Rw/mh,</foreign> Rome.</p>  <pb id="v2.p.532"/>
+
+<p><foreign lang="greek">Skiomaxi/a,</foreign> one of the Menippean Satires of M. Terentius Varro.</p>
+
+<p><foreign lang="greek">Swkra/ths,</foreign> <hi rend="italics">see</hi> Socrates.</p>
+
+<p><foreign lang="greek">Taranti=nos,</foreign> a native of Tarentum.</p>
+
+<p><foreign lang="greek">Thle/maxos,</foreign> Telemachus, the son of Odysseus (Ulysses).</p>
+
+<p><foreign lang="greek">Thu/+getos,</foreign> Ta&yuml;getus, a mountain range between Laconia and Messenia.</p>
+
+<p><foreign lang="greek">Ti/turos,</foreign> Tityrus, one of the shepherds in the <hi rend="italics">Idyls</hi> of Theocritus.</p>
+
+<p><foreign lang="greek">(Ua/des,</foreign> the Hyades, a constellation. Also called Suculae.</p>
+
+<p><foreign lang="greek">(Ua/kinqos,</foreign> Hyacinthus, the name of a boy.</p>
+
+<p><foreign lang="greek">(Udroku/wn,</foreign> one of the Menippean Satires of M. Terentius Varro; <hi rend="italics">see</hi> note 2, p. 512.</p>
+
+<p><foreign lang="greek">Fqiw/tides,</foreign> the name of a tragedy of Sophocles.</p> 
+</div1>
+</body>
+</text>
+</TEI.2> 

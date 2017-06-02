@@ -1,0 +1,405 @@
+<?xml version="1.0"?> 
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [ 
+<!ENTITY % TEI.XML "INCLUDE"> 
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" > 
+%PersProse; 
+]>
+<TEI.2>
+<teiHeader type="text" status="new">
+<fileDesc>
+<titleStmt>
+<title type="work" n="Inst.">Institutio Oratoria, books 1-3: index</title>
+<title type="sub">Machine readable text</title>
+<author n="Quint.">Quintilian</author>
+ <editor role="editor" n="Butler">Harold Edgeworth Butler</editor>
+&responsibility;
+&fund.AnnCPB;
+</titleStmt>
+<extent>About 100Kb</extent>
+&Perseus.publish;
+<sourceDesc>
+<biblStruct>
+<monogr>
+<author>Quintilian</author>
+<title>With an English Translation</title>
+ <editor role="editor" n="Butler">Harold Edgeworth Butler</editor>
+<imprint>
+<pubPlace>Cambridge</pubPlace>
+<publisher>Cambridge, Mass., Harvard University Press; London, William Heinemann, Ltd.</publisher>
+<date>1920</date>
+</imprint>
+</monogr>
+</biblStruct>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<refsDecl doctype="TEI.2">
+<state unit="entry"/>
+</refsDecl>
+</encodingDesc>
+
+<profileDesc>
+<langUsage>
+	<language id="en">English</language>
+	<language id="la">Latin</language>
+<language id="greek">Greek</language>
+</langUsage>
+</profileDesc>
+<revisionDesc>
+<change><date>2006</date>
+<respStmt><name>GRC</name><resp>tagging</resp></respStmt>
+<item></item>
+</change>
+
+</revisionDesc>
+</teiHeader>
+<text>
+	
+<body><div1 type="chapter"><head>Index</head>
+<p>(<hi rend="italics">Only those names are included which seem to require some explanation; a complete index will be contained in Vol. IV.</hi>)
+</p>
+
+<p>Accius, I. vii. 14; I. viii. 11. Famous tragic poet, fl. 140 B.C.</p>
+
+<p>Aelius Stilo, I. vi. 37. Famous as a philologist, circa 100 B.C.</p>
+
+<p>Aeschines, II. xvii. 12; III. vi. 3. Attic orator, contemporary and opponent of Demosthenes.</p>
+
+<p>Agnon, H. xvii. 15. Academic philosopher and rhetorician, teacher of Carneades, second century.</p>
+
+<p>Albutius Silus, C., II, xv. 36; III. iii. 4; III. vi. 62. Rhetorician of the Augustan period.</p>
+
+<p>Alcidamas, III. i. 10. Rhetorician from Elaea, pupil of Gorgias, <hi rend="italics">fl.</hi> 425 B.C.</p>
+
+<p>Ampius, T., III. viii, 50. T. Ampius Balbus, trib. pleb. 68 B.C., praetor 59. Friend and correspondent of Cicero.</p>
+
+<p>Anaximenes of Lampsacus, III. iv. 9. A rhetorician, who accompanied Alexander on his campaigns.</p>
+
+<p>Antigonus, II. xiii. 12. King of Asia, after Alexander's death.</p>
+
+<p>Antipho, III. i. 11. Orator and instructor of Thucydides.</p>
+
+<p>Antonius, M., II. xv. 7; II. xvii. 5 sq.,; III. i. 19; III. vi. 45. With L. Crassus, the most famous Roman orator prior to Cicero, of whom he was an elder contemporary.</p>
+
+<p>Antonius Gnipho, I. vi. 23. A famous grammarian and rhetorician, contemporary with Cicero.</p>
+
+<p>Antonius Rufus I. v. 43. An early grammarian of uncertain date. Possibly also a dramatic poet.</p>
+
+<p>Apelles, II. xiii. 12. A famous Greek painter, <hi rend="italics">fl.</hi> 330 B.C.</p>
+
+<p>Apollodorus of Pergamus, II. xv. 12; III. i. 1, 17; III. v. 17; III. vi. 35 <hi rend="italics">sq.</hi>; III. xi. 3. Cp. II. xi. 2; II. xv. 12; III. 1. 18. A distinguished rhetorician of the Augustan ago.</p>
+
+<p>Apollonius Molon of Rhodes, III. i. 16. A famous rhetorician. Cicero was among his pupils.</p>
+
+<p>Appius Caecus, II. xvi. 7; III. viii. 54. Consul 307 B.C.; specially famous for the speech by which he persuaded the senate to reject Pyrrhus' terms of peace. The earliest great orator of Rome.</p>
+
+<p>Aquilius Manius, II. xv. 8. Accused of maladministration in Sicily, 98 B.C.</p>
+
+<p>Archedemus, III. vi. 31, 33. A rhetorician of the generation following Aristotle.</p>
+
+<p>Archimedes, I. x. 48. The famous mathematician of Syracuse, who perished in the sack of that city by the Romans, 212 B.C., after prolonging the siege by his skill in the construction of siege engines.</p>
+
+<p>Archytas, I. x. 17. Pythagorean philosopher, mathematician and statesman of Tarentum, <hi rend="italics">fl.</hi> 400 B.C.</p>
+
+<p>Areus, II. xv. 38; III. i. 16. Stoic
+
+<pb id="p.540"/>
+
+philosopher of Alexandria, first century B.C.</p>
+
+<p>Argiletum, I. vi. 31. District near the Aventine, popularly derived from <hi rend="italics">argilla</hi> (clay) or <hi rend="italics">Argi letum</hi> (the death of a mythical Argus).</p>
+
+<p>Aristarchus, I, iv. 20. A famous Alexandrian critic and grammarian, pupil of Aristophanes of Byzantium.</p>
+
+<p>Ariston, II. xv. 19. Peripatetic philosopher, disciple of Critolaus.</p>
+
+<p>Aristophanes of Byzantium, I. i. 15. A famous Alexandrian critic and grammarian, <hi rend="italics">fl.</hi> 260 B.C.</p>
+
+<p>Aristoxenus, I. x. 22. Peripatetic philosopher and musician, contemporary with Aristotle.</p>
+
+<p>Athenaeus, II. xv. 23; III. i. 16; III. iii. 13; III. v. 5; III. vi. 47. Rhetorician and opponent of Hermagoras (i).</p>
+
+<p>Athenodorus of Rhodes, II. xvii. 15. Otherwise unknown.</p>
+
+<p>Atticus, III. i. 18. Dionysius surnamed Atticus, rhetorician, pupil of Apollodorus.
+</p>
+
+<p>Beneventum, I. vi. 31. Town in S. Italy, originally Maleventum, but changed for luck to Beneventum.</p>
+
+<p>Brutus (i), I. vi. 31. The expeller of the kings, so called from feigning to be half-witted (<hi rend="italics">brutus</hi>).</p>
+
+<p>Brutus (ii), III. vi. 93. The murderer of Caesar, famous as an orator of the Attic school.</p>
+
+<p>Busiris, II. xvii. 4. Legendary king of Egypt, who sacrificed to the gods all foreigners who entered Egypt.</p>
+
+<p>Caecilius (i), I. viii. 11. Famous comic poet, d. 168 B.C.</p>
+
+<p>Caecilius (ii), III. 1. 16; III. vi. 48. Sicilian rhetorician, who taught at Rome in the reign of Augustus.</p>
+
+<p>Caelius Rufus, <hi rend="italics">M., I.</hi> v. 61; I. vi. 29, 42; III. viii. 54. Younger contemporary of Cicero, distinguished as an orator.</p>
+
+<p>Calvus, C., I. vi. 42. Younger contemporary of <hi rend="italics">Cicero,</hi> poet and orator, with Brutus chief representative of the Attic school.</p>
+
+<p>Capitolium, I. vi. 31. The Capitol at Rome, fancifully derived from <hi rend="italics">caput Oli,</hi> the head of Olus alleged to have been dug up there.</p>
+
+<p>Cato, M., the Censor, I. vi. 42; I. vii. 23; II. v. 21; II. xv. 8; III. i. 19; III. vi. 97. The famous opponent of Carthage, one of the most distinguished writers and orators of his day. 234&ndash;149 B.C.</p>
+
+<p>Cato Uticensis, III. v. 8; III. viii. 49. Contemporary of Cicero and among the most ardent opponents of Caesar.</p>
+
+<p>Celsus, Cornelius, II. xv. 22, 32; III. i. 21; III. v. 3; III. vi. 3, 38; III. vii. 25. Writer on medicine rhetoric and many other subjects; flourished under Augustus and Tiberius.</p>
+
+<p>Cethegus, M., II. xv. 4. Consul 204. Famous as an orator.</p>
+
+<p>Chrysippus, I. i. 4, 16; I. iii. 14; I. x. 32; I. xi. 17; II. xv. 34. The most famous of Stoic philosophers, <hi rend="italics">fl.</hi> 250 B.C.</p>
+
+<p>Claudius, I. vii. 26. The emperor.</p>
+
+<p>Cleanthes, II. xv. 31; II. xvii. 41. One of the earliest Stoic philosophers; successor of Zeno; slightly earlier than Chrysippus.</p>
+
+<p>Clodius, II. iv. 35; III. v. 10; III. vii. 2; III. viii. 54; III. xi. 15, 17. Demagogue and inveterate enemy of Cicero.</p>
+
+<p>Colotes, II. xiii. 13. A famous painter, circa 276 B.C.</p>
+
+<p>Corax, II. xvii. 7; III. i. 8. One of the earliest writers on rhetoric. A Sicilian, <hi rend="italics">fl.</hi> circa 470 B.C.</p>
+
+<p>Cornelius Gallus, I. v. 8. Friend of Virgil and Augustus, first of the elegiac poets of Rome and governor of Egypt, d. 25 B.C.</p>
+
+<p>Cornificius, III. i. 21. Rhetorician, contemporary with Cicero. Probably author of the rhetorical treatise <hi rend="italics">ad Herennium.</hi></p>
+<p>Crassus, L., I. xi. 8; II. iv. 42 .
+
+
+<pb id="p.541"/>
+
+II. XX. 9. With L. Antonius the chief Roman orator prior to Cicero, of whom he was an elder contemporary.</p>
+
+<p>Crates, I. ix. 5. Athenian philosopher, <hi rend="italics">fl. circa</hi> 280 B.C.</p>
+
+<p>Critolaus, II. xv. 19, 23; II. xvii. 15. A Peripatetic of the second century.
+</p>
+
+<p>Demades, II. xvii. 13. An Athenian orator, contemporary with Demosthenes.</p>
+
+<p>Demetrius of Phalerum, II. iv. 41. Statesman, poet, philosopher and orator, 345&ndash;283 B.C.</p>
+
+<p>Didymus, I. viii. 20. Alexandrian grammarian and polymath, contemporary with Cicero, variously alleged to have written 3,500 or 4,000 books.</p>
+
+<p>Diogenes of Babylon, I. i. 9. Stoic of the second century.</p>
+
+<p>Dion, I. x. 48. Syracusan disciple of Plato, expelled Dionysius the tyrant and became ruler of Syracuse, where he was murdered, 353 B.C.</p>
+
+<p>Dion of Prusa, III. iii. 6, 8. Orator and philosopher, known as Chrysostomus. Contemporary of Quintilian.</p>
+
+<p>Dionysius of Halicarnassus, III. i. 16. Famous rhetorician and historian of the Augustan age.</p>
+
+<p>Domitius, III. i. 18. Probably Domitius Marsus, a distinguished man of letters of the Augustan age.
+</p>
+
+<p>Egeria, II. iv. 19. A nymph, counsellor of King Numa.</p>
+
+<p>Empedocles, I. iv. 4; III. i. 8. Famous philosopher of Agrigentum, <hi rend="italics">fl.</hi> 450 B.C.</p>
+
+<p>Ennius, I. v. 12; I. vi. 12; I. viii. 11; II. xv. 4; II. xvii. 24. The greatest of the early Roman poets. His chief work was the <hi rend="italics">Annales,</hi> the epic of Roman history. Also wrote drama and satire. D. 169 B.C.</p>
+
+<p>Ephorus, II. viii. 11. Wrote a history of Greece from the earliest times to 341 B.C.</p>
+
+<p>Eratosthenes, i. 1. 16. Poet, geometrician, astronomer and grammarian. Librarian of Alexandria, 276&ndash;196 B.C.</p>
+
+<p>Euenus, I. x. 17. Poet and sophist, contemporary with Plato.</p>
+
+<p>Eupolis, I. x. 18. A poet of the old comedy, and rival of Aristophanes.
+</p>
+
+<p>Fabius Pictor, I. vi. 12. Earliest of Roman historians: wrote the history of Home down to the battle of Zama.</p>
+
+<p>Flaminius, II. xvi. 5. General defeated by Hannibal at the battle of L. Trasimene.
+</p>
+
+<p>Galba, Servius, II. xv. 8. Praetor in Spain, put to death a number of Lusitanians whom he had promised to spare, for which he was brought to trial on his return to Rome, 150 B.C.</p>
+
+<p>Gallio, Iunius, III. i. 21. Orator and friend of Ovid.</p>
+
+<p>Gavius Bassus, I. vi. 36. Grammarian of early Augustan age.</p>
+
+<p>Glaucia (C. Servilius), II. xvi. 6. Praetor 100 B.C. Supporter of the tribune Saturninus, with whom he perished.</p>
+
+<p>Gorgias of Leontini, II. xxi. 21; III. i. 8, 12, 13, 18; III. viii. 9. The most famous of Greek sophists and rhetoricians in the fifth century. Born about 480 B.C.
+</p>
+
+<p>Hermagoras (i), I. v. 61; II. xv. 14; II. xxi. 21; III. i. 16: III. iii. 9; III. v. 4, 14; III. vi. 3, 21, 53, 56, 59 <hi rend="italics">sq.</hi>; III. xi. 1, 3, 18, 22. Famous rhetorician of the Rhodian school, contemporary with Cicero.</p>
+
+<p>Hermagoras (ii), III. i. 18. Surnamed Carion, rhetorician of the Augustan age.</p>
+
+<p>Hippias of Ella, III. i. 10, 12. Famous sophist, contemporary with Socrates.</p>
+
+<p>Hortensia, I. i. 6. Daughter of the orator Hortensius. Pleaded
+
+<pb id="p.542"/>
+
+before Octavian, Antony and Lepidus for remission of part of the tax imposed on married women.</p>
+
+<p>Hortensius, I. v. 12; II. i. 1, 11; III. v. 11. The leading orator at Rome when Cicero first made his appearance at the bar, and the latter's most serious rival.</p>
+
+<p>Hyperbolus, I. x. 18. Athenian demagogue at end of fifth century B.C.</p>
+
+<p>Hyperides, II. xv. 9. Attic orator contemporary with Demosthenes and ranked as second only to him.</p>
+
+<p>Hypobolimaeus, I. x. 18. <quote>The Supposititious Son,</quote> a lost play of Menander.
+</p>
+
+<p>Irus, III. vii. 19. A beggar who fights Odysseus in the <hi rend="italics">Odyssey.</hi></p>
+<p>Isocrates, II. viii. 11; II. xv. 4, 33; III. i. 13 <hi rend="italics">sqq,</hi>; III. iv. 11; III. v. 18; III. vi. 3; III. viii. 9. Famous orator and founder of the science and technique of Greek rhetoric. 436&ndash;338 B.C.</p>
+
+<p>Italia, I. vi. 31. From <foreign lang="greek">i)/taloi</foreign> = oxen, <hi rend="italics">i.e.,</hi> Oxland.
+</p>
+
+<p>Labienus, I. v. 8. Orator and historian under Augustus.</p>
+
+<p>Laelia, I. i. 6. Daughter of Laelius the wise and wife of Scaevola. She was famous for the pure Latinity of her conversation.</p>
+
+<p>Lacnas, Popilius, III. i. 21. Rhetorician probably of the reign of Tiberius.</p>
+
+<p>Latium, I. vi. 31. Probably from <hi rend="italics">lotus</hi> = the broad lands: popularly derived from <hi rend="italics">latere,</hi> because Saturn lay hid there.</p>
+
+<p>Leonidas, I. i. 9. Uncle and tutor of Alexander the Great.</p>
+
+<p>Lucilius, I. v. 56; I. vi. 8; I. vii. 15, 19; I. viii. 11. The founder of Roman satire. D. 103 B.C.
+</p>
+
+<p>Maelius, Spurius, III. vii. 20. Bought up corn in time of dearth and sold it cheap to the people in 410 B.C. Was suspected of wishing to seize the supreme power and killed in the following year.</p>
+
+<p>M. Manlius Capitolinus, III. vii. 20. Saved Home from the Gauls, but was subsequently suspected of aiming at supreme power and hurled from the Tarpeian rock in 384 B.C.</p>
+
+<p>Marcellus Victorius, Ep. ad Tryph. 1; 1 Pr. 5. Nothing is known of him except for the fact that Statius dedicated the Fourth Book of the <hi rend="italics">Silvae</hi> to him.</p>
+
+<p>Matius, III. i. 18. A friend of Augustus.</p>
+
+<p>Messala, I. v. 15, 61; I. vi. 42; I. vii. 23, 34. Distinguished orator and philologist of the Augustan age.</p>
+
+<p>Milo of Croton, I. ix. 5. A famous athlete of the sixth century B.C.</p>
+
+<p>Modestus, I. vi. 36. Probably Iulius Modestus, a grammarian who flourished in the principate of Tiberius.
+</p>
+
+<p>Naucrates, III. vi. 3. Orator and rhetorician, famous for the funeral oration on Mausolus, king of Caria, in 352 B.C.</p>
+
+<p>Nicias, I. x. 48. Athenian statesman and general, was captured with his army in Sicily owing to his refusal to march during eclipse of the moon, 413 B.C.</p>
+
+<p>Nireus, III. vii. 10. The handsomest man in the Greek army at Troy.
+</p>
+
+<p>Pacuvius, I. v. 67; I. viii. 11; I. xii. 18. Famous tragic poet, 220&ndash;130 B.C.</p>
+
+<p>Palaemon, Remmius, I. iv. 20; I. vi. 35. Famous <hi rend="italics">grammaticus,</hi> taught Quintilian, <hi rend="italics">fl. circa</hi> 30 A.D.</p>
+
+<p>Palamedes, III. i. 10. Greek chief in the Trojan war, put to death on false accusation of treachery. He was later regarded by the sophists as their prototype.</p>
+
+<p>Pamphilus, III. vi. 34. A rhetorician mentioned by Aristotle.</p>
+
+<p>Patrocles, II. xv. 16; III. vi. 44.
+
+<pb id="p.543"/>
+
+Rhetorician otherwise unknown. Some read Iatrocles.</p>
+
+<p>Paulus, L., I. x. 47. The famous general, surnamed Macedonicus, on account of his successful campaign in Macedonia (168 B.C.) during which the incident referred to occurred.</p>
+
+<p>Pedianus, Asconius, I. vii. 24. Distinguished historian and critic, contemporary with Quintilian.</p>
+
+<p>Pericles, I. x. 47. The eclipse in question occurred in 430 B.C. on the eve of an expedition to the Peloponnese.</p>
+
+<p>Phoenix, II. iii. 12. The tutor of Achilles in the <hi rend="italics">Iliad.</hi></p>
+<p>Plautus, II. xiv. 2; III. vi. 23. Probably the Stoic Rubellius Plautus, d. 62 A.D.</p>
+
+<p>Plisthenes, III. vii. 19. A son of Atreus. The allusion is uncertain.</p>
+
+<p>Plotins, II. iv. 42. A rhetorician and older contemporary of Cicero.</p>
+
+<p>Poilio, Asinius, I. v. S, 56; I. vi. 42; I. viii. 11. Famous orator, poet and historian of the Augustan age.</p>
+
+<p>Polycrates, II. xvii. 4; III. i. 11. An Athenian rhetorician, contemporary with Socrates.</p>
+
+<p>Posidonius, III. vi. 37. Famous philosopher of the Middle Stoa, who taught at Rome in the time of Cicero.</p>
+
+<p>Prodicus of Cos, III. i. 10, 12. Sophist of the fifth century B.C.</p>
+
+<p>Protagoras of Abdera, III. i. 10, 12. Sophist of the fifth century B.C.</p>
+
+<p>Publicola, I. vi. 31; III. vii. 18. Name (= friend of the people) given to M. Valerius, consul in opening year of the republic.</p>
+
+<p>Pythicus, I. vi. 31. Cognomen in the family of Sulpicius Camerinus (see Dio, 63, 18); origin unknown.</p>
+
+<p>Quirinalis, collis, I. vi. 31, Variously derived from Quirinus, Quirites, and the Sabine town of Cures.</p>
+
+<p>Saturninus, II. xvi. 5. Tribune and demagogue, killed 100 B.C.</p>
+
+<p>Sisenna, I. v. 13. Historian and man of letters with a passion for rare words; an elder contemporary of Cicero.</p>
+
+<p>Sophron, I. x. 17. Famous Sicilian writer of mimes, <hi rend="italics">fl.</hi> 450 B.C.</p>
+
+<p>Sotades, I. viii. 6. Alexandrian writer of indecent lampoons, third century B.C.</p>
+
+<p>Stertinius, III. i. 21. Stoic writer of the Augustan age.</p>
+
+<p>Subura, I. vii. 29. A quarter of Rome near the Esquiline.</p>
+
+<p>Sulpicius, Gallus, I. x. 47; II. xv. 8. Astronomer. Consul 166 B.C. A relative of Servius Sulpicius Galba. <hi rend="italics">q.v.</hi></p>
+<p>Sulpicius, Servius, III. viii. 5. Distinguished orator contemporary with Cicero, died on an embassy to Mark Antony.</p>
+
+<p>Theodectes, I. iv. 18; II. xv. 10; III. i. 14. Rhetorician of first half of fourth century B.C.</p>
+
+<p>Theodorus (i), of Byzantium, III. i.11. Rhetorician contemporary with Plato.</p>
+
+<p>Theodorus (ii), of Gadara, II. xv, 16, 21; III. i. 17; III. vi. 2, 36, 51; III. xi. 3. Famous rhetorician of the Augustan age. <hi rend="italics">Theodorei</hi> = his followers.</p>
+
+<p>Theodotus, III. viii. 55. Rhetorician of Samos, by whose advice Pompey was murdered; was put to death by Brutus, 43 B.C.</p>
+
+<p>Theon, III. vi. 48. Stoic and rhetorician of the Augustan age.</p>
+
+<p>Theopompus (i), II. viii. 11. Famous Greek historian of latter half of fourth century B.C.</p>
+
+<p>Theopompus (ii), of Sparta, II. xvii. 20. (?) King of Sparta, eighth century B.C.</p>
+
+<p>Thersites, III. vii. 19. The misshapen demagogue of the <hi rend="italics">Iliad.</hi></p>
+<p>Thrasybulus, III. vi. 26. Overthrew the Thirty tyrants. of Athens, 404 B.C.
+
+<pb id="p.544"/>
+</p>
+
+<p>Thrasymachus, III. i. 10; III. iii. 4, 12. Rhetorician contemporary with Plato.</p>
+
+<p>Timagenes, I. x. 10. Rhetorician who came to Rome in 55 B.C. from Alexandria.</p>
+
+<p>Timanthes, II. xiii. 13. Painter, <hi rend="italics">fl.</hi> 400 B.C.</p>
+
+<p>Timotheus, II. iii. 3. Celebrated fluteplayer of Thebes in the time of Alexander.</p>
+
+<p>Tinga of Placentia, I. v. 12. Contemporary of Cicero, famous for his wit.</p>
+
+<p>Tisias, II. xvi. 3; II. xvii. 7; III. i. 8. One of the earliest writers on rhetoric, pupil of Corax, <hi rend="italics">q.v.</hi></p>
+<p>Trypho. Introductory letter. A well-known bookseller and publisher at Rome.</p>
+
+<p>Tutilius, III. i. 21. Rhetorician, contemporary with Quintilian.
+</p>
+
+<p>Valerius Corvinus, II. iv. 18. Consul, 348, 340, 343 B.C.</p>
+
+<p>Valgius Rufus, C., III. i. 18; III. v. 17. Grammarian an rhetorician of the Augustan age.</p>
+
+<p>Varius, III. viii. 45. Dramatist and epic poet; friend of Virgil and editor of the <hi rend="italics">Aeneid.</hi> His tragedy, the Thyestes is highly praised, X. i. 98.</p>
+
+<p>Varro of Atax, I. v. 17. Poet of the last years of the republic translated Apollonius Rhodius and Aratus and wrote elegies in honour of his mistress Leucadia.</p>
+
+<p>Varro of Reate, I. iv. 4; I. vi. 12. 37. The most learned of Roman writers. Wrote on grammar agriculture and antiquities; also Menippean satires; d. at great age, 28 B.C.</p>
+
+<p>Verginius Flavus, III. i. 21; III vi. 45. Famous rhetorician, who flourished under Nero.
+</p>
+
+<p>Zeno of Citium, II. xx. 7. Famous Stoic philosopher of first half of third century B.C.</p>
+
+<p>Zopyrus of Clazomenae, III. vi 3. Rhetorician, flourished in first half of third century B.C.
+
+</p></div1>
+</body>
+</text>
+</TEI.2>
